@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Customer_Name,Gender,Age,City,State,Product_Category,Product_Name,Quantity,Price,Discount,Sales,Profit,Payment_Method,Order_Date,Delivery_Date,Rating,Returned
+OD-1001,C-5328,Joseph Garcia,Male,19,Dallas,TX,Fashion,Jeans,2,66.77,0.25,100.16,27.26,Cash on Delivery,2023-02-14,2023-02-21,1.0,Yes
+OD-1002,C-5048,  Anthony Thomas  ,Male,32,Charlotte,NC,Books,Fiction Novel,5,12.58,0.25,47.17,12.28,Net Banking,2023-04-23,2023-05-01,3.0,Yes
+OD-1003,C-5389,Christopher Martinez,Male,62,Indianapolis,IN,Home Decor,Area Rug,2,51.5,0.3,72.1,10.89,Credit Card,2023-07-14,2023-07-16,3.5,No
+OD-1004,C-5310,Steven Martin,Male,69,Los Angeles,CA,Sports,Running Shoes,5,$26.24,0.15,111.52,8.21,UPI,2023-11-18,2023-11-24,2.5,No
+OD-1005,C-5024,Mark Moore,Male,67,San Jose,CA,Electronics,Laptop,1,475.27,0.15,403.98,97.24,UPI,2023-03-25,2023-03-31,3.5,No
+OD-1006,C-5344,  Paul Lee  ,Male,62,Chicago,IL,Books,History Book,2,18.61,0.05,35.36,3.5,Net Banking,2023-05-19,2023-05-23,3.5,Yes
+OD-1007,C-5118,Robert Williams,Male,69,Austin,TX,Beauty,Perfume,1,21.33,0.2,17.06,5.34,UPI,2023-04-19,2023-04-27,4.0,No
+OD-1008,C-5074,Steven Martin,Male,26,San Diego,CA,Sports,Backpack,5,32.04,0.2,128.16,22.88,Cash on Delivery,2023-07-24,2023-07-30,2.5,No
+OD-1009,C-5261,Lisa Anderson,Female,23,Los Angeles,CA,Electronics,Laptop,6,356.39,0.25,1603.76,283.3,Credit Card,2023-07-17,2023-07-24,4.5,No
+OD-1010,C-5129,Ashley Jackson,Female,18,Houston,TX,Sports,Backpack,3,53.28,0.1,143.86,12.01,Net Banking,2023-03-22,2023-03-30,1.0,No
+OD-1011,C-5498,Betty Taylor,Female,66,Philadelphia,PA,Books,Fiction Novel,6,14.37,0.25,64.66,13.08,Debit Card,2023-03-20,2023-03-26,2.0,No
+OD-1012,C-5489,Margaret Thomas,Female,18,El Paso,TX,Home Decor,Throw Pillow,1,44.05,0.1,39.64,12.43,UPI,2023-05-03,2023-05-04,2.5,No
+OD-1013,C-5485,David Miller,Male,23,Fort Worth,TX,Electronics,Bluetooth Speaker,2,339.33,0.15,576.86,192.7,Debit Card,2023-05-16,2023-05-23,2.5,No
+OD-1014,C-5387,Matthew Taylor,Male,63,San Jose,CA,Beauty,Shampoo,6,26.2,0.2,125.76,23.32,Debit Card,2023-04-26,2023-04-28,3.5,Yes
+OD-1015,C-5302,Ashley Jackson,Female,32,Denver,CO,Fashion,T-Shirt,1,65.22,0.0,65.22,7.74,Credit Card,2023-06-19,2023-06-21,5.0,No
+OD-1016,C-5143,Lisa Anderson,Female,31,Seattle,WA,Fashion,Socks,5,58.12,0.05,276.07,78.79,Net Banking,2023-04-08,2023-04-10,-2.0,No
+OD-1017,C-5182,Jessica Garcia,Female,44,Columbus,OH,Sports,Yoga Mat,6,48.45,0.25,218.03,17.34,Net Banking,2023-06-23,2023-06-25,2.5,No
+OD-1018,C-5098,Sandra Moore,Female,46,Phoenix,AZ,Beauty,Moisturizer,3,28.88,0.3,60.65,19.83,Net Banking,2023-10-09,2023-10-11,1.0,No
+OD-1019,C-5429,James Smith,Male,23,San Diego,CA,Fashion,Sneakers,4,52.99,0.3,148.37,25.27,Credit Card,2023-03-26,2023-04-02,1.0,No
+OD-1020,C-5136,Karen Wilson,Female,36,Indianapolis,IN,Sports,Tennis Racket,5,48.8,0.15,207.4,20.0,UPI,abcd-ef-gh,2023-04-23,5.0,Yes
+OD-1021,C-5383,Mary Smith,Female,21,Los Angeles,CA,Books,Cookbook,5,25.55,0.2,102.2,9.94,Cash on Delivery,2023-02-11,2023-02-14,1.5,No
+OD-1022,C-5035,Donald Jackson,Male,43,Houston,TX,Books,Biography,5,19.7,0.2,78.8,5.88,Cash on Delivery,2023-10-17,2023-10-23,3.0,No
+OD-1023,C-5343,Mary Smith,Female,33,Dallas,TX,Beauty,Moisturizer,6,34.37,0.15,175.29,25.39,Credit Card,2023-01-05,2023-01-13,1.5,No
+OD-1024,C-5276,Anthony Thomas,female ,50,LOS ANGELES,TX,ELECTRONICS,Jacket,1,74.48,0.1,67.03,9.08,credit card,2023-10-06,2023-10-11,5.0,NO
+OD-1025,C-5342,Ashley Jackson,Female,37,Houston,TX,Fashion,Jacket,1,75.04,0.25,56.28,12.15,UPI,2023-05-25,2023-05-29,3.5,No
+OD-1026,C-5352,Steven Martin,Male,50,Fort Worth,TX,Home Decor,Wall Art,1,81.67,0.3,57.17,7.6,Credit Card,2023-06-20,2023-06-23,3.0,No
+OD-1027,C-5380,Sarah Rodriguez,Female,53,Indianapolis,IN,Books,Fiction Novel,1,10.35,0.25,7.76,2.49,Cash on Delivery,2023-01-19,2023-01-25,5.0,No
+OD-1028,C-5221,Thomas Rodriguez,Male,20,San Jose,CA,Home Decor,Wall Art,3,51.13,0.05,145.72,36.44,UPI,2023-10-14,2023-10-21,2.0,No
+OD-1029,C-5443,  Christopher Martinez  ,Male,69,Philadelphia,PA,Beauty,Lipstick,2,37.1,0.1,66.78,19.01,Net Banking,2023-12-09,2023-12-13,3.0,No
+OD-1030,C-5404,Richard Davis,Male,42,Los Angeles,CA,Beauty,Moisturizer,2,39.5,0.15,67.15,10.4,Debit Card,2023-04-25,2023-04-26,2.5,No
+OD-1031,C-5169,Paul Lee,female ,22,new york,TX,Sports  ,Curtains,5,64.78,0.3,226.73,47.81,Cash on Delivery,2023-03-01,2023-03-06,2.0,YES
+OD-1032,C-5493,Steven Martin,Male,20,Houston,TX,Books,Cookbook,3,22.11,0.1,59.7,10.8,Cash on Delivery,2023-03-01,2023-03-08,2.5,No
+OD-1033,C-5023,Jessica Garcia,Female,18,Charlotte,NC,Books,History Book,6,25.92,0.25,116.64,29.3,UPI,2023-08-09,2023-08-11,3.5,No
+OD-1034,C-5161,Joseph Garcia,Male,64,San Jose,CA,Books,Self-Help Book,6,16.35,0.15,83.39,-21.61,Cash on Delivery,2023-03-07,2023-03-11,4.0,No
+OD-1035,C-5347,Daniel Anderson,Male,57,Denver,CO,Home Decor,Throw Pillow,5,96.03,0.1,432.13,58.8,Net Banking,2023-10-24,2023-10-30,4.5,No
+OD-1036,C-5227,Anthony Thomas,Male,50,Fort Worth,TX,Sports,Dumbbells,6,24.56,0.2,117.89,29.37,Cash on Delivery,2023-06-21,2023-06-23,2.5,No
+OD-1037,C-5116,Matthew Taylor,Male,27,New York,NY,Electronics,Laptop,4,600.09,0.3,1680.25,120.72,Net Banking,2023-11-19,2023-11-23,4.0,No
+OD-1038,C-5205,Donald Jackson,Male,27,New York,NY,Electronics,Smartwatch,2,364.98,0.25,547.47,112.44,Credit Card,2023-10-13,2023-10-17,1.5,No
+OD-1039,C-5069,Karen Wilson,Female,60,Charlotte,NC,Books,Sci-Fi Novel,3,26.1,0.15,66.56,15.56,Cash on Delivery,2023-08-07,2023-08-15,2.0,No
+OD-1040,C-5231,Steven Martin,Male,66,San Diego,CA,Sports,Water Bottle,5,41.35,0.05,196.41,26.0,Credit Card,2024-01-01,2024-01-06,2.5,No
+OD-1041,C-5172,Mary Smith,Female,52,Chicago,IL,Fashion,Jeans,2,47.68,0.05,90.59,23.73,Credit Card,2023-08-01,2023-08-08,3.5,No
+OD-1042,C-5239,Susan Davis,Female,21,San Antonio,TX,Beauty,Mascara,5,43.38,0.0,216.9,66.59,Cash on Delivery,31-02-2023,2023-07-22,1.0,No
+OD-1043,C-5153,Elizabeth Jones,Female,44,Seattle,WA,Sports,Tennis Racket,5,54.59,5%,259.3,50.94,UPI,2023-08-12,2023-08-20,1.0,No
+OD-1044,C-5173,Barbara Miller,Female,64,Philadelphia,PA,Beauty,Moisturizer,5,31.02,0.15,131.83,30.0,Credit Card,2023-02-12,2023-02-19,2.0,No
+OD-1045,C-5094,Michael Brown,Male,34,San Francisco,CA,Home Decor,Table Lamp,4,59.53,0.3,166.68,52.32,UPI,2023-08-04,2023-08-09,1.5,No
+OD-1046,C-5010,Sandra Moore,Female,21,Jacksonville,FL,Fashion,Socks,1,69.19,0.25,51.89,3.22,Credit Card,2023-05-07,2023-05-11,1.0,No
+OD-1047,C-5079,Donald Jackson,Male,26,Fort Worth,TX,Sports,Yoga Mat,5,60.81,0.15,258.44,67.15,UPI,2023-03-27,2023-03-29,2.0,No
+OD-1048,C-5056,Kimberly Lee,Female,19,San Jose,CA,Books,History Book,4,16.14,0.25,48.42,5.3,Cash on Delivery,2023-12-20,2023-12-24,1.5,No
+OD-1049,C-5436,Emily Perez,Female,69,Houston,TX,Books,Fiction Novel,3,18.59,0.25,41.83,6.74,Cash on Delivery,2023-11-28,2023-12-04,1.0,No
+OD-1050,C-5422,Lisa Anderson,Female,24,Indianapolis,IN,Home Decor,Curtains,4,86.93,0.15,295.56,30.4,Cash on Delivery,2023-11-30,2023-12-05,5.0,No
+OD-1051,C-5239,Jessica Garcia,Female,70,Denver,CO,Home Decor,Area Rug,2,$95.81,0.0,191.62,25.62,Net Banking,2023-05-05,2023-05-13,4.0,No
+OD-1052,C-5015,Lisa Anderson,Female,38,Philadelphia,PA,Beauty,Moisturizer,3,38.93,0.1,105.11,14.07,Cash on Delivery,2023-12-26,2023-12-31,5.0,Yes
+OD-1053,C-5265,Matthew Taylor,Male,23,San Diego,CA,Sports,Running Shoes,4,44.32,0.05,168.42,43.31,Net Banking,2023-08-18,2023-08-19,1.5,No
+OD-1054,C-5114,Barbara Miller,Female,62,San Diego,CA,Home Decor,Curtains,5,62.57,0.2,250.28,52.38,Net Banking,2023-10-09,2023-10-15,3.5,No
+OD-1055,C-5139,Joshua Thompson,Male,34,San Diego,CA,Electronics,Tablet,2,440.4,0.25,660.6,139.23,Debit Card,2023-04-09,2023-04-13,4.5,No
+OD-1056,C-5371,Kimberly Lee,Female,66,Charlotte,NC,Books,Self-Help Book,1,23.99,0.1,21.59,2.55,Debit Card,2023-06-04,2023-06-05,5.0,No
+OD-1057,C-5141,  Robert Williams  ,Male,21,Seattle,WA,Home Decor,Curtains,2,81.93,0.3,114.7,22.63,Credit Card,2023-10-21,2023-10-26,4.5,No
+OD-1058,C-5226,Patricia Johnson,Female,29,Los Angeles,CA,Home Decor,Throw Pillow,1,95.19,0.15,80.91,15.98,Cash on Delivery,2023-11-19,2023-11-20,2.0,No
+OD-1059,C-5416,Dorothy Martin,Female,37,Chicago,IL,Fashion,T-Shirt,5,68.28,0.2,273.12,62.5,Cash on Delivery,2023-04-26,2023-05-03,4.5,No
+OD-1060,C-5153,Kimberly Lee,male,45, dallas,CA,electronics,Sci-Fi Novel,1,19.97,0.25,14.98,1.19,upi,2023-11-17,2023-11-21,3.0,no
+OD-1061,C-5081,Donald Jackson,Male,29,Seattle,WA,Electronics,Laptop,1,490.6,0.25,367.95,83.95,UPI,2023-01-17,2023-01-21,3.0,No
+OD-1062,C-5360,Karen Wilson,Female,22,San Diego,CA,Home Decor,Curtains,5,83.61,0.05,397.15,70.51,Cash on Delivery,2023-04-26,2023-04-29,3.0,No
+OD-1063,C-5037,Michael Brown,Male,28,San Jose,CA,Books,History Book,5,25.58,0.15,108.71,9.49,UPI,2023-12-25,2024-01-01,3.0,No
+OD-1064,C-5277,Lisa Anderson,Female,46,Chicago,IL,Books,Fiction Novel,4,22.22,0.2,71.1,8.9,Credit Card,2023-04-28,2023-04-29,3.0,No
+OD-1065,C-5021,Daniel Anderson,Male,48,Charlotte,NC,Sports,Running Shoes,3,28.62,0.2,68.69,12.42,Net Banking,abcd-ef-gh,2023-02-24,3.5,No
+OD-1066,C-5171,Mary Smith,Female,60,Houston,TX,Fashion,Jacket,4,64.46,0.1,232.06,57.73,Net Banking,2023-10-09,2023-10-10,4.5,No
+OD-1067,C-5162,,FEMALE,,new york,TX,  Fashion ,Face Wash,,,0.2,27.78,5.24,COD,2023-04-07,,,YES
+OD-1068,C-5390,,F,,  Chicago,TX,Beauty  ,Biography,,,0.25,38.0,7.43,DEBIT CARD,2023-11-19,,,NO
+OD-1069,C-5283,James Smith,Male,53,Indianapolis,IN,Electronics,Laptop,1,519.18,0.0,519.18,126.84,Debit Card,2023-09-13,2023-09-18,5.0,No
+OD-1070,C-5213,Nancy Martinez,Female,48,San Diego,CA,Beauty,Face Wash,2,26.51,0.2,42.42,8.59,Debit Card,2023-02-05,2023-02-10,4.0,No
+OD-1071,C-5479,Betty Taylor,Female,35,New York,NY,Home Decor,Curtains,3,96.3,0.2,231.12,80.82,Net Banking,2023-03-18,2023-03-26,5.0,No
+OD-1072,C-5177,Patricia Johnson,Female,53,Seattle,WA,Beauty,Mascara,3,41.09,0.25,92.45,11.25,Net Banking,2023-04-30,2023-05-07,1.0,No
+OD-1073,C-5382,Nancy Martinez,Female,63,San Francisco,CA,Beauty,Shampoo,6,44.42,0.15,226.54,76.9,Debit Card,2023-09-15,2023-09-21,1.5,No
+OD-1074,C-5052,Margaret Thomas,Female,47,New York,NY,Sports,Dumbbells,4,57.58,0.05,218.8,15.85,UPI,2023-06-23,2023-06-30,1.5,No
+OD-1075,C-5437,Sandra Moore,Female,42,Austin,TX,Sports,Tennis Racket,4,57.64,0.0,230.56,54.24,Debit Card,2023-11-20,2023-11-25,2.5,No
+OD-1076,C-5223,Richard Davis,Male,66,Houston,TX,Beauty,Moisturizer,6,23.98,0.0,143.88,9.18,Credit Card,2023-05-31,2023-06-06,3.5,No
+OD-1077,C-5075,,F,,  Chicago,IN,  Fashion ,History Book,,,0.0,24.12,5.62,upi,2023-11-14,,,NO
+OD-1078,C-5074,Mark Moore,Male,47,Dallas,TX,Beauty,Perfume,6,15.28,0.3,64.18,12.17,UPI,2023-12-13,2023-12-16,1.5,No
+OD-1079,C-5484,Jennifer Williams,Female,55,San Jose,CA,Sports,Running Shoes,6,$31.5,0.3,132.3,18.61,Net Banking,2023-09-05,2023-09-07,2.5,No
+OD-1080,C-5293,Jennifer Williams,Female,54,San Jose,CA,Sports,Water Bottle,1,62.07,0.25,46.55,7.85,Credit Card,2023-10-17,2023-10-18,4.5,No
+OD-1081,C-5398,Mark Moore,Male,56,Jacksonville,FL,Fashion,Socks,2,60.53,0.25,90.8,25.12,Debit Card,2023-11-18,2023-11-20,1.0,No
+OD-1082,C-5404,Sarah Rodriguez,Female,20,Denver,CO,Home Decor,Curtains,2,42.49,0.1,76.48,11.32,Net Banking,2023-03-31,2023-04-04,2.0,No
+OD-1083,C-5449,  Linda Brown  ,Female,51,Charlotte,NC,Home Decor,Table Lamp,3,101.81,0.15,259.62,88.33,UPI,2023-06-23,2023-06-25,4.5,No
+OD-1084,C-5073,Mark Moore,Male,61,San Francisco,CA,Books,Self-Help Book,1,23.23,0.0,23.23,3.0,Credit Card,2023-08-21,2023-08-27,3.0,No
+OD-1085,C-5196,Linda Brown,Female,24,San Diego,CA,Beauty,Lipstick,5,41.53,0.2,166.12,24.65,Cash on Delivery,2023-04-24,2023-04-26,4.5,No
+OD-1086,C-5333,Susan Davis,Female,25,Phoenix,AZ,Electronics,Smartphone,3,807.8,0.0,2423.4,191.83,Cash on Delivery,2023-03-11,2023-03-18,4.5,No
+OD-1087,C-5344,Sandra Moore,Female,44,Denver,CO,Sports,Tennis Racket,2,58.19,0.25,87.28,6.96,Net Banking,2023-11-12,2023-11-19,3.0,Yes
+OD-1088,C-5354,Linda Brown,Female,31,Columbus,OH,Beauty,Moisturizer,3,17.98,0.25,40.45,6.48,UPI,2023-02-01,2023-02-08,3.0,No
+OD-1089,C-5496,Joseph Garcia,  Male  ,70,houston,OH,  Fashion ,Tablet,2,616.52,0.2,986.43,336.7,UPI ,2023-06-20,2023-06-24,2.0,no
+OD-1090,C-5106,William Jones,Male,66,Seattle,WA,Fashion,Dress,2,70.9,0.05,134.71,20.01,Debit Card,2023-11-02,2023-11-03,3.0,No
+OD-1091,C-5067,Sandra Moore,Female,34,Philadelphia,PA,Electronics,Tablet,1,341.17,0.1,307.05,88.12,Debit Card,2023-10-29,2023-11-04,1.0,No
+OD-1092,C-5136,Michael Brown,Male,26,Indianapolis,IN,Books,Fiction Novel,6,10.14,15%,51.71,14.65,Cash on Delivery,2023-10-31,2023-11-02,4.5,No
+OD-1093,C-5114,Donna Thompson,Female,20,Charlotte,NC,Home Decor,Throw Pillow,6,105.41,0.0,632.46,221.09,Net Banking,2023-08-07,2023-08-09,4.5,No
+OD-1094,C-5038,David Miller,Male,38,El Paso,TX,Fashion,T-Shirt,2,41.85,0.25,62.78,14.16,UPI,2023-07-15,2023-07-20,4.5,No
+OD-1095,C-5310,Jessica Garcia,Female,24,Houston,TX,Sports,Tennis Racket,5,51.28,5%,243.58,43.61,Debit Card,2023-07-31,2023-08-06,4.5,No
+OD-1096,C-5213,Richard Davis,Male,38,Indianapolis,IN,Home Decor,Curtains,3,62.95,0.05,179.41,45.94,Net Banking,2023-02-04,2023-02-06,1.5,No
+OD-1097,C-5222,Richard Davis,Male,65,Jacksonville,FL,Fashion,Dress,1,58.67,0.2,46.94,10.26,Credit Card,2023-07-30,2023-08-05,4.0,Yes
+OD-1098,C-5496,Andrew Perez,Male,56,San Jose,CA,Home Decor,Wall Art,5,72.53,0.05,344.52,85.1,Debit Card,2023-02-25,2023-03-03,5.0,No
+OD-1099,C-5059,Paul Lee,Male,54,San Diego,CA,Beauty,Face Wash,5,33.41,0.25,125.29,27.19,Cash on Delivery,2023-12-03,2023-12-08,1.0,No
+OD-1100,C-5140,Joshua Thompson,Male,39,Jacksonville,FL,Electronics,Laptop,2,575.81,0.15,978.88,69.38,Credit Card,2023-02-16,2023-02-15,4.0,No
+OD-1101,C-5233,Patricia Johnson,Female,28,Jacksonville,FL,Home Decor,Curtains,3,91.93,0.2,220.63,50.49,Credit Card,2023-03-21,2023-03-24,1.0,No
+OD-1102,C-5140,Sarah Rodriguez,Female,60,Indianapolis,IN,Beauty,Face Wash,4,$27.43,0.05,104.23,28.82,Credit Card,2023-06-26,2023-07-03,1.5,No
+OD-1103,C-5348,Kimberly Lee,Female,49,Charlotte,NC,Sports,Water Bottle,1,30.26,0.2,24.21,1.61,Debit Card,2023-06-04,2023-06-08,2.0,No
+OD-1104,C-5149,Mary Smith,Female,25,New York,NY,Beauty,Shampoo,4,20.27,15%,68.92,14.46,Debit Card,2023-09-14,2023-09-20,1.5,No
+OD-1105,C-5442,Robert Williams,Male,45,New York,NY,Beauty,Lipstick,3,32.27,0.2,77.45,13.27,Net Banking,2023-05-29,2023-05-31,4.0,Yes
+OD-1106,C-5495,Mary Smith,Female,28,El Paso,TX,Beauty,Shampoo,3,17.64,0.3,37.04,3.03,Net Banking,2023-10-29,2023-11-05,5.0,No
+OD-1107,C-5203,Joshua Thompson,Male,65,Austin,TX,Fashion,Jacket,2,31.12,0.25,46.68,3.93,Cash on Delivery,2023-04-10,2023-04-16,3.5,No
+OD-1108,C-5121,,female,,Phoenix  ,TX,electronics,Jeans,,,0.3,123.37,30.43,upi,2023-11-18,,,YES
+OD-1109,C-5390,Kimberly Lee,Female,46,Denver,CO,Sports,Tennis Racket,5,34.57,0.25,129.64,18.78,Net Banking,2023-02-04,2023-02-12,4.5,No
+OD-1110,C-5408,Paul Lee,Male,55,Los Angeles,CA,Home Decor,Vase,1,58.35,0.15,49.6,3.04,UPI,2023-05-27,2023-05-29,1.5,No
+OD-1111,C-5305,Betty Taylor,Female,120,Columbus,OH,Books,Sci-Fi Novel,6,25.13,0.15,128.16,41.36,Cash on Delivery,2023-11-30,2023-12-04,3.5,No
+OD-1112,C-5244,Betty Taylor,Female,27,Los Angeles,CA,Beauty,Lipstick,3,44.47,0.0,133.41,26.86,Debit Card,2023-01-21,2023-01-25,4.5,No
+OD-1113,C-5269,Margaret Thomas,Female,57,Philadelphia,PA,Home Decor,Area Rug,3,63.89,0.3,134.17,20.33,Cash on Delivery,2023-01-27,2023-02-02,1.5,No
+OD-1114,C-5049,Ashley Jackson,Female,61,San Francisco,CA,Home Decor,Area Rug,6,97.31,0.2,467.09,145.72,UPI,2023-02-11,2023-02-14,3.5,No
+OD-1115,C-5496,Barbara Miller,Female,26,El Paso,TX,Sports,Yoga Mat,3,44.47,0.25,100.06,28.77,Debit Card,2023-12-10,2023-12-12,4.0,No
+OD-1116,C-5186,John Johnson,Male,41,San Jose,CA,Fashion,Jeans,3,78.17,0.15,199.33,21.45,Debit Card,2023-03-21,2023-03-23,3.0,No
+OD-1117,C-5260,Sandra Moore,Female,65,Charlotte,NC,Electronics,Tablet,3,743.25,20%,1783.8,159.32,Net Banking,2023-03-20,2023-03-23,2.0,No
+OD-1118,C-5415,  Christopher Martinez  ,Male,64,Columbus,OH,Electronics,Smartwatch,3,635.24,0.05,1810.43,617.13,Cash on Delivery,2023-05-26,2023-06-03,2.5,No
+OD-1119,C-5123,Joshua Thompson,Male,69,Fort Worth,TX,Fashion,Jacket,6,78.15,0.15,398.56,75.13,UPI,2023-07-15,2023-07-22,2.0,No
+OD-1120,C-5411,Emily Perez,Female,26,Dallas,TX,Electronics,Tablet,4,742.02,0.2,2374.46,784.26,Cash on Delivery,2023-03-05,2023-03-10,1.5,No
+OD-1121,C-5140,Sarah Rodriguez,Female,50,Phoenix,AZ,Beauty,Lipstick,2,39.5,10%,71.1,23.4,Net Banking,2023-01-28,2023-02-04,5.0,No
+OD-1122,C-5121,Elizabeth Jones,Female,-5,Jacksonville,FL,Fashion,T-Shirt,3,77.26,0.3,162.25,42.9,UPI,2023-03-16,2023-03-19,1.0,No
+OD-1123,C-5470,Nancy Martinez,Female,62,Phoenix,AZ,Sports,Running Shoes,4,$46.84,0.0,187.36,-10.44,Debit Card,2023-03-18,2023-03-25,1.5,No
+OD-1124,C-5122,Joshua Thompson,Male,25,Los Angeles,CA,Fashion,Sneakers,6,69.87,0.15,356.34,24.53,Net Banking,2023-11-02,2023-11-03,5.0,No
+OD-1125,C-5124,Charles Wilson,Male,36,Indianapolis,IN,Electronics,Bluetooth Speaker,3,399.9,0.15,1019.74,108.29,Credit Card,2023-09-26,2023-10-02,1.5,No
+OD-1126,C-5279,Betty Taylor,Female,68,Charlotte,NC,Books,Fiction Novel,4,24.72,0%,98.88,23.8,UPI,2023-05-10,2023-05-11,3.5,No
+OD-1127,C-5177,Donald Jackson,Male,64,Houston,TX,Books,History Book,3,11.4,10%,30.78,6.58,Debit Card,2023-12-17,2023-12-25,4.5,No
+OD-1128,C-5416,Thomas Rodriguez,Male,22,Columbus,OH,Electronics,Headphones,2,293.66,0.05,-557.95,176.17,UPI,2023-06-08,2023-06-15,5.0,No
+OD-1129,C-5130,Robert Williams,Male,66,San Antonio,TX,Home Decor,Area Rug,1,98.34,0.1,88.51,11.68,UPI,2023-08-12,2023-08-19,4.5,No
+OD-1130,C-5174,Daniel Anderson,Male,49,Fort Worth,TX,Home Decor,Vase,3,93.68,0.25,210.78,37.38,Net Banking,2023-11-05,2023-11-08,5.0,No
+OD-1131,C-5165,Richard Davis,Male,23,Austin,TX,Sports,Water Bottle,3,39.73,0.25,89.39,15.9,Net Banking,2023-06-29,2023-07-07,1.0,No
+OD-1132,C-5315,Jessica Garcia,Female,35,Los Angeles,CA,Electronics,Tablet,6,489.35,0.2,2348.88,681.95,Debit Card,2023-01-16,2023-01-19,4.5,Yes
+OD-1133,C-5065,William Jones,Male,33,Jacksonville,FL,Home Decor,Throw Pillow,5,38.33,0.05,182.07,46.19,UPI,2023-07-10,2023-07-18,1.5,No
+OD-1134,C-5071,Margaret Thomas,Female,41,San Francisco,CA,Home Decor,Curtains,3,53.97,0.0,161.91,9.35,Debit Card,2023-09-13,2023-09-11,5.0,No
+OD-1135,C-5135,Steven Martin,Male,63,Columbus,OH,Fashion,Dress,3,64.47,0.15,164.4,18.09,Debit Card,2023-02-07,2023-02-15,2.0,No
+OD-1136,C-5045,  Mary Smith  ,Female,60,Jacksonville,FL,Sports,Yoga Mat,5,43.77,0.1,196.97,60.16,Debit Card,2023-07-05,2023-07-09,1.5,No
+OD-1137,C-5406,  Thomas Rodriguez  ,Male,33,Fort Worth,TX,Electronics,Headphones,5,579.03,0.15,2460.88,716.36,Cash on Delivery,2023-03-08,2023-03-10,1.5,No
+OD-1138,C-5204,Nancy Martinez,Female,51,Indianapolis,IN,Beauty,Face Wash,1,18.76,0.1,16.88,4.1,Net Banking,2023-08-27,2023-09-02,2.0,No
+OD-1139,C-5328,Kimberly Lee,Female,29,Phoenix,AZ,Beauty,Face Wash,1,39.94,0.2,31.95,3.06,Debit Card,2023-03-24,2023-03-30,2.5,No
+OD-1140,C-5486,,F,,  Chicago,IL,books,Table Lamp,,,0.1,566.24,49.57,credit card,2023-11-11,,,No 
+OD-1141,C-5304,Kimberly Lee,Female,27,Philadelphia,PA,Sports,Backpack,6,58.88,0.1,317.95,96.26,Cash on Delivery,2023-01-22,2023-01-23,1.5,Yes
+OD-1142,C-5486,Dorothy Martin,Female,34,San Antonio,TX,Books,Cookbook,5,20.5,0.15,87.12,27.59,Cash on Delivery,2023-05-29,2023-06-03,4.5,No
+OD-1143,C-5413,Barbara Miller,Female,37,Columbus,OH,Electronics,Tablet,1,355.36,15%,302.06,58.98,Debit Card,2023-06-24,2023-06-27,3.5,No
+OD-1144,C-5376,Jennifer Williams,Female,43,Phoenix,AZ,Home Decor,Vase,5,43.65,0.05,207.34,39.38,UPI,2023-08-19,2023-08-23,2.0,No
+OD-1145,C-5026,Andrew Perez,Male,42,El Paso,TX,Beauty,Moisturizer,2,39.4,0.2,63.04,16.79,Debit Card,2023-03-23,2023-03-31,5.0,No
+OD-1146,C-5256,Joshua Thompson,Male,49,New York,NY,Electronics,Smartwatch,5,516.9,0.05,2455.28,281.24,UPI,31-02-2023,2023-01-26,3.0,No
+OD-1147,C-5306,  Nancy Martinez  ,Female,36,Seattle,WA,Electronics,Smartphone,4,342.32,0.1,1232.35,330.58,Net Banking,2023-07-07,2023-07-08,4.0,Yes
+OD-1148,C-5292,Ashley Jackson,Female,30,Jacksonville,FL,Books,Self-Help Book,1,15.95,0.15,13.56,3.79,UPI,2023-11-16,2023-11-18,2.0,No
+OD-1149,C-5202,Linda Brown,Female,68,Austin,TX,Books,Self-Help Book,2,12.58,0.2,20.13,3.43,Credit Card,2023-01-24,2023-01-25,2.0,No
+OD-1150,C-5412,Nancy Martinez,Female,51,Columbus,OH,Fashion,Dress,5,34.55,0.2,138.2,20.12,Net Banking,2023-11-12,2023-11-17,3.5,No
+OD-1151,C-5425,Betty Taylor,Female,52,Fort Worth,TX,Sports,Backpack,3,40.95,0.0,122.85,19.72,Credit Card,2023-08-02,2023-08-07,1.0,No
+OD-1152,C-5243,Steven Martin,Male,59,Denver,CO,Books,Biography,6,9.92,0.15,50.59,5.12,Cash on Delivery,2023-07-14,2023-07-17,2.5,Yes
+OD-1153,C-5294,Joseph Garcia,Male,30,New York,NY,Beauty,Perfume,4,19.54,0.25,58.62,6.52,Cash on Delivery,2023-11-10,2023-11-18,1.0,No
+OD-1154,C-5266,Anthony Thomas,Male,53,Austin,TX,Sports,Running Shoes,5,36.83,0.05,174.94,32.87,Cash on Delivery,2023-06-25,2023-07-01,3.0,No
+OD-1155,C-5248,Matthew Taylor,Male,33,Dallas,TX,Books,Self-Help Book,2,25.95,0.1,46.71,13.14,Debit Card,2023-12-20,2023-12-28,3.5,No
+OD-1156,C-5179,Ashley Jackson,Female,68,Dallas,TX,Home Decor,Wall Art,5,84.72,0.15,360.06,114.76,Net Banking,2023-06-26,2023-06-29,3.0,Yes
+OD-1157,C-5148,David Miller,Male,40,Columbus,OH,Sports,Water Bottle,6,41.12,0.05,234.38,69.94,UPI,2023-10-15,2023-10-20,2.0,No
+OD-1158,C-5316,Kimberly Lee,Female,33,San Diego,CA,Electronics,Tablet,5,391.86,0.05,1861.34,122.38,Net Banking,2023-06-19,2023-06-27,1.5,No
+OD-1159,C-5003,Ashley Jackson,Female,28,Indianapolis,IN,Sports,Running Shoes,4,48.32,30%,135.3,45.89,UPI,2023-05-27,2023-05-28,1.5,No
+OD-1160,C-5119,Sandra Moore,Female,65,Los Angeles,CA,Fashion,Sneakers,2,77.43,0.0,154.86,54.07,Net Banking,2023-09-11,2023-09-14,3.0,Yes
+OD-1161,C-5005,Joshua Thompson,Male,54,El Paso,TX,Electronics,Headphones,3,515.35,0.25,1159.54,246.97,Net Banking,2023-03-10,2023-03-18,3.0,No
+OD-1162,C-5415,Joseph Garcia,Male,39,Philadelphia,PA,Sports,Running Shoes,6,31.81,0.05,181.32,9.83,UPI,2023-06-01,2023-06-05,2.0,No
+OD-1163,C-5439,Barbara Miller,Female,70,Indianapolis,IN,Books,Self-Help Book,1,16.21,0.0,16.21,1.71,Debit Card,2023-09-02,2023-09-01,2.5,Yes
+OD-1164,C-5134,Elizabeth Jones,Female,33,Columbus,OH,Home Decor,Area Rug,3,77.94,0.2,187.06,9.99,UPI,2023-12-21,2023-12-25,1.0,No
+OD-1165,C-5239,Joshua Thompson,Male,28,San Francisco,CA,Sports,Backpack,6,53.33,0.25,239.99,20.45,UPI,2023-07-08,2023-07-12,2.5,No
+OD-1166,C-5245,Charles Wilson,Male,47,El Paso,TX,Home Decor,Throw Pillow,6,75.54,0.15,385.25,-106.79,Debit Card,2023-05-07,2023-05-09,5.0,No
+OD-1167,C-5271,Linda Brown,Female,22,Denver,CO,Electronics,Smartphone,5,757.56,0.05,3598.41,798.17,Debit Card,2023-03-26,2023-04-01,5.0,No
+OD-1168,C-5060,Anthony Thomas,Male,63,Denver,CO,Beauty,Lipstick,5,28.36,0.0,141.8,26.38,Cash on Delivery,2023-08-01,2023-08-09,1.0,No
+OD-1169,C-5237,Joshua Thompson,MALE,64,New York,NY,Beauty  ,Perfume,1,37.37,0.2,29.9,2.15,COD,2023-06-26,2023-06-28,5.0,Yes
+OD-1170,C-5479,William Jones,Male,48,Los Angeles,CA,Home Decor,Throw Pillow,-2,91.37,30%,127.92,31.02,Net Banking,2023-07-11,2023-07-18,4.5,No
+OD-1171,C-5193,David Miller,Male,61,Seattle,WA,Fashion,Socks,3,33.41,0.2,80.18,13.46,Debit Card,2023-04-25,2023-04-26,1.0,No
+OD-1172,C-5238,Sandra Moore,Female,45,Seattle,WA,Beauty,Moisturizer,2,28.82,0.05,54.76,7.27,Credit Card,2023-01-17,2023-01-24,1.0,No
+OD-1173,C-5106,William Jones,Male,24,El Paso,TX,Electronics,Smartwatch,5,632.89,0.3,2215.11,143.1,Credit Card,2023-07-25,2023-08-02,2.5,No
+OD-1174,C-5112,Michael Brown,Male,26,Charlotte,NC,Home Decor,Table Lamp,6,77.48,0.2,371.9,85.3,UPI,2023-05-02,2023-05-07,2.0,No
+OD-1175,C-5114,Susan Davis,Female,37,Dallas,TX,Electronics,Bluetooth Speaker,5,745.05,0.05,3538.99,841.56,Net Banking,2023-10-12,2023-10-20,1.0,No
+OD-1176,C-5483,Elizabeth Jones,Female,68,Charlotte,NC,Home Decor,Curtains,4,65.39,0.1,235.4,38.36,Cash on Delivery,2023-08-31,2023-09-04,2.5,No
+OD-1177,C-5440,Charles Wilson,Male,69,Columbus,OH,Electronics,Bluetooth Speaker,4,792.6,0.2,2536.32,530.08,Net Banking,2023-05-05,2023-05-10,2.5,No
+OD-1178,C-5332,  David Miller  ,Male,46,Jacksonville,FL,Electronics,Bluetooth Speaker,6,717.88,0.0,4307.28,562.27,Cash on Delivery,2023-11-05,2023-11-06,1.5,No
+OD-1179,C-5412,Kimberly Lee,Female,64,Seattle,WA,Fashion,Sneakers,2,73.95,0.1,133.11,18.76,Credit Card,2023-04-19,2023-04-23,0.0,No
+OD-1180,C-5469,Donald Jackson,Male,62,El Paso,TX,Sports,Dumbbells,4,59.44,0.2,190.21,27.86,UPI,2023-07-14,2023-07-22,5.0,No
+OD-1181,C-5158,Steven Martin,Male,41,Charlotte,NC,Beauty,Mascara,1,39.08,0.25,29.31,5.59,UPI,2023-04-15,2023-04-21,3.5,No
+OD-1182,C-5024,Dorothy Martin,Female,32,Phoenix,AZ,Electronics,Headphones,5,774.77,0.2,3099.08,824.37,UPI,2023-03-20,2023-03-24,3.5,No
+OD-1183,C-5195,Dorothy Martin,Female,33,Fort Worth,TX,Books,History Book,6,15.08,0.3,63.34,18.78,Net Banking,2023-08-24,2023-08-27,3.5,No
+OD-1184,C-5072,Sandra Moore,Female,49,Philadelphia,PA,Books,History Book,1,18.43,0.3,12.9,3.92,Credit Card,2023-01-04,2023-01-11,2.0,No
+OD-1185,C-5035,Charles Wilson,Male,18,San Antonio,TX,Books,Cookbook,3,10.09,0.25,22.7,5.68,Cash on Delivery,2023-09-05,2023-09-02,1.0,Yes
+OD-1186,C-5273,Ashley Jackson,Female,44,New York,NY,Electronics,Bluetooth Speaker,6,418.36,0.1,2259.14,124.58,Net Banking,2023-04-02,2023-04-04,1.5,No
+OD-1187,C-5077,Donald Jackson,Male,30,El Paso,TX,Books,Self-Help Book,3,13.81,0.15,35.22,2.6,Net Banking,2023-08-24,2023-08-28,2.5,No
+OD-1188,C-5351,David Miller,Male,59,Los Angeles,CA,Electronics,Smartwatch,4,473.67,0.15,1610.48,107.64,Credit Card,2023-12-26,2023-12-29,1.5,No
+OD-1189,C-5433,Jessica Garcia,Female,59,Austin,TX,Books,Fiction Novel,5,25.54,0.05,121.31,13.76,Cash on Delivery,2023-09-01,2023-09-06,1.0,No
+OD-1190,C-5351,Paul Lee,Male,52,Denver,CO,Sports,Yoga Mat,2,60.01,0.1,108.02,5.91,Debit Card,2023-10-28,2023-10-31,4.0,No
+OD-1191,C-5154,Christopher Martinez,Male,54,San Diego,CA,Books,Cookbook,6,$25.14,0.1,135.76,22.42,Debit Card,2023-12-19,2023-12-21,5.0,No
+OD-1192,C-5028,Richard Davis,Male,45,San Diego,CA,Electronics,Headphones,5,685.26,0.2,2741.04,463.27,UPI,2023-01-16,2023-01-21,4.5,No
+OD-1193,C-5117,Jennifer Williams,Female,53,San Francisco,CA,Beauty,Moisturizer,6,32.58,0.15,166.16,12.58,Cash on Delivery,2023-06-01,2023-06-05,1.5,No
+OD-1194,C-5138,Charles Wilson,Male,42,Phoenix,AZ,Sports,Running Shoes,3,36.15,0.0,108.45,5.59,UPI,2023-08-16,2023-08-22,3.0,No
+OD-1195,C-5068,David Miller,Male,29,Indianapolis,IN,Beauty,Face Wash,5,30.37,0.0,151.85,8.79,UPI,2023-10-11,2023-10-13,3.5,No
+OD-1196,C-5007,Andrew Perez,Male,44,San Francisco,CA,Electronics,Tablet,5,$758.81,0.05,3604.35,798.68,Debit Card,2023-12-17,2023-12-24,2.0,No
+OD-1197,C-5138,Joshua Thompson,Male,35,Fort Worth,TX,Fashion,T-Shirt,2,50.47,0.15,85.8,12.01,Credit Card,abcd-ef-gh,2023-07-09,2.5,No
+OD-1198,C-5305,Donna Thompson,Female,30,Columbus,OH,Electronics,Laptop,3,273.65,0.15,697.81,104.44,Cash on Delivery,2023-07-14,2023-07-20,4.5,No
+OD-1199,C-5221,  Emily Perez  ,Female,26,San Jose,CA,Home Decor,Vase,6,50.46,0.1,272.48,28.14,Net Banking,2023-06-13,2023-06-18,4.5,No
+OD-1200,C-5401,Donald Jackson,Male,38,San Francisco,CA,Home Decor,Throw Pillow,3,44.2,0.2,106.08,11.66,Cash on Delivery,2023-04-03,2023-04-04,4.5,No
+OD-1201,C-5225,Andrew Perez,Male,62,Chicago,IL,Beauty,Shampoo,4,19.18,0.1,69.05,8.47,Debit Card,2023-08-05,2023-08-12,1.5,No
+OD-1202,C-5307,Nancy Martinez,Female,55,San Francisco,CA,Books,Sci-Fi Novel,6,16.53,0.0,99.18,28.49,UPI,2023-12-26,2023-12-28,1.5,No
+OD-1203,C-5337,Jennifer Williams,Female,28,El Paso,TX,Electronics,Bluetooth Speaker,6,635.83,0.15,3242.73,1102.67,UPI,2023-08-09,2023-08-11,1.0,No
+OD-1204,C-5133,Mark Moore,Male,50,Charlotte,NC,Books,Sci-Fi Novel,6,19.35,0.15,98.69,16.01,Net Banking,2023-12-14,2023-12-17,3.5,Yes
+OD-1205,C-5248,  Richard Davis  ,Male,36,Indianapolis,IN,Electronics,Smartphone,6,346.5,0.1,1871.1,286.13,Debit Card,2023-09-24,2023-10-02,3.5,No
+OD-1206,C-5050,Sarah Rodriguez,Female,64,Columbus,OH,Home Decor,Wall Art,3,-50.0,0.25,88.25,7.46,UPI,2023-11-28,2023-11-30,2.0,No
+OD-1207,C-5265,Daniel Anderson,Male,53,Philadelphia,PA,Home Decor,Vase,4,105.01,0.05,399.04,115.45,Debit Card,2023-04-06,2023-04-13,4.0,Yes
+OD-1208,C-5378,Donna Thompson,Female,30,Columbus,OH,Books,Cookbook,4,9.08,0.05,34.5,3.85,Credit Card,2023-10-23,2023-10-25,5.0,No
+OD-1209,C-5188,Mary Smith,Female,30,Columbus,OH,Electronics,Headphones,6,735.82,0.2,3531.94,1200.06,UPI,2023-11-02,2023-11-09,4.0,No
+OD-1210,C-5059,Jennifer Williams,Female,40,Columbus,OH,Books,Biography,6,21.71,0.1,117.23,38.17,Cash on Delivery,2023-02-13,2023-02-16,3.5,No
+OD-1211,C-5123,Joshua Thompson,Male,25,Philadelphia,PA,Home Decor,Curtains,2,72.78,0.15,123.73,28.33,Cash on Delivery,2023-07-16,2023-07-23,2.0,No
+OD-1212,C-5326,Sandra Moore,Female,62,Philadelphia,PA,Books,Biography,4,14.2,0.05,53.96,7.79,Net Banking,2023-11-14,2023-11-15,3.5,Yes
+OD-1213,C-5249,Thomas Rodriguez,Male,30,San Francisco,CA,Books,Sci-Fi Novel,6,17.91,0.25,80.59,15.92,Net Banking,2023-09-08,2023-09-11,1.5,No
+OD-1214,C-5016,,  Male  ,,houston,CA,Beauty  ,Table Lamp,,,0.3,198.73,37.2,upi,2023-10-09,,,no
+OD-1215,C-5397,Sandra Moore,Female,70,Jacksonville,FL,Books,Fiction Novel,6,16.94,0.05,96.56,33.5,Credit Card,2023-12-01,2023-12-05,3.0,Yes
+OD-1216,C-5231,Steven Martin,Male,40,Chicago,IL,Beauty,Lipstick,2,21.3,0.25,31.95,7.23,UPI,2023-12-30,2024-01-06,2.0,No
+OD-1217,C-5072,Anthony Thomas,Male,70,San Antonio,TX,Electronics,Bluetooth Speaker,3,557.43,0.2,1337.83,283.13,UPI,2023-12-27,2024-01-01,3.0,No
+OD-1218,C-5137,Betty Taylor,Female,61,Houston,TX,Fashion,Sneakers,1,80.59,0.3,56.41,13.92,Debit Card,2023-05-08,2023-05-11,3.5,No
+OD-1219,C-5390,Barbara Miller,Female,49,Phoenix,AZ,Books,History Book,3,20.3,0.15,51.77,9.61,Credit Card,2023-07-26,2023-07-31,3.5,No
+OD-1220,C-5487,Lisa Anderson,Female,38,Denver,CO,Electronics,Tablet,1,664.7,0.15,565.0,135.86,UPI,2023-02-02,2023-02-09,2.5,No
+OD-1221,C-5423,Anthony Thomas,Male,49,Dallas,TX,Home Decor,Area Rug,3,75.41,0.05,214.92,47.25,Net Banking,2023-06-25,2023-06-26,1.0,No
+OD-1222,C-5321,Karen Wilson,male,19,LOS ANGELES,TX,books,Sneakers,4,27.04,0.15,91.94,10.18,Cash on Delivery,2023-11-29,2023-12-04,2.0,YES
+OD-1223,C-5048,Linda Brown,Female,34,Chicago,IL,Home Decor,Curtains,6,47.92,0.15,244.39,58.09,Debit Card,2023-08-08,2023-08-10,1.5,Yes
+OD-1224,C-5110,Nancy Martinez,Female,22,Phoenix,AZ,Books,Biography,5,21.24,0.0,106.2,5.57,UPI,2023-03-03,2023-03-10,2.0,No
+OD-1225,C-5037,Mark Moore,Male,42,Chicago,IL,Sports,Yoga Mat,1,34.16,0.1,30.74,2.8,Debit Card,2023-11-25,2023-11-28,1.5,No
+OD-1226,C-5289,James Smith,Male,57,Philadelphia,PA,Beauty,Perfume,6,21.39,0.25,96.25,9.18,Net Banking,2023-11-12,2023-11-08,2.5,No
+OD-1227,C-5460,Richard Davis,Male,26,Houston,TX,Books,History Book,4,15.33,15%,52.12,7.52,Debit Card,2023-05-07,2023-05-12,1.5,No
+OD-1228,C-5284,Emily Perez,Female,56,El Paso,TX,Home Decor,Curtains,1,97.05,0.25,72.79,22.76,Debit Card,2023-09-23,2023-09-27,4.0,No
+OD-1229,C-5331,Michael Brown,Male,68,San Diego,CA,Beauty,Mascara,1,22.23,0.25,16.67,3.8,Cash on Delivery,abcd-ef-gh,2023-01-13,3.5,No
+OD-1230,C-5199,Dorothy Martin,Female,44,Jacksonville,FL,Books,History Book,2,22.73,0.3,31.82,2.29,Cash on Delivery,2023-02-04,2023-02-05,3.0,No
+OD-1231,C-5021,Michael Brown,Male,68,San Francisco,CA,Books,Self-Help Book,6,21.83,0.3,91.69,16.01,Net Banking,2023-02-12,2023-02-15,3.0,No
+OD-1232,C-5159,David Miller,Male,50,San Antonio,TX,Fashion,Dress,3,$48.1,0.25,108.23,30.19,Credit Card,2023-06-08,2023-06-15,2.5,Yes
+OD-1233,C-5126,David Miller,Male,45,Houston,TX,Beauty,Face Wash,5,16.65,0.25,62.44,17.02,Debit Card,2023-03-03,2023-03-04,2.0,Yes
+OD-1234,C-5084,Lisa Anderson,Female,40,Charlotte,NC,Books,History Book,3,12.01,0.05,34.23,9.41,UPI,2023-03-02,2023-03-03,3.5,No
+OD-1235,C-5140,Margaret Thomas,Female,22,Dallas,TX,Sports,Backpack,6,24.24,0.15,123.62,25.12,Credit Card,2023-09-13,2023-09-16,3.5,No
+OD-1236,C-5131,Richard Davis,Male,54,Houston,TX,Fashion,Socks,5,27.14,0.3,94.99,29.34,Debit Card,2023-01-24,2023-02-01,3.5,No
+OD-1237,C-5472,Charles Wilson,Male,29,Los Angeles,CA,Books,History Book,6,20.8,0.05,118.56,17.37,Net Banking,2023-06-13,2023-06-18,1.5,No
+OD-1238,C-5191,Joseph Garcia,MALE,50,new york,CA,electronics,Jeans,5,80.0,0.15,340.0,24.03,Cash on Delivery,2023-05-25,2023-05-30,3.5,NO
+OD-1239,C-5284,Karen Wilson,Female,18,Jacksonville,FL,Fashion,Jacket,5,69.36,25%,260.1,61.6,Net Banking,2023-07-08,2023-07-16,2.5,No
+OD-1240,C-5390,Donald Jackson,Male,27,New York,NY,Beauty,Lipstick,2,31.25,0.25,46.88,14.15,Credit Card,2023-06-21,2023-06-22,4.0,No
+OD-1241,C-5054,Anthony Thomas,Male,51,San Diego,CA,Beauty,Mascara,1,44.18,0.05,41.97,11.06,Credit Card,2023-01-23,2023-01-27,-2.0,No
+OD-1242,C-5359,Linda Brown,Female,47,Chicago,IL,Books,Fiction Novel,5,11.4,0.3,39.9,6.72,Cash on Delivery,2023-10-18,2023-10-19,4.0,No
+OD-1243,C-5122,Andrew Perez,Male,34,Austin,TX,Beauty,Shampoo,6,24.79,0.15,126.43,-16.64,Credit Card,2023-04-14,2023-04-17,1.5,No
+OD-1244,C-5055,Christopher Martinez,Male,46,Columbus,OH,Home Decor,Throw Pillow,1,74.59,0.3,52.21,5.86,UPI,2023-08-26,2023-08-31,1.5,No
+OD-1245,C-5081,Joshua Thompson,Male,70,El Paso,TX,Electronics,Laptop,3,350.09,0.25,787.7,98.04,UPI,2023-07-22,2023-07-23,3.0,No
+OD-1246,C-5420,Daniel Anderson,Male,19,San Francisco,CA,Beauty,Face Wash,6,31.5,0.0,189.0,35.65,Debit Card,2023-03-04,2023-03-05,1.0,No
+OD-1247,C-5067,Matthew Taylor,Male,70,San Francisco,CA,Home Decor,Curtains,6,103.51,0.0,621.06,139.55,UPI,2023-02-08,2023-02-09,1.5,No
+OD-1248,C-5463,Sarah Rodriguez,Female,69,Phoenix,AZ,Electronics,Headphones,1,293.06,0.15,249.1,16.24,Cash on Delivery,2023-08-10,2023-08-17,4.5,Yes
+OD-1249,C-5196,Jessica Garcia,Female,29,Jacksonville,FL,Fashion,Jeans,3,42.11,0.05,120.01,7.25,Cash on Delivery,2023-11-12,2023-11-16,3.0,No
+OD-1250,C-5211,Ashley Jackson,Female,48,Los Angeles,CA,Electronics,Headphones,4,344.11,0.05,1307.62,317.48,Cash on Delivery,2023-05-08,2023-05-09,4.0,No
+OD-1251,C-5246,Sandra Moore,Female,68,Fort Worth,TX,Home Decor,Vase,5,59.16,0.1,266.22,27.67,UPI,2023-11-02,2023-11-06,1.0,No
+OD-1252,C-5030,Nancy Martinez,Female,51,Jacksonville,FL,Books,Biography,2,10.8,0.25,16.2,1.98,Cash on Delivery,2023-01-29,2023-02-02,4.0,No
+OD-1253,C-5479,Daniel Anderson,Male,29,San Diego,CA,Books,Self-Help Book,6,21.56,0.2,103.49,6.05,UPI,2023-10-18,2023-10-21,2.5,No
+OD-1254,C-5278,Joshua Thompson,Male,29,Fort Worth,TX,Electronics,Smartphone,1,395.62,0.05,375.84,21.04,Net Banking,2023-01-01,2023-01-07,2.5,No
+OD-1255,C-5175,Daniel Anderson,Male,69,Austin,TX,Electronics,Smartphone,2,586.77,0.05,1114.86,314.74,Cash on Delivery,2023-07-06,2023-07-08,3.5,No
+OD-1256,C-5301,Richard Davis,Male,39,San Jose,CA,Home Decor,Table Lamp,2,88.73,0.15,150.84,43.37,Net Banking,2023-11-29,2023-12-05,2.0,No
+OD-1257,C-5356,Donna Thompson,Female,68,Jacksonville,FL,Fashion,Socks,5,70.98,0.15,301.67,42.85,UPI,2023-03-07,2023-03-10,1.0,No
+OD-1258,C-5201,Dorothy Martin,Female,20,Philadelphia,PA,Books,Self-Help Book,5,12.98,0.2,51.92,4.22,Net Banking,2023-03-14,2023-03-20,1.5,No
+OD-1259,C-5178,Mary Smith,Female,28,Chicago,IL,Sports,Tennis Racket,6,51.63,0.1,278.8,51.3,UPI,2023-04-18,2023-04-22,1.5,No
+OD-1260,C-5132,Richard Davis,Male,64,New York,NY,Electronics,Smartwatch,4,665.6,0.05,2529.28,797.65,Net Banking,2023-07-13,2023-07-19,5.0,No
+OD-1261,C-5052,Nancy Martinez,Female,68,Denver,CO,Sports,Tennis Racket,2,27.83,0.0,55.66,16.13,Credit Card,2023-05-31,2023-06-01,3.5,No
+OD-1262,C-5488,Richard Davis,Male,22,Austin,TX,Fashion,Sneakers,2,66.53,0.2,106.45,35.4,Credit Card,2023-06-23,2023-07-01,1.0,No
+OD-1263,C-5483,Christopher Martinez,Male,56,Indianapolis,IN,Fashion,T-Shirt,1,44.88,0.05,42.64,7.37,Cash on Delivery,2023-10-04,2023-10-09,3.0,No
+OD-1264,C-5122,Richard Davis,Male,21,San Francisco,CA,Books,Sci-Fi Novel,4,11.76,0.1,42.34,2.17,Credit Card,2023-05-31,2023-06-08,2.5,No
+OD-1265,C-5014,Anthony Thomas,Male,28,San Jose,CA,Electronics,Smartwatch,1,436.51,0.15,371.03,70.97,UPI,2023-02-16,2023-02-23,2.0,No
+OD-1266,C-5454,Elizabeth Jones,Female,41,Philadelphia,PA,Beauty,Lipstick,3,28.19,0.1,76.11,8.97,UPI,2023-10-16,2023-10-17,2.0,No
+OD-1267,C-5044,Jennifer Williams,  Male  ,69,Seattle,WA,  Fashion ,Face Wash,2,31.61,0.3,44.25,7.35,Cash on Delivery,2023-08-03,2023-08-11,2.5,No
+OD-1268,C-5154,David Miller,Male,43,Los Angeles,CA,Books,Sci-Fi Novel,5,23.41,25%,87.79,30.27,Debit Card,2023-03-03,2023-03-11,2.0,No
+OD-1269,C-5498,Anthony Thomas,Male,69,San Antonio,TX,Fashion,T-Shirt,4,31.23,0.25,93.69,16.92,Debit Card,2023-11-01,2023-11-06,3.5,No
+OD-1270,C-5045,  Elizabeth Jones  ,Female,53,San Francisco,CA,Books,Self-Help Book,3,18.35,0.3,38.54,2.07,Cash on Delivery,2023-10-28,2023-11-04,1.5,No
+OD-1271,C-5077,Charles Wilson,Male,54,Denver,CO,Books,Fiction Novel,1,19.13,0.0,19.13,5.47,Cash on Delivery,2023-06-26,2023-07-03,3.0,No
+OD-1272,C-5336,Lisa Anderson,Female,54,El Paso,TX,Beauty,Lipstick,2,23.26,0.05,44.19,10.41,Net Banking,2023-01-20,2023-01-27,3.5,No
+OD-1273,C-5026,Nancy Martinez,Female,35,Jacksonville,FL,Electronics,Headphones,3,437.91,0.3,919.61,181.61,Credit Card,2023-04-27,2023-04-30,3.0,No
+OD-1274,C-5397,Mary Smith,Female,35,Indianapolis,IN,Books,History Book,1,12.38,0.05,11.76,3.81,Net Banking,2023-09-06,2023-09-12,1.0,No
+OD-1275,C-5406,Christopher Martinez,Male,22,San Jose,CA,Sports,Backpack,4,26.7,0.3,74.76,15.5,Cash on Delivery,2023-01-15,2023-01-18,2.5,No
+OD-1276,C-5429,,female,, dallas,CA,Beauty  ,Lipstick,,,0.1,97.58,15.66,UPI ,2023-09-16,,,YES
+OD-1277,C-5124,Linda Brown,Female,49,El Paso,TX,Beauty,Moisturizer,4,32.61,0.1,117.4,17.99,UPI,2023-12-19,2023-12-21,3.0,Yes
+OD-1278,C-5198,Michael Brown,Male,28,Denver,CO,Fashion,Jeans,6,39.16,0.05,223.21,29.18,Net Banking,2023-09-20,2023-09-21,1.0,No
+OD-1279,C-5467,Thomas Rodriguez,Male,59,Philadelphia,PA,Books,Fiction Novel,2,13.54,0.3,18.96,6.31,UPI,2023-08-05,2023-08-12,3.5,No
+OD-1280,C-5130,Anthony Thomas,Male,47,San Jose,CA,Sports,Backpack,5,37.68,0.0,188.4,9.84,UPI,2023-10-15,2023-10-20,3.0,No
+OD-1281,C-5247,William Jones,MALE,39,Dallas,TX,electronics,Water Bottle,3,31.97,0.25,-71.93,24.14,UPI ,2023-04-07,2023-04-10,5.0,No
+OD-1282,C-5461,Michael Brown,F,69,El Paso,TX,books,Shampoo,3,35.42,0.25,79.7,4.59,upi,2023-06-01,2023-06-06,4.0,No
+OD-1283,C-5199,Robert Williams,Male,55,Denver,CO,Fashion,Jacket,6,65.52,0.25,294.84,62.03,Net Banking,2023-12-10,2023-12-16,5.0,No
+OD-1284,C-5433,Christopher Martinez,Male,60,Seattle,WA,Fashion,Jacket,1,52.42,0.25,39.31,5.02,Cash on Delivery,abcd-ef-gh,2023-04-10,1.5,No
+OD-1285,C-5182,Mark Moore,Male,65,San Jose,CA,Beauty,Perfume,3,22.82,0.1,61.61,11.65,Credit Card,2023-08-29,2023-08-30,1.5,No
+OD-1286,C-5456,  Matthew Taylor  ,Male,50,Houston,TX,Sports,Running Shoes,5,33.53,0.0,167.65,52.18,Debit Card,2023-03-12,2023-03-16,3.5,No
+OD-1287,C-5292,Karen Wilson,Female,27,Austin,TX,Sports,Dumbbells,1,41.48,0.25,31.11,10.76,UPI,2023-11-21,2023-11-22,1.0,No
+OD-1288,C-5141,Anthony Thomas,Male,150,Philadelphia,PA,Books,Biography,4,23.13,0.3,64.76,4.95,Cash on Delivery,2023-08-11,2023-08-18,4.0,No
+OD-1289,C-5495,Nancy Martinez,Female,42,New York,NY,Electronics,Bluetooth Speaker,2,664.56,0.0,1329.12,422.13,Cash on Delivery,2023-04-08,2023-04-09,1.0,No
+OD-1290,C-5116,Jennifer Williams,Female,37,Phoenix,AZ,Electronics,Smartwatch,5,587.88,0.05,2792.43,194.31,Credit Card,2023-06-02,2023-06-07,4.5,No
+OD-1291,C-5306,Margaret Thomas,Female,39,Indianapolis,IN,Sports,Dumbbells,3,62.84,0.15,160.24,25.28,Debit Card,2023-03-26,2023-04-02,1.0,No
+OD-1292,C-5115,Thomas Rodriguez,Male,31,New York,NY,Books,Sci-Fi Novel,2,11.22,0.25,16.83,4.13,Credit Card,2023-07-12,2023-07-17,5.0,No
+OD-1293,C-5025,Emily Perez,Female,21,Houston,TX,Sports,Yoga Mat,1,49.97,0.15,42.47,7.78,Credit Card,2023-10-08,2023-10-13,4.5,No
+OD-1294,C-5106,  James Smith  ,Male,37,Indianapolis,IN,Sports,Yoga Mat,6,42.85,0.2,205.68,47.65,Debit Card,2023-08-03,2023-08-05,5.0,No
+OD-1295,C-5061,,F,,Phoenix  ,TX,books,Moisturizer,,,0.1,94.45,28.28,COD,2023-07-03,,,YES
+OD-1296,C-5021,Ashley Jackson,Female,49,San Antonio,TX,Sports,Running Shoes,3,30.85,0.0,92.55,23.28,Credit Card,2023-10-21,2023-10-29,2.0,No
+OD-1297,C-5400,Betty Taylor,Female,22,Houston,TX,Home Decor,Curtains,2,68.89,0.1,124.0,16.03,Credit Card,2023-02-21,2023-02-24,1.0,No
+OD-1298,C-5185,Mary Smith,Female,45,Houston,TX,Electronics,Smartphone,1,730.08,0.25,-547.56,133.69,UPI,2023-07-03,2023-07-11,3.0,No
+OD-1299,C-5191,,  Male  ,,houston,TX,electronics,Mascara,,,0.15,78.71,20.23,COD,2023-08-04,,,NO
+OD-1300,C-5357,,female,,LOS ANGELES,TX,electronics,Face Wash,,,0.25,117.21,21.27,upi,2023-07-14,,,  Yes  
+OD-1301,C-5248,Lisa Anderson,Female,25,Indianapolis,IN,Beauty,Lipstick,1,22.85,0.1,20.57,1.1,Cash on Delivery,2023-10-23,2023-10-27,3.5,No
+OD-1302,C-5268,Donna Thompson,Female,24,Indianapolis,IN,Sports,Tennis Racket,2,41.24,0.25,61.86,15.64,Net Banking,2023-03-18,2023-03-19,1.0,No
+OD-1303,C-5259,Nancy Martinez,Female,49,Philadelphia,PA,Electronics,Smartwatch,3,$400.08,0.1,1080.22,70.33,Debit Card,2023-10-09,2023-10-16,4.0,No
+OD-1304,C-5041,Karen Wilson,Female,46,Denver,CO,Beauty,Lipstick,4,28.41,0.0,113.64,39.12,Credit Card,2023-02-22,2023-03-01,4.0,Yes
+OD-1305,C-5286,Ashley Jackson,Female,18,Chicago,IL,Books,Sci-Fi Novel,6,14.48,20%,69.5,15.2,Net Banking,2023-06-24,2023-06-30,1.0,No
+OD-1306,C-5433,Karen Wilson,Female,39,Seattle,WA,Books,Sci-Fi Novel,4,21.9,0.1,78.84,20.87,Credit Card,2023-02-19,2023-02-23,1.0,No
+OD-1307,C-5182,Andrew Perez,Male,53,Charlotte,NC,Home Decor,Curtains,1,39.3,0.05,37.33,7.38,Net Banking,2023-02-24,2023-03-01,2.5,No
+OD-1308,C-5062,Barbara Miller,Female,31,Columbus,OH,Fashion,Socks,3,32.82,15%,83.69,5.35,Cash on Delivery,2023-03-05,2023-03-13,4.5,No
+OD-1309,C-5490,Betty Taylor,Female,26,Fort Worth,TX,Electronics,Bluetooth Speaker,6,296.23,0.15,1510.77,455.72,Net Banking,2023-09-18,2023-09-21,2.0,No
+OD-1310,C-5054,Elizabeth Jones,Female,60,El Paso,TX,Books,Self-Help Book,5,24.87,0.15,105.7,36.34,Debit Card,2023-05-21,2023-05-28,3.5,No
+OD-1311,C-5232,  Thomas Rodriguez  ,Male,26,Indianapolis,IN,Books,History Book,6,18.22,0.3,76.52,19.93,UPI,2023-12-31,2024-01-04,2.5,No
+OD-1312,C-5320,Andrew Perez,Male,61,Jacksonville,FL,Sports,Dumbbells,6,48.3,5%,275.31,55.38,UPI,2023-12-30,2024-01-01,3.5,No
+OD-1313,C-5246,Kimberly Lee,Female,54,Indianapolis,IN,Sports,Tennis Racket,5,33.01,0.3,115.53,20.42,Credit Card,2023-09-25,2023-09-27,1.0,No
+OD-1314,C-5075,Michael Brown,Male,60,Los Angeles,CA,Fashion,Jacket,2,80.11,0.25,120.16,15.04,Credit Card,2023-12-20,2023-12-25,2.5,No
+OD-1315,C-5017,  Jennifer Williams  ,Female,70,Columbus,OH,Electronics,Bluetooth Speaker,6,669.33,30%,-2811.19,329.73,Cash on Delivery,2023-07-19,2023-07-23,5.0,No
+OD-1316,C-5355,Michael Brown,Male,42,San Francisco,CA,Beauty,Shampoo,3,-100.0,0.0,131.91,7.11,UPI,2023-04-14,2023-04-22,2.5,No
+OD-1317,C-5387,Kimberly Lee,Female,52,El Paso,TX,Fashion,Socks,2,42.89,0.05,81.49,28.12,Credit Card,2023-04-06,2023-04-09,5.0,No
+OD-1318,C-5194,Robert Williams,Male,45,Dallas,TX,Books,Self-Help Book,2,11.9,0.3,16.66,2.11,UPI,2023-08-27,2023-08-30,1.0,No
+OD-1319,C-5476,Mary Smith,Female,56,Los Angeles,CA,Sports,Backpack,6,33.65,0.3,141.33,31.35,UPI,2023-02-07,2023-02-13,5.0,No
+OD-1320,C-5490,Daniel Anderson,Male,51,Chicago,IL,Books,Biography,4,18.78,15%,63.85,4.95,Debit Card,2023-04-20,2023-04-26,3.5,No
+OD-1321,C-5151,Anthony Thomas,Male,66,El Paso,TX,Books,Cookbook,5,23.83,0.25,89.36,4.7,UPI,2023-08-17,2023-08-21,2.5,Yes
+OD-1322,C-5350,Mary Smith,Female,42,Houston,TX,Beauty,Perfume,5,36.72,0%,183.6,59.38,UPI,2023-09-21,2023-09-18,4.5,Yes
+OD-1323,C-5152,Matthew Taylor,Male,38,Charlotte,NC,Electronics,Smartphone,2,794.68,0.3,1112.55,235.18,Credit Card,2023-11-17,2023-11-19,2.5,No
+OD-1324,C-5443,Jessica Garcia,Female,24,San Antonio,TX,Books,History Book,6,22.95,0.25,-103.27,30.47,Credit Card,2023-12-18,2023-12-21,1.0,No
+OD-1325,C-5368,Patricia Johnson,Female,20,Chicago,IL,Electronics,Smartphone,2,698.88,0.2,1118.21,79.54,Debit Card,2023-05-13,2023-05-20,4.0,No
+OD-1326,C-5323,Barbara Miller,Female,45,Austin,TX,Electronics,Smartwatch,6,333.89,0.0,2003.34,485.66,Cash on Delivery,2023-02-02,2023-02-03,1.5,No
+OD-1327,C-5476,Betty Taylor,Female,24,San Jose,CA,Sports,Water Bottle,5,24.63,0.3,86.2,28.27,Net Banking,2023-07-22,2023-07-23,4.5,No
+OD-1328,C-5274,Mark Moore,Male,26,San Francisco,CA,Books,Self-Help Book,6,11.59,0.25,52.15,16.48,UPI,2023-01-06,2023-01-03,1.5,Yes
+OD-1329,C-5003,Dorothy Martin,Female,56,San Francisco,CA,Books,Sci-Fi Novel,1,14.48,0.25,10.86,2.96,UPI,2023-04-19,2023-04-26,5.0,No
+OD-1330,C-5083,Daniel Anderson,Male,32,El Paso,TX,Home Decor,Table Lamp,1,49.06,0.3,34.34,7.56,Credit Card,2023-10-09,2023-10-17,5.0,No
+OD-1331,C-5149,William Jones,Male,34,Houston,TX,Fashion,Socks,5,53.31,0.1,239.9,37.7,Debit Card,2023-02-21,2023-02-26,1.5,No
+OD-1332,C-5163,Lisa Anderson,Female,46,Austin,TX,Books,History Book,3,21.48,0.05,61.22,13.45,UPI,2023-06-11,2023-06-18,2.0,Yes
+OD-1333,C-5161,Donald Jackson,Male,68,San Diego,CA,Sports,Tennis Racket,6,39.32,0.3,165.14,26.07,UPI,2023-09-03,2023-09-11,4.5,No
+OD-1334,C-5397,Joshua Thompson,Male,49,Seattle,WA,Electronics,Laptop,6,597.58,0.3,2509.84,336.78,Debit Card,2023-10-03,2023-10-07,3.0,No
+OD-1335,C-5373,William Jones,Male,19,Charlotte,NC,Sports,Yoga Mat,5,45.31,0.3,158.59,36.0,Credit Card,2023-10-10,2023-10-15,5.0,No
+OD-1336,C-5242,Charles Wilson,Male,41,San Francisco,CA,Fashion,Dress,6,73.29,0.05,417.75,79.13,Cash on Delivery,2023-02-16,2023-02-23,3.5,No
+OD-1337,C-5006,Donald Jackson,Male,69,El Paso,TX,Sports,Dumbbells,5,26.9,0.05,127.77,13.26,Cash on Delivery,2023-12-04,2023-12-07,4.5,No
+OD-1338,C-5021,Mark Moore,Male,66,Fort Worth,TX,Fashion,T-Shirt,3,46.95,0.0,140.85,35.29,Cash on Delivery,2023-07-04,2023-07-11,4.5,No
+OD-1339,C-5452,Robert Williams,Male,20,Austin,TX,Electronics,Tablet,5,612.13,10%,2754.59,827.65,UPI,2023-10-24,2023-10-27,4.0,No
+OD-1340,C-5188,Kimberly Lee,Female,59,Chicago,IL,Books,Self-Help Book,4,26.51,0.05,100.74,20.64,UPI,2023-06-26,2023-07-04,4.5,No
+OD-1341,C-5004,Betty Taylor,Female,26,Columbus,OH,Fashion,Jeans,1,54.79,0.1,49.31,5.59,Debit Card,2023-03-22,2023-03-28,1.5,No
+OD-1342,C-5213,Patricia Johnson,Female,64,Houston,TX,Beauty,Shampoo,4,$29.37,0.2,93.98,9.25,Net Banking,2023-01-12,2023-01-16,1.0,No
+OD-1343,C-5294,Kimberly Lee,Female,28,Phoenix,AZ,Sports,Backpack,1,58.41,0.05,55.49,3.71,UPI,2023-04-03,2023-04-10,1.0,No
+OD-1344,C-5485,David Miller,Male,31,Columbus,OH,Books,Cookbook,4,12.07,0.3,33.8,5.86,Debit Card,2023-10-26,2023-10-29,5.0,No
+OD-1345,C-5086,Patricia Johnson,Female,47,El Paso,TX,Books,Fiction Novel,2,15.81,0.05,30.04,2.48,Debit Card,2023-09-25,2023-10-02,2.0,No
+OD-1346,C-5050,Daniel Anderson,Male,48,El Paso,TX,Books,Fiction Novel,5,18.06,0.0,90.3,7.04,Debit Card,2023-11-05,2023-11-06,4.0,No
+OD-1347,C-5216,Linda Brown,Female,20,Charlotte,NC,Beauty,Moisturizer,4,38.69,0.15,131.55,20.41,Cash on Delivery,2023-02-20,2023-02-27,2.0,No
+OD-1348,C-5245,Mark Moore,Male,23,San Jose,CA,Books,Sci-Fi Novel,4,13.64,0.0,54.56,14.34,Credit Card,2023-10-23,2023-10-25,5.0,Yes
+OD-1349,C-5193,Anthony Thomas,Male,62,Austin,TX,Beauty,Perfume,1,19.64,0.25,14.73,3.32,UPI,2023-10-02,2023-10-09,3.5,No
+OD-1350,C-5142,Barbara Miller,Female,66,San Antonio,TX,Beauty,Face Wash,5,29.47,0.1,132.62,28.88,Net Banking,2023-05-10,2023-05-15,3.5,No
+OD-1351,C-5377,Thomas Rodriguez,Male,60,Houston,TX,Sports,Dumbbells,4,53.89,0.05,204.78,16.4,Cash on Delivery,2023-07-25,2023-07-31,5.0,No
+OD-1352,C-5357,,M,,LOS ANGELES,CA,electronics,Yoga Mat,,,0.15,47.24,15.48,UPI ,2023-02-15,,,YES
+OD-1353,C-5190,David Miller,Male,56,Los Angeles,CA,Sports,Running Shoes,4,46.79,0.2,149.73,20.35,Cash on Delivery,2023-01-30,2023-02-02,4.5,No
+OD-1354,C-5006,Matthew Taylor,Male,60,Charlotte,NC,Home Decor,Table Lamp,1,92.45,0.2,73.96,15.14,Debit Card,2023-11-11,2023-11-14,1.0,No
+OD-1355,C-5123,James Smith,Male,28,Chicago,IL,Home Decor,Throw Pillow,3,84.22,0.15,214.76,48.5,Cash on Delivery,2023-01-08,2023-01-10,1.5,No
+OD-1356,C-5146,Ashley Jackson,Female,55,Jacksonville,FL,Home Decor,Area Rug,2,79.66,0.05,151.35,28.22,Net Banking,2023-10-22,2023-10-23,3.0,No
+OD-1357,C-5209,Betty Taylor,Female,24,Seattle,WA,Electronics,Bluetooth Speaker,3,453.58,0.0,1360.74,395.82,UPI,31-02-2023,2023-10-08,4.5,No
+OD-1358,C-5289,Nancy Martinez,Female,67,San Diego,CA,Home Decor,Throw Pillow,6,69.17,0.2,332.02,102.46,Net Banking,2023-03-01,2023-03-06,1.5,No
+OD-1359,C-5325,Mark Moore,Male,61,San Diego,CA,Home Decor,Throw Pillow,3,73.19,0.0,219.57,57.14,UPI,2023-05-08,2023-05-13,1.5,No
+OD-1360,C-5345,Patricia Johnson,Female,22,Seattle,WA,Fashion,Sneakers,3,46.09,0.2,110.62,14.46,Debit Card,2023-09-13,2023-09-17,2.5,No
+OD-1361,C-5447,Steven Martin,Male,31,San Diego,CA,Fashion,Jeans,5,46.23,0.3,161.8,13.27,Credit Card,2023-12-13,2023-12-21,1.0,No
+OD-1362,C-5491,Robert Williams,Male,48,Jacksonville,FL,Books,Self-Help Book,4,25.17,0.2,80.54,25.02,Net Banking,2023-04-04,2023-04-09,4.0,No
+OD-1363,C-5385,Dorothy Martin,FEMALE,26,Phoenix  ,CA,Sports  ,Cookbook,4,25.91,0.0,103.64,20.8,COD,2023-12-18,2023-12-21,4.5,yes
+OD-1364,C-5358,,female ,,  Chicago,TX,ELECTRONICS,Yoga Mat,,,0.15,41.91,9.4,COD,2023-07-05,,,  Yes  
+OD-1365,C-5135,Donald Jackson,Male,3,Fort Worth,TX,Books,Self-Help Book,3,12.31,0.15,31.39,3.55,UPI,2023-07-06,2023-07-13,3.0,No
+OD-1366,C-5093,Dorothy Martin,Female,26,Denver,CO,Sports,Dumbbells,1,$51.27,0.3,35.89,4.33,Net Banking,2023-07-15,2023-07-19,2.0,No
+OD-1367,C-5243,James Smith,Male,29,Indianapolis,IN,Beauty,Moisturizer,6,30.51,0.25,137.3,19.87,Net Banking,2023-06-03,2023-06-08,5.0,No
+OD-1368,C-5025,Barbara Miller,Female,24,Philadelphia,PA,Electronics,Laptop,3,527.33,0.25,1186.49,93.6,UPI,2023-05-14,2023-05-20,3.5,No
+OD-1369,C-5286,Steven Martin,Male,40,New York,NY,Beauty,Lipstick,3,41.02,0.2,98.45,10.8,Cash on Delivery,2023-11-29,2023-12-02,3.0,No
+OD-1370,C-5167,  Betty Taylor  ,Female,49,Columbus,OH,Electronics,Smartwatch,5,424.72,0.25,1592.7,536.71,Debit Card,2023-11-24,2023-11-30,4.0,No
+OD-1371,C-5293,Barbara Miller,Female,22,Chicago,IL,Fashion,Jacket,2,43.93,0.25,65.89,9.05,UPI,2023-11-06,2023-11-13,3.0,No
+OD-1372,C-5400,  Linda Brown  ,Female,65,Denver,CO,Books,Cookbook,4,12.01,0.3,33.63,1.91,Debit Card,2023-12-05,2023-12-10,1.5,No
+OD-1373,C-5086,Barbara Miller,Female,24,Houston,TX,Electronics,Smartwatch,5,299.07,0.3,1046.74,177.01,Credit Card,2023-02-23,2023-02-28,2.0,No
+OD-1374,C-5336,Elizabeth Jones,Female,37,San Diego,CA,Fashion,Socks,3,50.93,0.05,145.15,12.97,Debit Card,2023-01-15,2023-01-16,3.5,No
+OD-1375,C-5443,Nancy Martinez,Female,47,Seattle,WA,Home Decor,Vase,4,45.73,0.25,-137.19,29.05,Cash on Delivery,2023-11-02,2023-11-10,4.0,No
+OD-1376,C-5328,Sandra Moore,Female,37,Jacksonville,FL,Beauty,Face Wash,2,39.14,0.15,66.54,-9.47,Net Banking,2023-05-14,2023-05-17,3.0,Yes
+OD-1377,C-5001,Margaret Thomas,Female,70,Phoenix,AZ,Home Decor,Area Rug,4,74.53,0.25,223.59,73.03,Net Banking,2023-06-03,2023-06-04,4.0,No
+OD-1378,C-5306,,  Male  ,,new york,NY,Beauty  ,Self-Help Book,,,0.2,26.26,4.76,upi,2023-03-25,,,No 
+OD-1379,C-5135,David Miller,Male,45,San Diego,CA,Books,Sci-Fi Novel,6,21.32,0.1,115.13,28.15,Cash on Delivery,2023-05-18,2023-05-25,2.5,No
+OD-1380,C-5094,Thomas Rodriguez,Male,36,Houston,TX,Sports,Running Shoes,5,40.02,0.25,150.08,35.54,Debit Card,2023-06-14,2023-06-15,2.0,Yes
+OD-1381,C-5497,Sandra Moore,Female,19,Philadelphia,PA,Electronics,Headphones,3,337.52,0.15,860.68,230.78,Debit Card,2023-02-16,2023-02-19,1.0,No
+OD-1382,C-5112,Patricia Johnson,Female,44,San Jose,CA,Beauty,Perfume,4,35.91,0.0,143.64,21.41,Debit Card,2023-01-29,2023-02-03,4.0,No
+OD-1383,C-5279,Nancy Martinez,Female,29,San Antonio,TX,Home Decor,Throw Pillow,1,44.78,0.3,31.35,8.29,Net Banking,2023-08-15,2023-08-19,1.0,No
+OD-1384,C-5236,Richard Davis,Male,51,San Antonio,TX,Beauty,Mascara,6,43.84,0.1,-236.74,23.1,Credit Card,2023-10-09,2023-10-11,3.0,No
+OD-1385,C-5327,Joshua Thompson,Male,30,Jacksonville,FL,Electronics,Tablet,2,795.57,0.05,1511.58,362.59,UPI,2023-01-08,2023-01-11,3.0,No
+OD-1386,C-5062,Barbara Miller,Female,68,San Diego,CA,Electronics,Smartphone,5,$693.08,15%,2945.59,755.61,Debit Card,2023-07-10,2023-07-12,2.5,No
+OD-1387,C-5256,David Miller,Male,61,El Paso,TX,Home Decor,Curtains,1,40.3,0.25,30.22,2.91,Cash on Delivery,2023-02-24,2023-02-27,4.5,No
+OD-1388,C-5163,Ashley Jackson,Female,68,Jacksonville,FL,Beauty,Shampoo,2,15.64,0.15,26.59,4.19,Debit Card,2023-05-09,2023-05-10,4.5,No
+OD-1389,C-5287,Andrew Perez,Male,52,Fort Worth,TX,Fashion,Dress,2,56.36,0.1,101.45,27.36,UPI,2023-11-03,2023-11-06,1.5,No
+OD-1390,C-5080,Sarah Rodriguez,Female,36,Dallas,TX,Books,Self-Help Book,4,9.01,0.25,27.03,5.45,Debit Card,2023-01-10,2023-01-16,2.5,No
+OD-1391,C-5370,William Jones,Male,60,Seattle,WA,Beauty,Moisturizer,5,35.5,0.3,124.25,26.77,Cash on Delivery,2023-05-25,2023-05-31,4.0,No
+OD-1392,C-5057,Richard Davis,Male,51,Chicago,IL,Electronics,Laptop,2,741.69,0.05,1409.21,115.72,Debit Card,2023-02-20,2023-02-21,4.0,No
+OD-1393,C-5270,Donna Thompson,Female,62,Denver,CO,Home Decor,Wall Art,3,51.89,0.25,116.75,8.32,Debit Card,2023-12-02,2023-12-10,1.5,No
+OD-1394,C-5411,Michael Brown,Male,41,Seattle,WA,Sports,Running Shoes,3,54.36,0.0,163.08,48.45,UPI,2023-09-28,2023-09-29,1.5,No
+OD-1395,C-5040,Anthony Thomas,Male,51,Houston,TX,Electronics,Tablet,2,557.1,0.05,1058.49,114.25,Debit Card,2023-10-19,2023-10-22,5.0,No
+OD-1396,C-5213,Richard Davis,Male,67,Denver,CO,Home Decor,Curtains,4,86.58,0.15,294.37,92.68,Debit Card,2023-04-03,2023-04-10,5.0,No
+OD-1397,C-5337,Christopher Martinez,Male,52,El Paso,TX,Beauty,Perfume,3,31.5,0.1,85.05,25.81,Net Banking,2023-11-21,2023-11-28,3.5,No
+OD-1398,C-5124,Dorothy Martin,Female,52,San Antonio,TX,Beauty,Face Wash,6,$22.62,0.15,115.36,21.26,Net Banking,2023-01-01,2023-01-02,3.0,No
+OD-1399,C-5009,Margaret Thomas,Female,26,San Jose,CA,Electronics,Headphones,2,386.0,0.1,694.8,39.26,UPI,2023-10-11,2023-10-14,1.5,Yes
+OD-1400,C-5236,Jennifer Williams,Female,27,Phoenix,AZ,Home Decor,Area Rug,5,53.99,0.1,242.95,71.26,Credit Card,2023-10-20,2023-10-27,2.5,No
+OD-1401,C-5371,Mary Smith,Female,68,Fort Worth,TX,Fashion,Sneakers,6,64.95,0.3,272.79,87.92,Cash on Delivery,2023-11-25,2023-11-30,1.0,No
+OD-1402,C-5196,David Miller,Male,67,Los Angeles,CA,Home Decor,Area Rug,4,$65.99,0.3,184.77,15.92,Debit Card,2023-12-01,2023-12-02,4.0,Yes
+OD-1403,C-5157,  Margaret Thomas  ,Female,20,Austin,TX,Books,Sci-Fi Novel,500,14.88,0.25,22.32,2.59,Credit Card,2023-12-11,2023-12-18,4.5,No
+OD-1404,C-5295,Betty Taylor,Female,23,San Diego,CA,Beauty,Perfume,-10,19.44,0.1,69.98,5.23,Cash on Delivery,2023-01-26,2023-02-02,3.0,No
+OD-1405,C-5205,Betty Taylor,Female,45,Phoenix,AZ,Fashion,Sneakers,5,37.7,0.15,160.22,39.36,Debit Card,2023-10-15,2023-10-19,2.5,No
+OD-1406,C-5137,Jessica Garcia,Female,38,Denver,CO,Electronics,Smartphone,6,493.33,0.1,2663.98,411.56,UPI,2023-06-26,2023-06-27,3.0,No
+OD-1407,C-5180,Donna Thompson,Female,70,Columbus,OH,Books,Biography,4,9.81,0.3,27.47,3.3,UPI,2023-03-21,2023-03-23,1.5,Yes
+OD-1408,C-5125,Donna Thompson,Female,27,San Jose,CA,Electronics,Headphones,6,704.31,0.1,3803.27,703.68,Credit Card,2023-06-19,2023-06-23,5.0,No
+OD-1409,C-5105,Sandra Moore,Female,51,Dallas,TX,Books,Cookbook,5,22.14,0.05,105.16,27.19,Credit Card,2023-07-12,2023-07-13,3.0,No
+OD-1410,C-5031,Andrew Perez,Male,30,El Paso,TX,Home Decor,Wall Art,4,83.14,0.0,332.56,23.27,UPI,2023-12-06,2023-12-12,1.5,Yes
+OD-1411,C-5150,Elizabeth Jones,Female,32,San Francisco,CA,Books,History Book,1,25.27,0.15,21.48,6.66,Cash on Delivery,2023-02-15,2023-02-18,2.5,No
+OD-1412,C-5495,Karen Wilson,Female,53,New York,NY,Electronics,Laptop,5,434.66,0.15,1847.31,310.38,Debit Card,2023-01-10,2023-01-16,3.5,No
+OD-1413,C-5321,Joshua Thompson,Male,33,Charlotte,NC,Home Decor,Wall Art,6,54.55,0.15,278.2,88.22,Credit Card,2023-10-12,2023-10-17,2.5,No
+OD-1414,C-5175,Barbara Miller,Female,60,Phoenix,AZ,Electronics,Tablet,4,551.19,0.25,1653.57,386.5,Debit Card,2023-08-02,2023-08-06,2.0,No
+OD-1415,C-5497,Joshua Thompson,Male,56,Austin,TX,Beauty,Face Wash,2,21.2,0.05,40.28,9.04,Debit Card,2023-03-12,2023-03-17,5.0,No
+OD-1416,C-5221,  Charles Wilson  ,Male,59,Denver,CO,Fashion,Jacket,1,57.1,0.25,42.83,3.66,UPI,2023-03-16,2023-03-17,3.5,No
+OD-1417,C-5493,Susan Davis,Female,37,Columbus,OH,Sports,Tennis Racket,6,32.5,0.3,136.5,14.52,Debit Card,2023-04-05,2023-04-06,3.0,No
+OD-1418,C-5291,Donna Thompson,Female,32,El Paso,TX,Fashion,Jeans,6,28.41,0.0,170.46,43.71,Net Banking,2023-03-10,2023-03-18,3.5,No
+OD-1419,C-5437,Elizabeth Jones,Female,49,Fort Worth,TX,Fashion,Jeans,2,39.22,0.15,66.67,18.63,Credit Card,2023-05-19,2023-05-26,2.5,No
+OD-1420,C-5388,Anthony Thomas,Male,22,Philadelphia,PA,Beauty,Face Wash,4,35.64,0.3,99.79,18.69,Debit Card,2023-08-07,2023-08-14,1.0,No
+OD-1421,C-5377,Elizabeth Jones,MALE,64,  Chicago,TX,electronics,Face Wash,6,32.16,0.2,154.37,32.04,Cash on Delivery,2023-09-24,2023-09-26,4.5,yes
+OD-1422,C-5424,Robert Williams,Male,33,Charlotte,NC,Books,Cookbook,6,9.71,0.15,49.52,10.14,Credit Card,2023-04-08,2023-04-13,4.5,No
+OD-1423,C-5453,Joshua Thompson,Male,67,San Jose,CA,Beauty,Moisturizer,4,23.83,0.0,95.32,24.5,Debit Card,2023-08-26,2023-09-03,1.5,No
+OD-1424,C-5058,Daniel Anderson,Male,67,Denver,CO,Sports,Backpack,2,37.51,0.1,67.52,-12.51,Debit Card,2023-08-21,2023-08-20,4.5,No
+OD-1425,C-5129,Mary Smith,Female,62,Philadelphia,PA,Sports,Tennis Racket,1,24.83,0.25,18.62,3.44,UPI,2023-02-13,2023-02-20,5.0,No
+OD-1426,C-5487,,F,,houston,WA,Sports  ,Lipstick,,,0.2,67.79,21.11,upi,2023-03-25,,,YES
+OD-1427,C-5215,Joshua Thompson,Male,37,Columbus,OH,Home Decor,Curtains,2,44.46,0.05,84.47,28.56,Credit Card,2023-11-15,2023-11-20,1.0,No
+OD-1428,C-5255,Lisa Anderson,Female,52,New York,NY,Books,Cookbook,2,12.9,0.25,19.35,3.73,Net Banking,2023-08-15,2023-08-17,1.0,No
+OD-1429,C-5452,Ashley Jackson,Female,35,El Paso,TX,Sports,Backpack,2,23.05,0.05,43.8,2.91,UPI,2023-01-19,2023-01-22,1.0,No
+OD-1430,C-5430,Emily Perez,Female,37,Austin,TX,Electronics,Smartphone,1,495.16,0.05,470.4,46.29,UPI,2023-11-09,2023-11-12,4.5,No
+OD-1431,C-5185,Robert Williams,Male,23,San Jose,CA,Home Decor,Area Rug,4,95.06,0.3,266.17,47.43,Cash on Delivery,2023-02-03,2023-02-08,4.5,No
+OD-1432,C-5063,Paul Lee,Male,39,Charlotte,NC,Beauty,Face Wash,2,35.87,0.2,57.39,3.87,Cash on Delivery,2023-11-19,2023-11-21,4.5,No
+OD-1433,C-5479,Andrew Perez,Male,45,El Paso,TX,Home Decor,Area Rug,5,77.41,0.2,309.64,48.35,Debit Card,2023-11-11,2023-11-19,5.0,No
+OD-1434,C-5253,Daniel Anderson,Male,57,San Diego,CA,Sports,Water Bottle,2,21.07,0.0,42.14,7.98,Credit Card,2023-04-17,2023-04-24,4.0,Yes
+OD-1435,C-5171,Jennifer Williams,Female,120,San Antonio,TX,Electronics,Tablet,2,642.61,0.1,1156.7,332.04,UPI,2023-06-03,2023-06-09,1.0,No
+OD-1436,C-5352,Patricia Johnson,Female,39,San Francisco,CA,Sports,Backpack,5,61.32,0.3,214.62,22.04,UPI,2023-06-23,2023-07-01,4.5,Yes
+OD-1437,C-5331,,female,,new york,AZ,books,Running Shoes,,,0.15,249.18,71.07,upi,2023-01-29,,,no
+OD-1438,C-5275,John Johnson,Male,31,Denver,CO,Sports,Water Bottle,3,23.78,0.05,67.77,9.09,Credit Card,2023-06-23,2023-06-30,5.0,No
+OD-1439,C-5293,Emily Perez,Female,42,Philadelphia,PA,Books,Fiction Novel,3,21.69,0.1,58.56,15.4,UPI,2023-07-31,2023-08-02,4.5,No
+OD-1440,C-5191,Sarah Rodriguez,Female,37,San Antonio,TX,Books,Self-Help Book,2,11.02,0.3,15.43,0.94,Debit Card,2023-02-17,2023-02-25,5.0,Yes
+OD-1441,C-5410,Nancy Martinez,male,50,Phoenix,AZ,Fashion,Jacket,4,66.55,0.2,212.96,30.48,DEBIT CARD,2023-03-15,2023-03-17,5.0,No
+OD-1442,C-5106,Robert Williams,Male,47,San Francisco,CA,Sports,Backpack,1,21.17,0.0,21.17,5.42,Cash on Delivery,2023-02-14,2023-02-20,4.5,Yes
+OD-1443,C-5053,Margaret Thomas,Female,67,San Jose,CA,Electronics,Bluetooth Speaker,3,614.98,0.05,1752.69,256.36,Debit Card,2023-05-27,2023-06-01,5.0,No
+OD-1444,C-5396,Sarah Rodriguez,Female,60,Houston,TX,Home Decor,Table Lamp,2,55.7,0.0,111.4,37.6,Cash on Delivery,2023-09-21,2023-09-23,2.5,No
+OD-1445,C-5180,Ashley Jackson,Female,38,Dallas,TX,Fashion,Socks,3,58.0,0.05,165.3,11.8,Cash on Delivery,2023-06-23,2023-07-01,1.0,No
+OD-1446,C-5015,Nancy Martinez,Female,61,Los Angeles,CA,Electronics,Smartwatch,1,316.5,0.15,269.02,27.9,Cash on Delivery,2023-10-31,2023-11-08,3.5,No
+OD-1447,C-5171,Matthew Taylor,Male,63,Seattle,WA,Electronics,Smartwatch,5,341.17,0.3,1194.1,347.13,Net Banking,2023-02-19,2023-02-27,3.0,No
+OD-1448,C-5241,Mark Moore,Male,32,Phoenix,AZ,Books,Self-Help Book,3,16.06,0.25,36.13,11.75,UPI,2023-06-16,2023-06-24,4.5,Yes
+OD-1449,C-5034,Nancy Martinez,Female,25,Jacksonville,FL,Beauty,Mascara,2,23.47,0.1,42.25,9.77,Debit Card,2023-09-18,2023-09-20,4.0,No
+OD-1450,C-5167,Ashley Jackson,Female,59,Chicago,IL,Home Decor,Vase,4,64.86,0.15,220.52,26.81,Debit Card,2023-10-08,2023-10-11,4.5,No
+OD-1451,C-5034,Patricia Johnson,Female,120,Denver,CO,Beauty,Mascara,5,38.62,0.2,154.48,39.89,Debit Card,2023-12-06,2023-12-08,4.5,No
+OD-1452,C-5304,,F,,LOS ANGELES,TX,books,Fiction Novel,,,0.15,41.38,2.93,Net Banking  ,2023-12-17,,,NO
+OD-1453,C-5331,Michael Brown,Male,23,San Antonio,TX,Fashion,Dress,6,70.73,0.3,297.07,27.93,Debit Card,2023-08-20,2023-08-25,0.0,No
+OD-1454,C-5296,Sarah Rodriguez,Female,30,San Antonio,TX,Sports,Water Bottle,3,44.95,0.25,101.14,14.3,Net Banking,2023-06-26,2023-06-28,1.0,No
+OD-1455,C-5262,Barbara Miller,Female,26,San Jose,CA,Electronics,Headphones,5,792.67,0.0,3963.35,1034.46,UPI,2023-02-26,2023-03-03,1.0,No
+OD-1456,C-5222,Kimberly Lee,Female,43,Austin,TX,Sports,Running Shoes,4,37.03,0.2,118.5,13.43,Debit Card,2023-09-01,2023-09-04,2.5,No
+OD-1457,C-5197,Linda Brown,Female,44,Phoenix,AZ,Home Decor,Curtains,2,45.67,0.0,91.34,22.33,Debit Card,2023-09-07,2023-09-14,2.0,No
+OD-1458,C-5071,Susan Davis,Female,47,El Paso,TX,Beauty,Face Wash,2,28.63,0.15,48.67,10.49,Net Banking,2023-07-16,2023-07-22,2.5,No
+OD-1459,C-5218,Emily Perez,Female,18,Denver,CO,Beauty,Shampoo,2,36.36,0.1,65.45,11.34,Cash on Delivery,2023-10-23,2023-10-29,1.0,Yes
+OD-1460,C-5291,  Nancy Martinez  ,Female,63,Jacksonville,FL,Electronics,Bluetooth Speaker,4,789.34,0.0,3157.36,292.45,Cash on Delivery,2023-05-24,2023-06-01,5.0,No
+OD-1461,C-5268,Donna Thompson,Female,23,San Diego,CA,Beauty,Shampoo,6,34.91,25%,157.09,11.53,Cash on Delivery,2023-10-24,2023-10-29,1.0,No
+OD-1462,C-5274,James Smith,Male,48,Columbus,OH,Books,Cookbook,5,22.21,0.15,94.39,14.71,UPI,2023-05-29,2023-06-01,1.0,No
+OD-1463,C-5384,Joshua Thompson,Male,64,Denver,CO,Home Decor,Wall Art,6,70.07,0.05,399.4,88.61,UPI,2023-11-16,2023-11-17,3.0,No
+OD-1464,C-5043,Thomas Rodriguez,Male,50,Chicago,IL,Home Decor,Area Rug,2,80.34,0.1,144.61,44.45,Credit Card,2023-02-27,2023-03-02,2.0,No
+OD-1465,C-5190,Daniel Anderson,Male,34,San Diego,CA,Beauty,Moisturizer,5,40.86,0.1,183.87,-63.48,Debit Card,2023-11-01,2023-11-04,4.5,No
+OD-1466,C-5395,  Elizabeth Jones  ,Female,33,Columbus,OH,Sports,Tennis Racket,2,29.86,0.25,44.79,13.55,Credit Card,2023-11-25,2023-11-30,1.5,Yes
+OD-1467,C-5086,Karen Wilson,Female,43,Fort Worth,TX,Home Decor,Throw Pillow,500,104.27,0.2,500.5,60.11,Net Banking,2023-08-31,2023-09-05,2.0,No
+OD-1468,C-5446,Jessica Garcia,Female,18,San Jose,CA,Beauty,Mascara,6,24.47,0.2,117.46,29.94,Credit Card,2023-02-19,2023-02-25,4.0,No
+OD-1469,C-5471,Paul Lee,Male,39,Dallas,TX,Home Decor,Wall Art,3,83.11,0.15,211.93,39.91,Debit Card,2023-12-11,2023-12-15,5.0,No
+OD-1470,C-5347,Daniel Anderson,Male,38,Seattle,WA,Electronics,Tablet,1,719.11,0.0,719.11,124.68,Cash on Delivery,2023-02-23,2023-03-03,3.5,No
+OD-1471,C-5372,Andrew Perez,Male,34,San Antonio,TX,Electronics,Smartphone,5,319.65,0.2,1278.6,315.79,Debit Card,2023-11-03,2023-11-05,1.5,No
+OD-1472,C-5439,Emily Perez,Female,26,San Francisco,CA,Sports,Tennis Racket,5,54.73,0.05,259.97,82.88,Debit Card,2023-05-10,2023-05-15,4.5,No
+OD-1473,C-5328,Karen Wilson,Female,35,Indianapolis,IN,Sports,Tennis Racket,3,31.81,0.3,66.8,4.82,Credit Card,2023-07-15,2023-07-22,3.5,Yes
+OD-1474,C-5133,Steven Martin,Male,29,Columbus,OH,Electronics,Smartwatch,2,599.56,0.05,1139.16,277.55,Credit Card,2023-03-15,2023-03-22,2.5,No
+OD-1475,C-5330,Richard Davis,Male,46,Dallas,TX,Electronics,Smartphone,-10,308.02,0.25,231.01,28.92,Net Banking,2023-01-10,2023-01-18,2.0,Yes
+OD-1476,C-5478,Robert Williams,Male,60,San Francisco,CA,Home Decor,Table Lamp,6,59.75,0.15,304.72,67.77,Cash on Delivery,2023-12-29,2024-01-06,4.5,No
+OD-1477,C-5207,William Jones,Male,52,San Diego,CA,Electronics,Smartwatch,6,711.71,0.15,3629.72,313.47,Cash on Delivery,2023-07-03,2023-07-09,3.0,No
+OD-1478,C-5029,David Miller,  Male  ,41,houston,WA,electronics,Wall Art,4,90.75,0.1,326.7,79.83,upi,2023-10-11,2023-10-12,4.0,No 
+OD-1479,C-5154,Elizabeth Jones,Female,24,Jacksonville,FL,Beauty,Lipstick,6,28.14,0.05,160.4,14.75,Debit Card,2023-01-13,2023-01-17,4.5,No
+OD-1480,C-5033,Sandra Moore,MALE,59,San Jose,CA,books,Face Wash,4,44.0,0.0,176.0,10.76,Net Banking  ,2023-06-22,2023-06-23,4.0,No
+OD-1481,C-5109,Margaret Thomas,Female,47,Seattle,WA,Fashion,Socks,5,39.58,0.0,197.9,12.08,Debit Card,2023-09-08,2023-09-09,4.5,No
+OD-1482,C-5024,Donald Jackson,Male,62,Phoenix,AZ,Electronics,Laptop,6,296.98,0.1,1603.69,475.05,Credit Card,2023-08-22,2023-08-25,1.5,No
+OD-1483,C-5059,Lisa Anderson,Female,56,El Paso,TX,Fashion,T-Shirt,2,50.02,0.3,70.03,21.06,Net Banking,2023-06-16,2023-06-18,5.0,No
+OD-1484,C-5165,Anthony Thomas,Male,66,Los Angeles,CA,Books,Biography,3,10.14,0.1,27.38,2.53,Net Banking,2023-03-28,2023-04-03,5.0,No
+OD-1485,C-5225,Donald Jackson,Male,55,Los Angeles,CA,Fashion,T-Shirt,6,60.07,0.3,252.29,24.55,Net Banking,2023-02-11,2023-02-12,1.0,No
+OD-1486,C-5475,David Miller,Male,63,Denver,CO,Home Decor,Throw Pillow,6,94.13,0.3,395.35,76.22,Debit Card,2023-04-16,2023-04-19,3.0,No
+OD-1487,C-5231,,  Male  ,,houston,PA,ELECTRONICS,History Book,,,0.25,14.8,2.96,COD,2023-11-18,,,yes
+OD-1488,C-5003,Ashley Jackson,Female,33,San Antonio,TX,Electronics,Bluetooth Speaker,1,604.22,0.3,422.95,117.72,Cash on Delivery,2023-09-17,2023-09-21,4.5,No
+OD-1489,C-5142,  Michael Brown  ,Male,30,Houston,TX,Fashion,Socks,4,53.87,0.05,204.71,51.39,Credit Card,2023-01-28,2023-02-03,3.0,No
+OD-1490,C-5223,Steven Martin,Male,39,El Paso,TX,Beauty,Lipstick,1,37.21,0.2,29.77,3.06,Credit Card,2023-09-06,2023-09-08,1.5,No
+OD-1491,C-5370,Sarah Rodriguez,  Male  ,55,Denver,CO,Home Decor,Throw Pillow,2,89.79,0.1,161.62,19.24,Net Banking  ,2023-06-16,2023-06-20,1.5,No
+OD-1492,C-5378,Susan Davis,Female,30,San Francisco,CA,Fashion,T-Shirt,4,58.59,0.0,234.36,74.33,Debit Card,2023-04-21,2023-04-29,2.0,No
+OD-1493,C-5192,Thomas Rodriguez,Male,47,San Antonio,TX,Sports,Water Bottle,3,$29.49,0.05,84.05,5.01,Cash on Delivery,2023-01-31,2023-02-05,2.0,No
+OD-1494,C-5437,Karen Wilson,F,47,Indianapolis,IN,Sports  ,Jacket,2,74.87,0.2,119.79,11.62,Net Banking  ,2023-03-29,2023-04-02,1.5,No
+OD-1495,C-5439,,female ,,new york,TX,Sports  ,Cookbook,,,0.25,42.09,7.51,UPI ,2023-05-07,,,No 
+OD-1496,C-5114,Kimberly Lee,Female,27,Denver,CO,Electronics,Smartwatch,1,$291.63,0.15,247.89,-66.94,Cash on Delivery,2023-01-18,2023-01-25,5.0,No
+OD-1497,C-5246,Richard Davis,Male,46,Fort Worth,TX,Fashion,T-Shirt,5,67.67,0.25,253.76,68.4,Debit Card,2023-03-09,2023-03-15,3.0,No
+OD-1498,C-5332,David Miller,Male,19,Fort Worth,TX,Sports,Water Bottle,2,$50.54,0.3,70.76,15.65,Cash on Delivery,2023-01-13,2023-01-21,4.5,No
+OD-1499,C-5448,Barbara Miller,Female,29,Jacksonville,FL,Sports,Running Shoes,6,47.6,30%,199.92,47.62,Net Banking,2023-12-20,2023-12-26,5.0,Yes
+OD-1500,C-5152,Jessica Garcia,Female,66,Dallas,TX,Sports,Backpack,5,45.16,0.05,214.51,61.42,Credit Card,2023-11-14,2023-11-20,1.0,No
+OD-1501,C-5485,Linda Brown,Female,21,Houston,TX,Beauty,Perfume,4,33.57,0.1,120.85,19.33,Cash on Delivery,2023-12-27,2023-12-29,5.0,No
+OD-1502,C-5071,Patricia Johnson,Female,33,Seattle,WA,Electronics,Tablet,4,668.19,0.3,1870.93,419.16,Debit Card,2023-04-26,2023-05-02,3.5,No
+OD-1503,C-5258,Jessica Garcia,Female,35,Los Angeles,CA,Electronics,Headphones,3,514.3,0.2,1234.32,256.74,Credit Card,2023-08-29,2023-09-03,4.5,No
+OD-1504,C-5189,William Jones,Male,30,Columbus,OH,Electronics,Smartphone,4,754.89,0.1,2717.6,917.13,Credit Card,2023-02-25,2023-02-28,3.0,No
+OD-1505,C-5357,Charles Wilson,Male,49,Phoenix,AZ,Fashion,Dress,6,28.23,0.15,143.97,49.08,Cash on Delivery,2023-03-09,2023-03-17,3.5,No
+OD-1506,C-5228,John Johnson,Male,36,San Antonio,TX,Electronics,Smartphone,2,720.87,0.2,1153.39,280.74,Net Banking,2023-10-24,2023-10-30,3.5,No
+OD-1507,C-5304,Margaret Thomas,Female,53,Columbus,OH,Beauty,Perfume,5,18.96,0.3,66.36,9.42,UPI,2023-04-27,2023-05-05,3.5,No
+OD-1508,C-5395,Michael Brown,Male,27,Jacksonville,FL,Home Decor,Throw Pillow,2,80.54,0.05,153.03,40.33,UPI,2023-04-04,2023-04-07,2.0,No
+OD-1509,C-5122,Joseph Garcia,Male,20,Austin,TX,Books,Biography,4,$13.69,0.05,52.02,5.8,Credit Card,2023-12-07,2023-12-13,3.5,No
+OD-1510,C-5191,Sarah Rodriguez,Female,52,Philadelphia,PA,Books,Self-Help Book,1,25.57,0.15,21.73,7.16,Debit Card,2023-08-23,2023-08-29,2.0,Yes
+OD-1511,C-5497,Sandra Moore,Female,50,Austin,TX,Sports,Tennis Racket,3,40.9,0.1,-110.43,37.64,Cash on Delivery,2023-12-08,2023-12-11,4.5,No
+OD-1512,C-5353,Joseph Garcia,Male,64,Fort Worth,TX,Electronics,Laptop,6,567.52,0.1,3064.61,176.03,Cash on Delivery,2023-04-23,2023-05-01,3.5,No
+OD-1513,C-5168,Michael Brown,Male,56,San Antonio,TX,Books,Sci-Fi Novel,2,23.06,0.3,32.28,4.31,Credit Card,2023-02-12,2023-02-20,1.5,No
+OD-1514,C-5202,  Matthew Taylor  ,Male,49,Austin,TX,Books,Sci-Fi Novel,5,25.98,0.25,97.43,15.43,Debit Card,2023-08-07,2023-08-13,4.0,No
+OD-1515,C-5007,Andrew Perez,Male,40,Jacksonville,FL,Home Decor,Throw Pillow,5,42.31,0.25,158.66,50.19,Net Banking,2023-08-15,2023-08-20,2.0,No
+OD-1516,C-5374,Susan Davis,Female,26,Denver,CO,Books,Fiction Novel,2,12.74,0.15,21.66,7.51,Cash on Delivery,2023-06-21,2023-06-23,4.0,No
+OD-1517,C-5004,Susan Davis,Female,58,Dallas,TX,Beauty,Moisturizer,5,28.86,0.2,115.44,31.93,Debit Card,2023-04-13,2023-04-16,4.0,No
+OD-1518,C-5284,Lisa Anderson,Female,20,San Jose,CA,Books,Self-Help Book,4,19.07,0.15,64.84,7.61,Credit Card,2023-03-20,2023-03-25,3.0,No
+OD-1519,C-5064,Andrew Perez,Male,44,Philadelphia,PA,Beauty,Shampoo,6,$22.34,0.0,134.04,37.45,Net Banking,2023-02-04,2023-02-10,4.5,No
+OD-1520,C-5224,Steven Martin,Male,58,Fort Worth,TX,Sports,Yoga Mat,3,42.53,0.2,102.07,5.64,UPI,2023-03-25,2023-03-26,2.0,No
+OD-1521,C-5237,Thomas Rodriguez,Male,40,Philadelphia,PA,Electronics,Headphones,3,496.54,10%,1340.66,86.63,UPI,2023-09-29,2023-10-01,5.0,No
+OD-1522,C-5393,Daniel Anderson,Male,66,Houston,TX,Books,Biography,5,14.81,0.1,66.64,19.86,UPI,2023-05-19,2023-05-25,1.5,No
+OD-1523,C-5297,Jennifer Williams,Female,70,Phoenix,AZ,Electronics,Laptop,5,421.97,0.3,1476.9,288.69,UPI,2023-03-25,2023-03-27,2.5,No
+OD-1524,C-5258,Mark Moore,Male,30,Seattle,WA,Books,History Book,5,24.23,0.25,-90.86,19.57,Credit Card,31-02-2023,2023-08-10,1.5,No
+OD-1525,C-5420,Thomas Rodriguez,Male,19,Fort Worth,TX,Home Decor,Area Rug,6,62.1,0.3,260.82,47.62,Cash on Delivery,2023-09-25,2023-10-01,2.0,No
+OD-1526,C-5015,Joseph Garcia,Male,32,Phoenix,AZ,Sports,Dumbbells,6,30.52,5%,173.96,19.65,Credit Card,2023-08-06,2023-08-08,1.5,Yes
+OD-1527,C-5397,Nancy Martinez,Female,-5,Indianapolis,IN,Electronics,Laptop,1,287.71,0.25,215.78,44.03,Credit Card,2023-08-29,2023-08-31,3.0,Yes
+OD-1528,C-5034,Joshua Thompson,Male,60,New York,NY,Electronics,Smartphone,5,380.92,0.05,1809.37,190.77,UPI,2023-01-15,2023-01-17,2.0,No
+OD-1529,C-5486,Kimberly Lee,Female,40,Jacksonville,FL,Fashion,Dress,6,$60.1,0.2,288.48,63.77,Credit Card,2023-10-24,2023-10-25,5.0,No
+OD-1530,C-5367,Matthew Taylor,Male,36,Philadelphia,PA,Books,Fiction Novel,6,10.78,0.05,61.45,20.04,Net Banking,2023-07-07,2023-07-10,4.5,No
+OD-1531,C-5093,Jennifer Williams,Female,42,Indianapolis,IN,Fashion,Dress,2,49.01,0.3,68.61,23.7,Credit Card,2023-08-27,2023-08-29,5.0,No
+OD-1532,C-5254,Linda Brown,Female,63,San Jose,CA,Books,History Book,1,10.48,15%,8.91,0.75,UPI,2023-08-22,2023-08-27,4.5,No
+OD-1533,C-5284,Susan Davis,Female,36,Indianapolis,IN,Fashion,T-Shirt,4,77.71,0.1,279.76,29.04,Net Banking,2023-12-11,2023-12-13,4.0,No
+OD-1534,C-5268,David Miller,Male,25,Phoenix,AZ,Beauty,Mascara,6,32.72,0.0,196.32,53.48,Debit Card,2023-02-03,2023-02-09,2.5,No
+OD-1535,C-5103,Emily Perez,Female,43,Houston,TX,Fashion,Sneakers,6,53.95,0.3,226.59,59.83,Cash on Delivery,2023-10-31,2023-11-05,4.0,No
+OD-1536,C-5244,Emily Perez,  Male  ,43,Fort Worth,TX,Sports  ,Self-Help Book,2,-50.0,0.0,45.64,3.96,Cash on Delivery,2023-09-12,2023-09-16,2.0,Yes
+OD-1537,C-5051,Michael Brown,Male,22,Fort Worth,TX,Sports,Yoga Mat,2,37.07,0.25,55.61,8.24,UPI,2023-11-15,2023-11-17,1.5,No
+OD-1538,C-5393,Lisa Anderson,Female,68,Columbus,OH,Fashion,Jacket,6,53.89,0.2,258.67,33.24,UPI,2023-10-04,2023-10-05,1.0,No
+OD-1539,C-5451,Joseph Garcia,Male,42,Columbus,OH,Home Decor,Throw Pillow,4,69.1,0.0,276.4,28.49,UPI,2023-12-28,2023-12-31,4.5,No
+OD-1540,C-5069,Joshua Thompson,Male,63,San Francisco,CA,Beauty,Lipstick,5,35.25,0.25,132.19,28.57,Cash on Delivery,2023-10-20,2023-10-28,4.5,No
+OD-1541,C-5438,Christopher Martinez,Male,50,Los Angeles,CA,Beauty,Perfume,4,32.73,0.15,111.28,26.16,UPI,2023-05-26,2023-06-01,1.0,Yes
+OD-1542,C-5303,Robert Williams,Male,26,Jacksonville,FL,Home Decor,Curtains,5,37.94,0.25,142.27,21.68,Credit Card,2023-08-08,2023-08-14,3.5,No
+OD-1543,C-5180,Michael Brown,Male,60,San Diego,CA,Fashion,Jeans,6,$43.85,0.0,263.1,85.01,Credit Card,2023-06-06,2023-06-08,3.5,No
+OD-1544,C-5011,Sandra Moore,Female,38,Los Angeles,CA,Beauty,Shampoo,4,32.04,0.15,108.94,14.16,Net Banking,2023-10-29,2023-10-30,3.5,No
+OD-1545,C-5293,Elizabeth Jones,Female,38,Denver,CO,Electronics,Smartwatch,1,643.07,0.05,610.92,92.12,Cash on Delivery,2023-12-08,2023-12-14,2.0,No
+OD-1546,C-5154,Linda Brown,Female,45,San Antonio,TX,Beauty,Shampoo,1,40.21,0.2,32.17,3.67,UPI,2023-01-25,2023-01-30,4.0,No
+OD-1547,C-5320,David Miller,Male,63,Denver,CO,Electronics,Bluetooth Speaker,3,417.62,0.2,1002.29,291.02,Net Banking,2023-08-07,2023-08-11,3.5,No
+OD-1548,C-5334,Joshua Thompson,Male,50,San Jose,CA,Beauty,Shampoo,5,24.4,0.15,103.7,17.7,Cash on Delivery,2023-09-21,2023-09-29,5.0,No
+OD-1549,C-5452,John Johnson,Male,58,Charlotte,NC,Fashion,Dress,4,38.5,0.3,107.8,29.39,Net Banking,abcd-ef-gh,2023-05-25,1.0,No
+OD-1550,C-5103,Linda Brown,Female,47,Phoenix,AZ,Fashion,Jeans,6,64.01,0.1,345.65,104.81,Net Banking,2023-06-13,2023-06-15,2.5,No
+OD-1551,C-5137,Andrew Perez,Male,59,Philadelphia,PA,Home Decor,Curtains,5,53.0,0.05,251.75,21.16,Debit Card,2023-01-15,2023-01-19,3.0,No
+OD-1552,C-5249,Ashley Jackson,Female,45,Indianapolis,IN,Sports,Yoga Mat,2,27.69,0.05,52.61,3.09,UPI,2023-12-04,2023-11-30,1.0,No
+OD-1553,C-5401,John Johnson,Male,21,Chicago,IL,Home Decor,Vase,3,98.44,0.15,251.02,80.08,Credit Card,2023-07-23,2023-07-26,2.5,No
+OD-1554,C-5293,Betty Taylor,Female,25,Charlotte,NC,Sports,Backpack,5,31.58,0.0,157.9,19.17,Credit Card,2023-06-10,2023-06-16,4.0,No
+OD-1555,C-5479,Jessica Garcia,Female,31,Phoenix,AZ,Electronics,Laptop,2,793.76,0.15,1349.39,232.79,Cash on Delivery,2023-01-29,2023-02-06,5.0,No
+OD-1556,C-5359,Joseph Garcia,Male,38,Seattle,WA,Beauty,Mascara,6,$22.39,0.1,120.91,37.95,Debit Card,2023-07-05,2023-07-13,3.5,No
+OD-1557,C-5011,Emily Perez,Female,20,Los Angeles,CA,Sports,Tennis Racket,2,$31.63,0.15,53.77,7.68,UPI,2023-12-17,2023-12-19,5.0,No
+OD-1558,C-5440,Sarah Rodriguez,Female,42,New York,NY,Beauty,Perfume,3,17.71,0.3,37.19,10.3,UPI,2023-04-18,2023-04-21,4.5,No
+OD-1559,C-5451,Susan Davis,Female,68,Los Angeles,CA,Home Decor,Wall Art,4,69.92,0.15,237.73,77.96,UPI,2023-08-05,2023-08-07,2.0,No
+OD-1560,C-5260,William Jones,Male,40,Indianapolis,IN,Books,History Book,5,22.28,0.15,94.69,24.48,Credit Card,2023-11-25,2023-11-28,4.5,No
+OD-1561,C-5002,Barbara Miller,Female,30,San Jose,CA,Home Decor,Vase,1,43.98,0.05,41.78,8.56,Debit Card,2023-11-01,2023-11-08,3.5,No
+OD-1562,C-5245,Thomas Rodriguez,Male,34,Philadelphia,PA,Sports,Backpack,3,54.58,0.05,155.55,-11.72,UPI,2023-04-04,2023-04-11,4.0,No
+OD-1563,C-5115,John Johnson,Male,19,Seattle,WA,Sports,Backpack,6,30.61,0.0,183.66,62.86,Debit Card,2023-05-15,2023-05-18,1.0,No
+OD-1564,C-5317,Jessica Garcia,Female,56,Dallas,TX,Fashion,T-Shirt,3,$36.19,0.2,86.86,7.4,Cash on Delivery,2023-08-11,2023-08-19,4.5,No
+OD-1565,C-5115,  Anthony Thomas  ,Male,30,Dallas,TX,Home Decor,Curtains,4,63.51,0.15,215.93,66.27,Cash on Delivery,2023-04-21,2023-04-26,2.5,No
+OD-1566,C-5093,Susan Davis,Female,68,Phoenix,AZ,Electronics,Headphones,3,397.16,0.15,1012.76,326.31,UPI,2023-10-26,2023-11-03,1.5,Yes
+OD-1567,C-5241,Thomas Rodriguez,Male,38,San Francisco,CA,Sports,Dumbbells,6,37.11,0.15,189.26,51.26,UPI,2023-02-07,2023-02-09,5.0,Yes
+OD-1568,C-5027,Patricia Johnson,Female,33,Fort Worth,TX,Home Decor,Vase,6,105.64,0.2,507.07,133.29,Credit Card,2023-01-03,2023-01-08,5.0,No
+OD-1569,C-5196,Joshua Thompson,Male,43,Jacksonville,FL,Fashion,Dress,1,58.35,0.1,52.52,5.3,Net Banking,2023-06-23,2023-07-01,2.0,No
+OD-1570,C-5163,Margaret Thomas,Female,45,Phoenix,AZ,Home Decor,Wall Art,3,39.18,0.05,111.66,22.31,UPI,2023-07-04,2023-07-11,3.0,No
+OD-1571,C-5314,Steven Martin,Male,51,Austin,TX,Beauty,Moisturizer,3,37.11,0.15,94.63,26.41,Debit Card,2023-10-12,2023-10-20,1.0,No
+OD-1572,C-5077,Michael Brown,Male,32,Philadelphia,PA,Electronics,Smartwatch,3,358.32,0.15,913.72,165.32,Net Banking,2023-01-21,2023-01-29,3.5,No
+OD-1573,C-5249,Karen Wilson,Female,49,Houston,TX,Sports,Dumbbells,1,35.68,0.05,33.9,10.52,Debit Card,2023-03-28,2023-04-02,2.5,No
+OD-1574,C-5498,James Smith,Male,51,Denver,CO,Fashion,Sneakers,1,40.29,0.15,34.25,8.67,UPI,2023-01-14,2023-01-19,1.5,No
+OD-1575,C-5192,Kimberly Lee,Female,24,Austin,TX,Fashion,T-Shirt,1,51.85,0.25,38.89,9.64,Net Banking,2023-11-18,2023-11-23,1.0,No
+OD-1576,C-5497,Robert Williams,Male,59,El Paso,TX,Beauty,Perfume,6,44.99,0.3,188.96,41.71,Debit Card,2023-01-25,2023-01-30,3.5,Yes
+OD-1577,C-5381,William Jones,Male,53,El Paso,TX,Beauty,Lipstick,4,22.65,0.05,86.07,-29.22,Net Banking,2023-02-15,2023-02-16,2.5,No
+OD-1578,C-5199,Barbara Miller,Female,36,Phoenix,AZ,Electronics,Headphones,4,702.59,0.25,2107.77,615.27,UPI,2023-12-17,2023-12-20,3.5,No
+OD-1579,C-5427,Linda Brown,Female,50,San Antonio,TX,Beauty,Mascara,4,29.29,0.2,93.73,21.57,Credit Card,2023-08-05,2023-08-11,2.0,No
+OD-1580,C-5323,Jessica Garcia,Female,23,Los Angeles,CA,Books,Self-Help Book,4,21.18,0.25,63.54,16.26,Debit Card,2023-09-11,2023-09-13,3.0,No
+OD-1581,C-5224,David Miller,Male,69,Fort Worth,TX,Home Decor,Table Lamp,2,85.27,0.1,153.49,46.42,Cash on Delivery,2023-08-07,2023-08-12,1.0,No
+OD-1582,C-5040,Robert Williams,Male,50,Houston,TX,Books,Cookbook,4,10.7,0.25,32.1,8.54,UPI,2023-07-01,2023-07-06,1.5,No
+OD-1583,C-5009,,MALE,,houston,OH,Beauty  ,Jeans,,,0.15,100.1,31.33,Cash on Delivery,2023-06-10,,,  Yes  
+OD-1584,C-5414,Steven Martin,Male,39,Philadelphia,PA,Fashion,Jeans,1,67.34,0.2,53.87,6.88,Credit Card,2023-08-11,2023-08-12,1.0,No
+OD-1585,C-5060,James Smith,Male,28,Fort Worth,TX,Beauty,Shampoo,4,41.06,0.25,123.18,28.4,Net Banking,2023-06-05,2023-06-11,4.0,No
+OD-1586,C-5045,Thomas Rodriguez,Male,26,New York,NY,Fashion,T-Shirt,1,64.59,0.05,61.36,18.88,Debit Card,2023-09-04,2023-09-07,2.5,No
+OD-1587,C-5432,Sandra Moore,Female,30,Chicago,IL,Home Decor,Throw Pillow,2,70.13,0.0,140.26,11.91,Debit Card,2023-12-26,2024-01-03,4.5,No
+OD-1588,C-5011,Sarah Rodriguez,Female,55,San Diego,CA,Fashion,Jacket,5,71.79,0.15,305.11,19.92,Credit Card,2023-02-22,2023-03-01,4.0,No
+OD-1589,C-5378,Kimberly Lee,FEMALE,56,Seattle,WA,Home Decor,Wall Art,4,64.78,0.2,207.3,47.12,COD,2023-12-14,2023-12-22,-2.0,Yes
+OD-1590,C-5271,John Johnson,  Male  ,45,Denver,CO,Beauty  ,Vase,1,55.29,0.25,41.47,7.26,DEBIT CARD,2023-03-01,2023-03-09,3.5,No
+OD-1591,C-5358,Jessica Garcia,Female,19,Philadelphia,PA,Home Decor,Curtains,2,69.79,0.15,118.64,14.19,Debit Card,2023-10-28,2023-11-03,4.5,No
+OD-1592,C-5453,Andrew Perez,Male,64,San Francisco,CA,Beauty,Shampoo,6,37.04,0.3,155.57,29.82,Debit Card,2023-11-15,2023-11-19,3.0,No
+OD-1593,C-5342,Nancy Martinez,Female,26,Philadelphia,PA,Fashion,Jeans,5,53.58,0.3,187.53,32.78,Net Banking,2023-06-05,2023-06-09,2.5,No
+OD-1594,C-5025,John Johnson,Male,40,Dallas,TX,Home Decor,Curtains,2,48.58,0.3,68.01,21.65,Credit Card,2023-02-02,2023-02-08,4.0,No
+OD-1595,C-5317,,female ,,Phoenix  ,WA,books,Sneakers,,,0.3,169.39,26.52,Cash on Delivery,2023-10-13,,,YES
+OD-1596,C-5310,Richard Davis,Male,63,Los Angeles,CA,Beauty,Mascara,1,44.24,0.3,30.97,7.22,Credit Card,2023-10-15,2023-10-16,5.0,No
+OD-1597,C-5086,Joseph Garcia,Male,31,Jacksonville,FL,Fashion,Socks,3,65.24,0.3,137.0,27.64,Credit Card,2023-03-20,2023-03-26,3.5,No
+OD-1598,C-5063,Matthew Taylor,Male,46,Indianapolis,IN,Electronics,Laptop,4,454.31,0.2,1453.79,147.38,UPI,2023-07-10,2023-07-17,3.5,No
+OD-1599,C-5078,Margaret Thomas,Female,44,San Diego,CA,Fashion,Sneakers,4,76.57,0.15,260.34,87.36,Cash on Delivery,2023-12-16,2023-12-22,1.0,No
+OD-1600,C-5075,James Smith,Male,63,Charlotte,NC,Electronics,Smartphone,3,439.99,0.3,923.98,91.75,Credit Card,2023-07-21,2023-07-22,2.0,No
+OD-1601,C-5030,Margaret Thomas,Female,36,Indianapolis,IN,Beauty,Shampoo,6,31.61,0.1,170.69,45.48,UPI,2023-06-26,2023-06-27,3.0,No
+OD-1602,C-5313,Charles Wilson,Male,62,San Francisco,CA,Beauty,Shampoo,2,41.63,0.2,66.61,19.08,Net Banking,2023-12-24,2023-12-30,4.0,No
+OD-1603,C-5452,Joshua Thompson,Male,23,Los Angeles,CA,Books,Self-Help Book,4,22.05,0.25,-66.15,20.77,Cash on Delivery,2023-10-04,2023-10-09,2.5,No
+OD-1604,C-5262,Ashley Jackson,Female,37,Charlotte,NC,Home Decor,Curtains,2,37.69,0.3,52.77,11.19,UPI,2023-05-04,2023-05-09,4.0,No
+OD-1605,C-5057,Michael Brown,Male,41,Dallas,TX,Sports,Backpack,3,26.2,0.3,55.02,13.5,Credit Card,2023-08-18,2023-08-23,1.0,No
+OD-1606,C-5174,Donald Jackson,Male,69,Denver,CO,Books,History Book,6,20.98,0.3,88.12,20.15,UPI,2023-06-03,2023-06-08,2.0,No
+OD-1607,C-5267,Donald Jackson,Male,24,Austin,TX,Books,Sci-Fi Novel,2,$23.81,0.1,42.86,7.98,Debit Card,2023-12-31,2024-01-07,4.0,No
+OD-1608,C-5048,Michael Brown,Male,45,Phoenix,AZ,Beauty,Moisturizer,4,17.34,0.25,52.02,10.81,Cash on Delivery,2023-10-14,2023-10-21,3.0,No
+OD-1609,C-5256,Jessica Garcia,Female,46,Fort Worth,TX,Sports,Running Shoes,2,27.06,0.05,51.41,10.05,Net Banking,2023-03-08,2023-03-10,2.5,No
+OD-1610,C-5243,Robert Williams,Male,65,Philadelphia,PA,Books,Self-Help Book,1,19.83,0.15,16.86,1.4,UPI,2023-10-20,2023-10-25,1.0,No
+OD-1611,C-5079,Joseph Garcia,Male,41,San Jose,CA,Home Decor,Area Rug,500,70.99,0.3,149.08,13.84,Cash on Delivery,2023-08-04,2023-08-05,3.0,No
+OD-1612,C-5111,Daniel Anderson,Male,70,Fort Worth,TX,Electronics,Smartphone,5,458.27,0.3,1603.94,101.7,Net Banking,2023-10-21,2023-10-26,4.5,No
+OD-1613,C-5401,Elizabeth Jones,Female,48,El Paso,TX,Fashion,Jeans,5,61.37,0.3,214.79,39.73,Net Banking,2023-03-18,2023-03-24,1.5,No
+OD-1614,C-5341,,M,,  Chicago,CA,Sports  ,Sneakers,,,0.25,126.47,40.09,UPI ,2023-11-27,,,YES
+OD-1615,C-5293,Joshua Thompson,Male,53,Houston,TX,Sports,Backpack,1,29.08,0.2,23.26,4.94,Credit Card,2023-10-19,2023-10-23,4.5,No
+OD-1616,C-5460,John Johnson,Male,25,Seattle,WA,Fashion,T-Shirt,3,69.48,0.05,198.02,59.19,Cash on Delivery,2023-08-16,2023-08-18,5.0,No
+OD-1617,C-5165,Barbara Miller,Female,55,Los Angeles,CA,Beauty,Lipstick,3,28.11,0.15,71.68,4.1,Cash on Delivery,2023-06-12,2023-06-19,3.0,No
+OD-1618,C-5059,Richard Davis,Male,52,Philadelphia,PA,Home Decor,Table Lamp,2,54.4,0.0,108.8,10.47,Net Banking,2023-12-14,2023-12-17,1.0,No
+OD-1619,C-5493,Mary Smith,Female,29,New York,NY,Sports,Yoga Mat,3,-50.0,0.1,100.93,9.36,UPI,2023-05-13,2023-05-20,1.5,Yes
+OD-1620,C-5104,Donald Jackson,Male,66,El Paso,TX,Books,Biography,4,18.16,0.2,58.11,9.62,Credit Card,2023-05-18,2023-05-19,3.5,No
+OD-1621,C-5284,Susan Davis,Female,22,Fort Worth,TX,Electronics,Smartwatch,6,396.22,0.0,2377.32,310.83,Cash on Delivery,2023-12-12,2023-12-14,2.5,No
+OD-1622,C-5334,Thomas Rodriguez,Male,37,Denver,CO,Beauty,Mascara,1,40.39,0.2,32.31,3.59,Debit Card,2023-07-11,2023-07-14,2.5,No
+OD-1623,C-5488,Jessica Garcia,Female,53,Columbus,OH,Electronics,Smartphone,4,789.0,0.2,2524.8,345.33,Debit Card,2023-01-01,2023-01-02,4.5,No
+OD-1624,C-5307,Steven Martin,Male,61,San Francisco,CA,Home Decor,Curtains,2,78.13,0.2,125.01,16.8,Debit Card,2023-10-01,2023-10-03,3.0,No
+OD-1625,C-5203,Joseph Garcia,Male,26,Seattle,WA,Home Decor,Throw Pillow,2,79.95,0.3,111.93,16.28,UPI,2023-11-22,2023-11-27,4.5,No
+OD-1626,C-5126,Mary Smith,Female,39,San Antonio,TX,Beauty,Face Wash,3,15.48,0.25,34.83,3.14,Credit Card,2023-11-08,2023-11-16,1.0,Yes
+OD-1627,C-5345,  Daniel Anderson  ,Male,44,Seattle,WA,Sports,Tennis Racket,4,53.02,0.2,169.66,12.61,Credit Card,2023-10-03,2023-10-04,4.5,No
+OD-1628,C-5181,Elizabeth Jones,Female,70,El Paso,TX,Home Decor,Throw Pillow,2,96.42,0.3,134.99,-34.98,Credit Card,2023-03-05,2023-03-13,3.5,No
+OD-1629,C-5228,James Smith,Male,32,New York,NY,Home Decor,Curtains,6,61.76,0.0,370.56,109.27,UPI,2023-04-24,2023-04-28,4.5,No
+OD-1630,C-5019,Paul Lee,Male,49,El Paso,TX,Fashion,T-Shirt,2,80.15,0.25,120.23,20.3,UPI,2023-10-19,2023-10-27,2.0,No
+OD-1631,C-5100,Dorothy Martin,MALE,61,El Paso,TX,Books,Biography,1,19.59,0.25,14.69,1.02,credit card,2023-10-19,2023-10-23,5.0,No
+OD-1632,C-5099,John Johnson,Male,62,Seattle,WA,Books,Self-Help Book,6,19.08,0.15,97.31,4.92,Net Banking,2023-11-25,2023-11-26,3.5,No
+OD-1633,C-5433,Susan Davis,Female,35,Houston,TX,Sports,Backpack,4,41.81,0.2,133.79,37.15,Debit Card,2023-01-25,2023-01-30,4.0,No
+OD-1634,C-5230,Mary Smith,Female,18,San Francisco,CA,Fashion,Jacket,1,74.53,0.3,52.17,3.01,Debit Card,2023-12-20,2023-12-27,1.5,No
+OD-1635,C-5101,Christopher Martinez,Male,39,San Jose,CA,Electronics,Tablet,6,$322.23,0.15,1643.37,295.12,Credit Card,2023-10-31,2023-11-06,3.0,No
+OD-1636,C-5056,Nancy Martinez,Female,33,Austin,TX,Electronics,Headphones,500,698.82,0.0,3494.1,987.87,Cash on Delivery,2023-08-13,2023-08-15,4.5,No
+OD-1637,C-5064,David Miller,Male,21,Los Angeles,CA,Beauty,Perfume,6,16.95,0.05,96.61,6.63,Net Banking,2023-01-29,2023-02-03,4.0,No
+OD-1638,C-5053,Michael Brown,Male,53,Los Angeles,CA,Home Decor,Throw Pillow,4,42.9,0.3,120.12,20.82,Cash on Delivery,2023-12-04,2023-12-05,4.5,No
+OD-1639,C-5238,Jessica Garcia,Female,57,El Paso,TX,Electronics,Headphones,6,776.3,0.3,3260.46,188.43,Cash on Delivery,2023-06-18,2023-06-22,1.5,No
+OD-1640,C-5007,Emily Perez,Female,63,Chicago,IL,Books,Biography,5,11.27,0.2,45.08,5.72,Net Banking,2023-09-04,2023-09-12,2.0,No
+OD-1641,C-5071,Robert Williams,Male,21,Phoenix,AZ,Home Decor,Vase,4,72.95,25%,218.85,60.47,UPI,2023-10-26,2023-10-29,2.0,No
+OD-1642,C-5159,Emily Perez,Female,39,San Jose,CA,Home Decor,Wall Art,5,78.22,0.25,293.33,27.39,Debit Card,2023-09-17,2023-09-18,4.0,No
+OD-1643,C-5101,Matthew Taylor,Male,58,San Antonio,TX,Electronics,Headphones,2,630.64,0.25,945.96,243.63,Net Banking,2023-11-04,2023-11-10,3.5,No
+OD-1644,C-5154,Susan Davis,  Male  ,39,Philadelphia,PA,ELECTRONICS,Smartwatch,1,537.8,0.0,537.8,129.95,COD,2023-08-27,2023-08-31,2.5,No
+OD-1645,C-5377,Patricia Johnson,Female,69,San Francisco,CA,Fashion,Sneakers,2,71.61,0.0,143.22,22.75,Credit Card,2023-07-03,2023-07-04,5.0,No
+OD-1646,C-5073,Andrew Perez,Male,46,San Antonio,TX,Sports,Backpack,3,22.84,0.0,68.52,7.52,UPI,2023-03-31,2023-04-04,3.0,No
+OD-1647,C-5174,Ashley Jackson,Female,33,Philadelphia,PA,Fashion,T-Shirt,2,72.52,0.0,145.04,8.17,Debit Card,2023-07-14,2023-07-16,3.5,No
+OD-1648,C-5157,Karen Wilson,Female,33,Jacksonville,FL,Home Decor,Curtains,2,103.76,0.3,145.26,50.74,Net Banking,2023-12-31,2024-01-02,1.5,No
+OD-1649,C-5452,Thomas Rodriguez,Male,68,San Antonio,TX,Fashion,Dress,4,64.5,0.1,232.2,53.37,Debit Card,2023-01-24,2023-01-28,5.0,No
+OD-1650,C-5405,  Charles Wilson  ,Male,38,San Diego,CA,Electronics,Tablet,3,741.34,0.3,1556.81,315.22,Cash on Delivery,2023-09-08,2023-09-12,1.5,No
+OD-1651,C-5405,Donna Thompson,Female,22,Philadelphia,PA,Books,Cookbook,6,22.52,0.1,121.61,24.27,Net Banking,2023-04-02,2023-04-08,3.5,No
+OD-1652,C-5356,Nancy Martinez,Female,63,Fort Worth,TX,Beauty,Perfume,5,27.03,0.3,94.61,21.31,Credit Card,2023-04-17,2023-04-21,2.5,No
+OD-1653,C-5442,,MALE,,Phoenix  ,TX,books,Throw Pillow,,,0.3,215.99,35.04,DEBIT CARD,2023-02-13,,,  Yes  
+OD-1654,C-5228,  Margaret Thomas  ,Female,40,San Diego,CA,Books,Fiction Novel,4,18.22,10%,65.59,11.66,Net Banking,2023-08-10,2023-08-17,3.5,No
+OD-1655,C-5163,Paul Lee,Male,42,New York,NY,Fashion,Sneakers,2,41.34,0.0,82.68,13.04,Credit Card,2023-05-31,2023-06-02,3.0,No
+OD-1656,C-5051,Joseph Garcia,Male,22,Jacksonville,FL,Electronics,Bluetooth Speaker,2,450.23,0.25,675.35,100.47,UPI,2023-12-16,2023-12-21,2.5,No
+OD-1657,C-5071,Sandra Moore,Female,34,New York,NY,Home Decor,Area Rug,3,92.39,0.15,235.59,78.63,Cash on Delivery,2023-12-02,2023-12-03,4.5,No
+OD-1658,C-5390,Charles Wilson,Male,43,San Diego,CA,Fashion,Socks,6,38.33,0.05,218.48,44.73,Cash on Delivery,2023-08-28,2023-09-05,3.5,No
+OD-1659,C-5161,Matthew Taylor,Male,45,Indianapolis,IN,Fashion,Sneakers,4,73.06,0.0,292.24,47.46,Cash on Delivery,2023-03-07,2023-03-12,1.0,No
+OD-1660,C-5415,Jennifer Williams,Female,39,San Diego,CA,Beauty,Mascara,6,37.58,0.3,157.84,44.76,Cash on Delivery,2023-06-03,2023-06-09,1.0,No
+OD-1661,C-5403,Robert Williams,  Male  ,26,Phoenix,AZ,Home Decor,Vase,6,93.54,0.2,448.99,99.75,upi,2023-07-15,2023-07-19,4.0,No
+OD-1662,C-5274,Elizabeth Jones,Female,30,Fort Worth,TX,Electronics,Headphones,5,789.45,0.25,2960.44,942.67,Credit Card,2023-03-29,2023-03-31,5.0,No
+OD-1663,C-5017,Emily Perez,Female,49,New York,NY,Fashion,Jeans,1,76.21,0.15,64.78,8.75,Debit Card,2023-05-30,2023-06-01,4.5,Yes
+OD-1664,C-5189,Margaret Thomas,Female,18,Philadelphia,PA,Home Decor,Throw Pillow,4,$47.31,0.0,189.24,16.79,Net Banking,2023-09-02,2023-09-04,4.0,No
+OD-1665,C-5067,Anthony Thomas,Male,37,Indianapolis,IN,Sports,Tennis Racket,4,$27.67,0.2,88.54,29.37,Cash on Delivery,2023-04-14,2023-04-22,3.0,No
+OD-1666,C-5004,Charles Wilson,Male,46,Chicago,IL,Beauty,Face Wash,2,30.78,0.2,49.25,15.45,Net Banking,2023-08-25,2023-08-26,1.5,No
+OD-1667,C-5331,Karen Wilson,Female,40,San Jose,CA,Beauty,Face Wash,2,27.45,0.05,52.15,16.69,Net Banking,2023-08-23,2023-08-30,2.0,No
+OD-1668,C-5049,Barbara Miller,Female,62,Los Angeles,CA,Fashion,Jeans,3,74.66,0.2,179.18,24.65,Credit Card,2023-12-24,2023-12-28,4.5,No
+OD-1669,C-5391,Ashley Jackson,Female,25,Jacksonville,FL,Electronics,Smartphone,5,683.93,0.1,3077.68,532.53,Debit Card,2023-05-10,2023-05-14,5.0,Yes
+OD-1670,C-5237,John Johnson,MALE,22,Columbus,OH,Sports  ,Perfume,6,26.98,0.05,153.79,25.99,DEBIT CARD,2023-05-09,2023-05-11,0.0,No
+OD-1671,C-5344,,female ,,  Chicago,OH,Beauty  ,Smartphone,,,0.25,2342.96,784.9,UPI ,2023-08-30,,,NO
+OD-1672,C-5430,John Johnson,Male,56,Houston,TX,Fashion,Jacket,1,55.87,0.15,47.49,4.77,Credit Card,2023-12-13,2023-12-18,2.0,No
+OD-1673,C-5184,Daniel Anderson,Male,31,Los Angeles,CA,Sports,Backpack,2,39.57,0.0,79.14,-23.82,Cash on Delivery,2023-11-25,2023-11-27,4.0,No
+OD-1674,C-5228,Michael Brown,Male,56,New York,NY,Electronics,Smartwatch,2,771.56,0.1,1388.81,448.07,Debit Card,2023-02-16,2023-02-17,4.0,Yes
+OD-1675,C-5008,Patricia Johnson,Female,70,San Antonio,TX,Sports,Tennis Racket,1,30.26,0.0,-30.26,8.75,Debit Card,2023-03-27,2023-03-28,4.0,No
+OD-1676,C-5056,Mary Smith,Female,38,Seattle,WA,Sports,Dumbbells,5,29.7,0.2,118.8,20.02,Net Banking,2023-03-03,2023-03-07,2.5,No
+OD-1677,C-5183,Mary Smith,Female,29,New York,NY,Beauty,Shampoo,3,15.36,0.05,43.78,8.21,Credit Card,2023-12-03,2023-12-08,3.5,Yes
+OD-1678,C-5035,Anthony Thomas,Male,44,San Jose,CA,Books,Cookbook,1,21.83,0.3,15.28,5.3,Cash on Delivery,2023-03-29,2023-04-03,1.5,No
+OD-1679,C-5167,Elizabeth Jones,Female,61,Phoenix,AZ,Home Decor,Table Lamp,6,90.84,0.25,408.78,59.43,Net Banking,2023-02-04,2023-02-10,1.0,No
+OD-1680,C-5467,Kimberly Lee,Female,46,San Francisco,CA,Books,History Book,6,13.18,0.2,63.26,16.54,Credit Card,2023-04-30,2023-05-01,1.5,No
+OD-1681,C-5122,Jessica Garcia,Female,66,San Diego,CA,Books,Fiction Novel,1,11.48,0.15,9.76,1.36,Debit Card,2023-07-12,2023-07-16,1.0,No
+OD-1682,C-5473,Emily Perez,Female,46,Austin,TX,Fashion,Jacket,3,61.75,0.3,129.67,8.02,Net Banking,2023-11-28,2023-12-03,1.0,No
+OD-1683,C-5434,,female,, dallas,CA,Beauty  ,Dress,,,0.25,56.97,19.74,Cash on Delivery,2023-11-08,,,  Yes  
+OD-1684,C-5094,Sarah Rodriguez,Female,58,New York,NY,Electronics,Smartwatch,1,784.98,0.0,784.98,188.64,Debit Card,2023-04-15,2023-04-18,1.5,No
+OD-1685,C-5304,Ashley Jackson,Female,68,San Antonio,TX,Fashion,Dress,1,50.02,0.15,42.52,6.1,Debit Card,2023-05-06,2023-05-13,2.0,No
+OD-1686,C-5128,Joshua Thompson,Male,36,Denver,CO,Beauty,Shampoo,2,23.16,0.3,32.42,6.3,UPI,2023-07-23,2023-07-30,2.0,No
+OD-1687,C-5226,  Jessica Garcia  ,Female,50,El Paso,TX,Sports,Running Shoes,2,55.42,0.3,77.59,15.1,Net Banking,2023-08-07,2023-08-09,3.0,No
+OD-1688,C-5276,Charles Wilson,Male,53,Philadelphia,PA,Home Decor,Throw Pillow,4,58.02,0.1,208.87,33.95,Cash on Delivery,2023-09-04,2023-09-06,3.5,No
+OD-1689,C-5367,Nancy Martinez,Female,30,Phoenix,AZ,Fashion,T-Shirt,1,73.53,0.25,55.15,-14.76,Net Banking,2023-07-27,2023-08-03,4.0,No
+OD-1690,C-5197,  Lisa Anderson  ,Female,37,Denver,CO,Electronics,Smartwatch,1,805.94,0.0,805.94,133.34,Cash on Delivery,2023-03-25,2023-03-29,4.0,No
+OD-1691,C-5395,Jennifer Williams,Female,50,Fort Worth,TX,Sports,Tennis Racket,3,50.25,0.25,113.06,18.72,Net Banking,2023-05-07,2023-05-11,4.5,Yes
+OD-1692,C-5472,Linda Brown,Female,58,New York,NY,Sports,Tennis Racket,6,27.21,0.2,130.61,24.38,Debit Card,2023/15/45,2023-05-15,2.0,Yes
+OD-1693,C-5060,David Miller,Male,59,San Francisco,CA,Beauty,Shampoo,5,44.22,0.0,221.1,45.45,Debit Card,2023-08-05,2023-08-08,4.0,No
+OD-1694,C-5355,Joshua Thompson,Male,50,Seattle,WA,Sports,Running Shoes,5,33.94,0.15,144.24,39.77,Credit Card,2023-02-25,2023-03-03,2.0,No
+OD-1695,C-5384,  Anthony Thomas  ,Male,65,San Francisco,CA,Sports,Water Bottle,1,62.46,0.3,43.72,8.64,Credit Card,2023-02-05,2023-02-12,5.0,No
+OD-1696,C-5336,Andrew Perez,Male,64,Indianapolis,IN,Fashion,Jeans,3,37.07,0.05,105.65,11.56,Debit Card,2023-09-15,2023-09-17,4.5,No
+OD-1697,C-5417,Anthony Thomas,Male,29,San Antonio,TX,Electronics,Tablet,2,706.96,0.05,1343.22,171.67,Net Banking,2023-08-14,2023-08-16,2.0,No
+OD-1698,C-5151,David Miller,Male,42,Houston,TX,Home Decor,Wall Art,3,38.14,0.05,108.7,21.02,Credit Card,2023-01-05,2023-01-06,3.0,Yes
+OD-1699,C-5341,Kimberly Lee,Female,68,Los Angeles,CA,Electronics,Laptop,5,697.56,0.15,2964.63,684.52,UPI,2023-09-06,2023-09-14,3.5,No
+OD-1700,C-5220,Patricia Johnson,Female,41,Austin,TX,Home Decor,Table Lamp,3,83.89,0.15,213.92,49.9,UPI,2023-06-19,2023-06-21,1.0,No
+OD-1701,C-5446,Barbara Miller,Female,64,Phoenix,AZ,Electronics,Bluetooth Speaker,1,$739.26,0.1,665.33,223.1,Debit Card,2023-07-08,2023-07-16,4.5,No
+OD-1702,C-5212,Matthew Taylor,Male,18,Austin,TX,Electronics,Tablet,3,741.65,0.3,1557.46,421.67,Net Banking,2023-04-30,2023-05-08,4.0,No
+OD-1703,C-5407,David Miller,Male,40,Indianapolis,IN,Beauty,Shampoo,6,42.16,0.25,189.72,31.39,Cash on Delivery,2023-04-10,2023-04-13,5.0,No
+OD-1704,C-5402,Betty Taylor,Female,20,Phoenix,AZ,Beauty,Lipstick,3,39.97,0.2,95.93,33.21,Net Banking,2023-03-28,2023-04-05,1.5,No
+OD-1705,C-5340,Sandra Moore,Female,33,San Diego,CA,Fashion,Jeans,6,64.8,0.0,388.8,70.17,Credit Card,2023-03-24,2023-03-30,4.0,No
+OD-1706,C-5113,Steven Martin,Male,60,Fort Worth,TX,Sports,Yoga Mat,6,26.7,0.2,-128.16,30.77,Net Banking,2023-02-16,2023-02-22,2.5,No
+OD-1707,C-5393,Emily Perez,Female,22,Austin,TX,Beauty,Shampoo,6,37.08,0.15,189.11,46.55,Cash on Delivery,2023-08-12,2023-08-16,2.5,No
+OD-1708,C-5060,,  Male  ,,new york,TX,books,Headphones,,,0.05,3361.8,919.07,credit card,2023-10-21,,,NO
+OD-1709,C-5489,  Elizabeth Jones  ,Female,54,New York,NY,Home Decor,Wall Art,5,74.56,0.3,260.96,43.44,Net Banking,2023-06-13,2023-06-19,2.0,No
+OD-1710,C-5340,Emily Perez,Female,55,San Diego,CA,Electronics,Smartwatch,1,$560.68,0.15,476.58,69.0,UPI,2023-04-23,2023-05-01,4.5,No
+OD-1711,C-5308,Andrew Perez,Male,27,Los Angeles,CA,Books,Self-Help Book,3,18.04,0.25,-40.59,3.53,Cash on Delivery,2023-09-02,2023-09-06,4.5,No
+OD-1712,C-5361,Elizabeth Jones,Female,21,Austin,TX,Fashion,Socks,2,72.8,0.3,101.92,11.98,Credit Card,2023-04-02,2023-04-10,4.0,No
+OD-1713,C-5418,Christopher Martinez,Male,19,Seattle,WA,Beauty,Perfume,4,35.34,0.1,127.22,35.28,Net Banking,2023-02-06,2023-02-11,3.0,No
+OD-1714,C-5359,Ashley Jackson,Female,43,Houston,TX,Fashion,Jacket,5,73.76,0.0,368.8,112.46,UPI,2023-08-23,2023-08-26,2.0,No
+OD-1715,C-5357,Nancy Martinez,Female,36,Phoenix,AZ,Fashion,Jeans,6,37.57,0.25,169.06,8.92,Cash on Delivery,2023-02-22,2023-02-25,4.0,No
+OD-1716,C-5348,Christopher Martinez,Male,21,Houston,TX,Home Decor,Throw Pillow,2,104.04,0.0,208.08,71.6,UPI,2023-10-31,2023-11-07,2.0,No
+OD-1717,C-5126,Robert Williams,Male,25,San Diego,CA,Beauty,Mascara,3,35.64,0.05,101.57,24.97,Net Banking,2023-12-21,2023-12-23,4.5,No
+OD-1718,C-5141,Sarah Rodriguez,Female,41,New York,NY,Electronics,Smartphone,1,335.91,0.25,251.93,63.14,Cash on Delivery,2023-04-26,2023-04-27,4.5,No
+OD-1719,C-5356,,MALE,,Phoenix  ,CO,  Fashion ,Sneakers,,,0.25,243.0,43.76,UPI ,2023-03-06,,,YES
+OD-1720,C-5366,Sandra Moore,Female,29,San Francisco,CA,Sports,Yoga Mat,4,44.35,0.2,141.92,40.45,Cash on Delivery,2023-09-08,2023-09-10,5.0,No
+OD-1721,C-5276,Joseph Garcia,Male,66,San Antonio,TX,Sports,Yoga Mat,2,57.2,25%,85.8,8.92,Cash on Delivery,2023-08-17,2023-08-23,1.5,Yes
+OD-1722,C-5066,Dorothy Martin,Female,31,Philadelphia,PA,Electronics,Bluetooth Speaker,3,729.78,0.0,2189.34,165.04,Credit Card,2023-09-17,2023-09-22,3.5,No
+OD-1723,C-5088,Jessica Garcia,Female,60,New York,NY,Fashion,Jacket,1,78.1,0.2,62.48,20.08,UPI,2023-12-04,2023-12-12,2.0,No
+OD-1724,C-5252,Mary Smith,Female,51,Jacksonville,FL,Books,Sci-Fi Novel,5,12.78,0.0,63.9,15.9,Credit Card,2023-05-02,2023-05-03,2.5,No
+OD-1725,C-5154,Anthony Thomas,Male,26,El Paso,TX,Books,Biography,5,15.46,0.05,73.44,-19.74,Net Banking,2023-02-08,2023-02-13,3.0,No
+OD-1726,C-5333,Christopher Martinez,Male,43,Columbus,OH,Electronics,Headphones,6,$499.69,0.25,2248.61,209.06,Debit Card,2023-02-06,2023-02-11,2.5,No
+OD-1727,C-5289,Betty Taylor,Female,56,Philadelphia,PA,Beauty,Moisturizer,3,44.77,0.15,114.16,18.69,Cash on Delivery,2023-05-07,2023-05-09,3.0,No
+OD-1728,C-5273,Joseph Garcia,Male,61,Seattle,WA,Beauty,Lipstick,3,34.21,0.1,92.37,29.81,UPI,2023-03-16,2023-03-20,3.0,Yes
+OD-1729,C-5051,Elizabeth Jones,Female,32,San Francisco,CA,Electronics,Smartphone,2,554.3,0.1,997.74,226.14,Net Banking,2023-02-18,2023-02-24,3.0,No
+OD-1730,C-5139,Emily Perez,Female,24,Los Angeles,CA,Fashion,Jacket,4,36.76,0.3,102.93,-28.04,Cash on Delivery,2023-10-10,2023-10-17,4.5,No
+OD-1731,C-5066,  Steven Martin  ,Male,18,Charlotte,NC,Sports,Dumbbells,6,26.31,0.15,134.18,29.56,UPI,2023-01-28,2023-02-03,2.5,No
+OD-1732,C-5215,,M,,houston,OH,Sports  ,Throw Pillow,,,0.15,240.76,49.64,DEBIT CARD,2023-06-06,,,No 
+OD-1733,C-5395,Mary Smith,Female,23,Chicago,IL,Electronics,Tablet,2,780.23,0.05,1482.44,329.98,Credit Card,2023-05-27,2023-06-04,1.0,No
+OD-1734,C-5347,Betty Taylor,Female,64,Phoenix,AZ,Beauty,Mascara,5,35.55,0.25,133.31,42.18,Credit Card,2023-07-27,2023-07-28,2.5,Yes
+OD-1735,C-5366,Jessica Garcia,male,62,Seattle,WA,Sports,Water Bottle,2,62.76,0.25,94.14,31.56,DEBIT CARD,2023-12-17,2023-12-18,4.5,No
+OD-1736,C-5346,Margaret Thomas,Female,32,Philadelphia,PA,Electronics,Headphones,2,547.39,0.0,1094.78,193.58,Net Banking,2023-03-29,2023-04-04,1.5,No
+OD-1737,C-5468,Donald Jackson,Male,52,Houston,TX,Home Decor,Area Rug,4,57.14,0.05,217.13,11.0,Cash on Delivery,2023-07-21,2023-07-25,3.0,No
+OD-1738,C-5423,Robert Williams,Male,47,El Paso,TX,Beauty,Lipstick,3,15.18,0.15,38.71,5.75,UPI,2023-02-24,2023-02-25,3.5,No
+OD-1739,C-5206,Jennifer Williams,Female,18,Houston,TX,Beauty,Mascara,2,17.54,0.2,28.06,8.97,Net Banking,2023-03-05,2023-03-13,1.0,No
+OD-1740,C-5394,  Steven Martin  ,Male,32,Fort Worth,TX,Beauty,Perfume,3,25.93,0.05,73.9,15.59,UPI,2023-02-25,2023-03-05,4.5,No
+OD-1741,C-5072,Jennifer Williams,Female,65,Indianapolis,IN,Electronics,Headphones,6,377.17,0.05,2149.87,291.24,Debit Card,2023-07-22,2023-07-29,3.5,Yes
+OD-1742,C-5083,Matthew Taylor,Male,48,Dallas,TX,Electronics,Smartwatch,4,567.07,0.3,1587.8,404.13,Debit Card,2023-06-16,2023-06-23,5.0,No
+OD-1743,C-5068,Joseph Garcia,Male,24,New York,NY,Fashion,Jeans,3,54.0,0.3,113.4,28.95,Credit Card,2023-12-14,2023-12-20,4.0,No
+OD-1744,C-5378,James Smith,Male,45,Fort Worth,TX,Home Decor,Area Rug,4,41.95,0.15,142.63,17.73,Debit Card,2023-09-19,2023-09-22,2.5,No
+OD-1745,C-5393,Joseph Garcia,Male,34,San Diego,CA,Sports,Running Shoes,2,40.9,0.3,57.26,16.78,Cash on Delivery,2023-11-09,2023-11-12,2.5,No
+OD-1746,C-5323,Charles Wilson,Male,32,Houston,TX,Fashion,Sneakers,1,41.79,0.05,39.7,13.05,Net Banking,2023-01-10,2023-01-14,1.5,Yes
+OD-1747,C-5195,Susan Davis,Female,51,San Jose,CA,Sports,Tennis Racket,2,30.31,0.15,51.53,9.98,Cash on Delivery,2023-08-07,2023-08-08,3.0,No
+OD-1748,C-5138,Linda Brown,Female,35,Jacksonville,FL,Sports,Running Shoes,2,34.43,0.0,68.86,7.2,Credit Card,2023-01-27,2023-02-02,2.5,No
+OD-1749,C-5242,Paul Lee,Male,56,Houston,TX,Beauty,Moisturizer,3,43.45,0.1,117.32,17.63,Credit Card,2023-02-19,2023-02-20,5.0,No
+OD-1750,C-5170,Linda Brown,Female,65,Jacksonville,FL,Sports,Backpack,5,$46.4,0.05,220.4,54.01,Debit Card,2023-10-27,2023-11-03,1.5,No
+OD-1751,C-5067,Emily Perez,Female,25,Los Angeles,CA,Books,History Book,2,12.47,0.15,21.2,6.95,Credit Card,2023-10-07,2023-10-13,3.0,No
+OD-1752,C-5390,Matthew Taylor,Male,52,Phoenix,AZ,Electronics,Laptop,2,495.83,0.25,743.75,93.53,Cash on Delivery,2023-06-27,2023-07-03,4.5,No
+OD-1753,C-5467,Jessica Garcia,Female,22,Fort Worth,TX,Beauty,Face Wash,5,38.73,0.05,183.97,42.27,Debit Card,2023-05-29,2023-05-30,1.0,No
+OD-1754,C-5380,Barbara Miller,Female,49,Seattle,WA,Books,Fiction Novel,2,16.88,0.2,27.01,4.46,Net Banking,2023-07-25,2023-07-23,2.5,No
+OD-1755,C-5002,Christopher Martinez,Male,54,San Antonio,TX,Books,History Book,1,24.82,0.3,17.37,3.54,Cash on Delivery,2023-12-29,2024-01-03,3.0,No
+OD-1756,C-5152,,female ,,Phoenix  ,TX,Sports  ,Jeans,,,0.1,50.23,3.1,DEBIT CARD,2023-05-23,,,  Yes  
+OD-1757,C-5329,Donald Jackson,Male,70,San Antonio,TX,Books,Fiction Novel,1,20.68,0.25,15.51,3.59,UPI,2023-06-16,2023-06-18,5.0,No
+OD-1758,C-5370,Thomas Rodriguez,Male,44,El Paso,TX,Home Decor,Area Rug,1,81.07,0.0,81.07,24.09,Debit Card,2023-05-24,2023-05-27,3.0,Yes
+OD-1759,C-5276,Kimberly Lee,FEMALE,24,San Francisco,CA,Sports,Water Bottle,6,47.64,0.2,228.67,25.58,Cash on Delivery,2023-04-23,2023-04-29,3.0,No
+OD-1760,C-5298,Barbara Miller,Female,27,Columbus,OH,Fashion,Socks,6,50.43,0.05,287.45,92.17,Credit Card,2023-09-11,2023-09-14,4.5,No
+OD-1761,C-5418,Daniel Anderson,Male,30,Denver,CO,Beauty,Shampoo,2,34.43,0.0,68.86,9.85,Debit Card,2023-07-21,2023-07-25,1.5,No
+OD-1762,C-5037,Jessica Garcia,Female,33,Columbus,OH,Sports,Running Shoes,1,51.42,0.05,48.85,13.09,Credit Card,2023-11-05,2023-11-07,4.0,No
+OD-1763,C-5011,Joseph Garcia,Male,70,New York,NY,Sports,Yoga Mat,2,31.43,0.0,62.86,8.19,Cash on Delivery,2023-01-07,2023-01-08,1.5,No
+OD-1764,C-5377,Patricia Johnson,Female,63,Chicago,IL,Fashion,Jeans,4,68.02,0.15,231.27,68.14,UPI,2023-06-19,2023-06-27,2.0,No
+OD-1765,C-5029,Sandra Moore,Female,62,Dallas,TX,Sports,Backpack,1,21.89,0.0,21.89,1.77,UPI,abcd-ef-gh,2023-03-01,2.0,Yes
+OD-1766,C-5468,Mark Moore,Male,19,San Diego,CA,Beauty,Mascara,2,25.6,0.1,46.08,5.43,Net Banking,2023-12-18,2023-12-20,4.5,No
+OD-1767,C-5057,Mark Moore,Male,24,San Jose,CA,Home Decor,Wall Art,5,60.03,10%,270.13,88.33,Credit Card,2023-01-23,2023-01-26,2.0,No
+OD-1768,C-5272,Patricia Johnson,Female,56,Philadelphia,PA,Sports,Running Shoes,2,58.51,0.25,87.77,12.33,UPI,2023-06-28,2023-06-30,3.0,No
+OD-1769,C-5339,Linda Brown,Female,34,Chicago,IL,Electronics,Laptop,6,349.16,0.05,1990.21,332.72,Net Banking,2023-02-04,2023-02-06,4.0,No
+OD-1770,C-5075,David Miller,Male,38,Phoenix,AZ,Fashion,Sneakers,3,44.24,0.15,112.81,21.93,Net Banking,2023-11-05,2023-11-11,2.0,No
+OD-1771,C-5197,Susan Davis,Female,53,Fort Worth,TX,Books,Sci-Fi Novel,4,18.58,0.3,52.02,6.19,Credit Card,2023-10-25,2023-11-01,5.0,No
+OD-1772,C-5398,  Mark Moore  ,Male,62,Chicago,IL,Fashion,Jacket,1,37.98,0.3,26.59,1.47,Cash on Delivery,2023-08-31,2023-09-03,1.5,Yes
+OD-1773,C-5467,Jennifer Williams,Female,41,Phoenix,AZ,Home Decor,Throw Pillow,2,96.14,0.2,153.82,52.54,Net Banking,2023-05-05,2023-05-09,2.5,Yes
+OD-1774,C-5383,Thomas Rodriguez,Male,25,Phoenix,AZ,Beauty,Shampoo,1,35.88,0.15,30.5,4.93,Credit Card,2023-12-06,2023-12-08,4.5,No
+OD-1775,C-5446,  Christopher Martinez  ,Male,19,Phoenix,AZ,Home Decor,Table Lamp,1,53.64,0.0,53.64,11.84,Net Banking,2023-03-18,2023-03-21,4.5,No
+OD-1776,C-5384,Margaret Thomas,Female,150,San Jose,CA,Beauty,Mascara,6,25.12,0.3,105.5,25.68,Credit Card,2023-05-27,2023-05-29,2.0,Yes
+OD-1777,C-5452,  Robert Williams  ,Male,56,Philadelphia,PA,Books,Biography,1,16.14,0.15,13.72,3.48,Net Banking,2023-10-11,2023-10-16,5.0,No
+OD-1778,C-5364,Mark Moore,Male,45,Philadelphia,PA,Home Decor,Wall Art,5,63.18,0.05,300.1,81.91,Net Banking,2023-11-13,2023-11-14,2.5,No
+OD-1779,C-5095,Ashley Jackson,M,56,Chicago,IL,Sports,Running Shoes,4,34.15,0.25,102.45,17.57,DEBIT CARD,2023-03-26,2023-03-27,3.5,No
+OD-1780,C-5100,Paul Lee,Male,24,Houston,TX,Electronics,Headphones,5,690.55,0.1,3107.47,181.52,UPI,2023-03-25,2023-03-27,1.5,No
+OD-1781,C-5306,James Smith,Male,66,San Jose,CA,Fashion,Dress,2,61.47,0.0,122.94,15.01,Credit Card,2023-10-19,2023-10-20,4.5,Yes
+OD-1782,C-5025,Mary Smith,Female,23,San Jose,CA,Electronics,Headphones,3,787.72,0.2,1890.53,205.06,Net Banking,2023-07-02,2023-07-05,1.5,No
+OD-1783,C-5209,Betty Taylor,Female,24,Charlotte,NC,Fashion,T-Shirt,5,69.99,0.15,297.46,67.2,Credit Card,2023-05-29,2023-06-01,2.0,No
+OD-1784,C-5041,David Miller,Male,63,San Diego,CA,Fashion,Socks,6,34.61,0.25,155.75,15.31,Cash on Delivery,2023-09-22,2023-09-28,4.5,No
+OD-1785,C-5174,  Andrew Perez  ,Male,41,El Paso,TX,Beauty,Lipstick,6,38.23,0.15,194.97,23.73,Cash on Delivery,2023-11-07,2023-11-09,2.0,No
+OD-1786,C-5322,Lisa Anderson,Female,24,New York,NY,Fashion,Jacket,5,73.85,0.3,258.47,73.52,Credit Card,2023-09-13,2023-09-15,4.5,No
+OD-1787,C-5087,Andrew Perez,Male,28,Chicago,IL,Home Decor,Vase,3,61.44,0.0,184.32,19.12,Net Banking,2023-05-13,2023-05-21,3.0,No
+OD-1788,C-5333,Thomas Rodriguez,Male,25,Denver,CO,Beauty,Lipstick,3,40.77,0.15,103.96,17.95,Cash on Delivery,2023-12-15,2023-12-18,4.5,No
+OD-1789,C-5263,Donna Thompson,Female,38,Jacksonville,FL,Electronics,Tablet,4,543.21,0.1,1955.56,612.53,Credit Card,2023-11-14,2023-11-15,2.5,No
+OD-1790,C-5005,Charles Wilson,Male,24,San Jose,CA,Beauty,Moisturizer,5,26.98,0.0,134.9,15.77,Net Banking,2023-12-09,2023-12-11,3.5,No
+OD-1791,C-5240,Sandra Moore,Female,70,Columbus,OH,Electronics,Smartphone,2,665.16,0.15,1130.77,317.14,Debit Card,2023-07-25,2023-07-31,1.5,No
+OD-1792,C-5176,Emily Perez,Female,49,San Antonio,TX,Sports,Tennis Racket,4,25.8,0.15,87.72,5.39,Debit Card,2023-08-29,2023-09-01,2.5,No
+OD-1793,C-5291,Robert Williams,Male,56,San Francisco,CA,Electronics,Headphones,4,798.42,0.05,3034.0,200.92,Credit Card,2023-12-17,2023-12-24,3.0,No
+OD-1794,C-5326,Daniel Anderson,Male,23,Phoenix,AZ,Electronics,Headphones,4,314.12,0.3,879.54,231.9,Net Banking,2023-09-26,2023-09-30,3.0,No
+OD-1795,C-5426,Michael Brown,Male,23,Indianapolis,IN,Home Decor,Area Rug,2,50.3,0.15,85.51,16.63,Cash on Delivery,2023-12-19,2023-12-22,4.0,No
+OD-1796,C-5468,Dorothy Martin,Female,42,New York,NY,Books,Sci-Fi Novel,2,10.4,0.25,15.6,3.49,Debit Card,2023-06-15,2023-06-21,1.0,No
+OD-1797,C-5460,Karen Wilson,Female,27,Fort Worth,TX,Home Decor,Wall Art,6,65.26,0.2,313.25,83.54,Net Banking,2023-03-06,2023-03-14,1.5,Yes
+OD-1798,C-5112,Matthew Taylor,Male,44,Seattle,WA,Fashion,Dress,4,38.67,0.05,146.95,49.33,Cash on Delivery,2023-01-08,2023-01-14,3.5,Yes
+OD-1799,C-5155,Joshua Thompson,Male,50,Houston,TX,Sports,Running Shoes,6,62.96,0.15,321.1,55.59,UPI,2023-10-05,2023-10-12,5.0,No
+OD-1800,C-5059,Daniel Anderson,Male,47,Indianapolis,IN,Home Decor,Table Lamp,-10,78.83,20%,315.32,57.0,UPI,2023-12-04,2023-12-11,3.0,No
+OD-1801,C-5481,Richard Davis,Male,23,Houston,TX,Electronics,Tablet,1,602.78,0.15,512.36,41.55,Cash on Delivery,2023-10-06,2023-10-08,4.5,No
+OD-1802,C-5298,Robert Williams,Male,60,San Jose,CA,Beauty,Moisturizer,2,38.31,0.2,61.3,10.07,Debit Card,2023-08-29,2023-08-31,3.5,No
+OD-1803,C-5212,Barbara Miller,Female,18,Jacksonville,FL,Fashion,Dress,3,41.45,0.25,93.26,12.06,Net Banking,2023-12-11,2023-12-15,1.0,No
+OD-1804,C-5017,James Smith,Male,19,Phoenix,AZ,Home Decor,Vase,6,79.2,0.1,427.68,43.25,Cash on Delivery,2023-08-09,2023-08-13,5.0,No
+OD-1805,C-5099,  Donna Thompson  ,Female,59,San Francisco,CA,Electronics,Bluetooth Speaker,4,339.59,0.25,1018.77,170.26,Debit Card,2023-07-26,2023-08-01,5.0,No
+OD-1806,C-5224,Mark Moore,Male,24,Phoenix,AZ,Books,Fiction Novel,6,19.38,0.15,98.84,29.94,UPI,2023-10-11,2023-10-14,3.5,No
+OD-1807,C-5048,David Miller,Male,19,Indianapolis,IN,Electronics,Tablet,5,352.65,0.2,1410.6,369.96,Credit Card,2023-10-20,2023-10-27,1.0,No
+OD-1808,C-5233,Jennifer Williams,Female,29,San Diego,CA,Sports,Dumbbells,3,29.14,0.3,61.19,7.56,Net Banking,2023-05-14,2023-05-15,3.0,No
+OD-1809,C-5479,Charles Wilson,Male,58,New York,NY,Sports,Backpack,1,25.66,0.2,20.53,1.78,Debit Card,2023-05-25,2023-05-30,2.0,No
+OD-1810,C-5040,Lisa Anderson,Female,41,San Antonio,TX,Beauty,Lipstick,4,38.86,0.15,-132.12,9.52,Credit Card,2023-04-18,2023-04-25,4.0,No
+OD-1811,C-5325,Sarah Rodriguez,Female,69,Philadelphia,PA,Fashion,Jacket,1,75.8,0.25,56.85,12.52,Cash on Delivery,2023-02-30,2023-01-19,3.5,No
+OD-1812,C-5248,Donna Thompson,Female,56,Seattle,WA,Electronics,Laptop,5,670.52,0.0,3352.6,361.59,Credit Card,2023-10-02,2023-10-03,5.0,No
+OD-1813,C-5390,Charles Wilson,Male,31,Jacksonville,FL,Electronics,Laptop,1,446.87,0.05,424.53,31.85,Debit Card,2023-05-18,2023-05-23,4.5,No
+OD-1814,C-5489,David Miller,Male,40,Seattle,WA,Sports,Water Bottle,4,52.3,15%,177.82,32.15,Net Banking,2023-04-09,2023-04-14,2.0,No
+OD-1815,C-5352,Paul Lee,Male,43,Houston,TX,Books,Sci-Fi Novel,3,11.98,0.05,34.14,11.48,Net Banking,2023-08-10,2023-08-18,4.0,No
+OD-1816,C-5383,Paul Lee,Male,70,Austin,TX,Books,Fiction Novel,5,15.89,5%,75.48,16.62,UPI,2023-11-20,2023-11-22,4.5,No
+OD-1817,C-5456,Robert Williams,Male,50,Dallas,TX,Books,Cookbook,3,19.87,0.25,44.71,14.98,Cash on Delivery,2023-06-30,2023-07-07,1.0,No
+OD-1818,C-5093,Mary Smith,Female,45,Philadelphia,PA,Home Decor,Table Lamp,1,51.49,10%,46.34,7.49,UPI,2023-03-04,2023-03-05,3.5,Yes
+OD-1819,C-5368,Patricia Johnson,Female,31,Columbus,OH,Books,Self-Help Book,2,19.11,0.15,32.49,4.39,Debit Card,2023-09-27,2023-10-01,1.5,No
+OD-1820,C-5143,Emily Perez,Female,69,Chicago,IL,Books,History Book,4,21.28,0.15,72.35,10.51,UPI,2023-04-12,2023-04-16,1.0,No
+OD-1821,C-5256,Robert Williams,Male,35,Indianapolis,IN,Electronics,Smartphone,4,362.42,10%,1304.71,296.63,Debit Card,2023-10-23,2023-10-24,3.0,Yes
+OD-1822,C-5330,Dorothy Martin,Female,18,Columbus,OH,Home Decor,Table Lamp,4,38.66,0.2,123.71,40.26,Credit Card,2023-06-22,2023-06-23,1.5,No
+OD-1823,C-5049,Susan Davis,Female,64,San Jose,CA,Home Decor,Area Rug,3,$64.82,0.2,155.57,43.93,Net Banking,2023-11-10,2023-11-11,4.0,No
+OD-1824,C-5357,Karen Wilson,Female,49,Houston,TX,Home Decor,Vase,1,38.11,0.0,38.11,11.34,Debit Card,2023-02-23,2023-03-01,4.0,No
+OD-1825,C-5088,David Miller,Male,30,Jacksonville,FL,Books,Fiction Novel,6,24.62,0.1,132.95,41.88,Credit Card,2023-02-26,2023-02-27,3.0,No
+OD-1826,C-5136,Patricia Johnson,Female,62,El Paso,TX,Beauty,Perfume,6,20.11,0.05,114.63,25.8,Credit Card,2023-03-06,2023-03-12,2.0,No
+OD-1827,C-5455,Susan Davis,Female,58,Columbus,OH,Sports,Yoga Mat,5,43.16,20%,172.64,33.38,Net Banking,2023-05-24,2023-05-30,4.5,No
+OD-1828,C-5048,Steven Martin,Male,67,San Jose,CA,Sports,Yoga Mat,3,44.46,0.3,93.37,11.46,Debit Card,2023-12-22,2023-12-24,1.5,No
+OD-1829,C-5031,Anthony Thomas,Male,18,San Antonio,TX,Beauty,Mascara,2,29.63,0.1,53.33,6.0,Cash on Delivery,2023-09-28,2023-10-04,3.0,No
+OD-1830,C-5336,Charles Wilson,Male,120,Houston,TX,Fashion,Jeans,3,47.82,0.15,121.94,37.85,Cash on Delivery,2023-04-14,2023-04-21,2.5,No
+OD-1831,C-5143,Jessica Garcia,Female,28,San Jose,CA,Books,History Book,1,11.65,0.0,11.65,3.19,Debit Card,2023-01-09,2023-01-17,2.0,No
+OD-1832,C-5015,Nancy Martinez,Female,60,Charlotte,NC,Beauty,Perfume,3,$18.55,0.2,44.52,3.35,Net Banking,2023-04-19,2023-04-22,4.0,No
+OD-1833,C-5221,,FEMALE,,LOS ANGELES,CA,electronics,Perfume,,,0.25,40.34,6.65,Net Banking  ,2023-04-10,,,yes
+OD-1834,C-5091,Emily Perez,Female,35,Charlotte,NC,Books,Cookbook,5,16.8,0.25,63.0,4.09,Debit Card,2023-02-26,2023-03-02,1.5,Yes
+OD-1835,C-5459,Robert Williams,Male,54,Dallas,TX,Fashion,T-Shirt,5,32.46,0.05,154.19,48.54,Net Banking,2023-07-20,2023-07-27,1.5,No
+OD-1836,C-5376,Paul Lee,Male,-5,San Antonio,TX,Fashion,Jeans,3,$61.39,0.25,138.13,31.62,Credit Card,2023-02-18,2023-02-21,5.0,No
+OD-1837,C-5245,Joshua Thompson,Male,62,San Diego,CA,Fashion,Jacket,6,30.75,0.05,175.28,26.23,Net Banking,2023-03-14,2023-03-15,4.5,No
+OD-1838,C-5172,John Johnson,Male,29,Dallas,TX,Electronics,Laptop,6,680.54,0.0,4083.24,931.8,Net Banking,2023-10-26,2023-10-27,4.5,No
+OD-1839,C-5242,Joseph Garcia,Male,20,New York,NY,Books,History Book,3,24.04,0.2,57.7,11.59,Debit Card,2023-02-18,2023-02-20,3.0,No
+OD-1840,C-5232,Lisa Anderson,Female,65,Jacksonville,FL,Books,Self-Help Book,6,17.76,0.1,95.9,17.99,UPI,2023-06-04,2023-06-10,5.0,No
+OD-1841,C-5248,Joseph Garcia,Male,35,Charlotte,NC,Sports,Tennis Racket,1,27.21,0.15,23.13,7.1,Debit Card,2023-07-02,2023-07-10,1.0,No
+OD-1842,C-5296,Jessica Garcia,Female,41,San Antonio,TX,Sports,Yoga Mat,2,59.67,0.15,101.44,24.51,UPI,2023-11-17,2023-11-25,5.0,No
+OD-1843,C-5136,Jennifer Williams,Female,39,San Francisco,CA,Books,Cookbook,3,14.57,0.0,43.71,9.78,UPI,2023-11-10,2023-11-12,4.0,No
+OD-1844,C-5291,Jennifer Williams,Female,36,Houston,TX,Electronics,Smartwatch,6,349.45,0.25,1572.52,149.5,UPI,2023-11-16,2023-11-19,3.0,No
+OD-1845,C-5148,William Jones,Male,69,San Jose,CA,Electronics,Smartwatch,1,387.36,0.3,271.15,61.8,Credit Card,31-02-2023,2023-09-13,1.0,No
+OD-1846,C-5181,James Smith,Male,21,Dallas,TX,Fashion,Jacket,3,69.4,0.2,166.56,41.57,Cash on Delivery,2023-03-21,2023-03-23,3.0,No
+OD-1847,C-5376,Matthew Taylor,Male,45,Denver,CO,Electronics,Headphones,2,287.35,10%,517.23,64.46,Net Banking,2023-08-05,2023-08-12,1.5,No
+OD-1848,C-5472,Joshua Thompson,Male,56,San Jose,CA,Fashion,Dress,4,63.66,0.1,229.18,66.76,Debit Card,2023-12-16,2023-12-20,3.0,No
+OD-1849,C-5214,Ashley Jackson,  Male  ,30,Phoenix  ,CA,  Fashion ,Wall Art,-2,76.8,0.25,172.8,32.55,UPI ,2023-07-12,2023-07-19,1.5,No 
+OD-1850,C-5270,  Sarah Rodriguez  ,Female,62,Austin,TX,Books,History Book,6,15.44,0.1,83.38,14.87,Net Banking,2023-07-30,2023-08-07,1.0,No
+OD-1851,C-5014,Susan Davis,Female,23,Phoenix,AZ,Books,Self-Help Book,2,19.45,0.1,35.01,3.09,Cash on Delivery,2023-10-17,2023-10-22,1.0,No
+OD-1852,C-5065,Barbara Miller,Female,60,New York,NY,Beauty,Face Wash,4,40.18,0.0,160.72,10.67,Credit Card,2023-06-20,2023-06-22,3.0,No
+OD-1853,C-5247,Patricia Johnson,Female,21,Houston,TX,Sports,Backpack,6,42.45,0.25,191.03,12.59,Debit Card,2023-09-22,2023-09-25,5.0,No
+OD-1854,C-5070,Mark Moore,Male,61,Phoenix,AZ,Home Decor,Curtains,3,87.78,0.0,263.34,76.81,Cash on Delivery,2023-12-19,2023-12-23,1.5,No
+OD-1855,C-5001,Charles Wilson,Male,56,Houston,TX,Books,Fiction Novel,-10,12.68,0.15,21.56,1.24,Cash on Delivery,2023-08-16,2023-08-23,1.0,No
+OD-1856,C-5154,Barbara Miller,Female,48,Philadelphia,PA,Fashion,Dress,3,71.37,0.25,160.58,29.18,Cash on Delivery,2023-03-05,2023-03-12,2.0,Yes
+OD-1857,C-5095,Charles Wilson,Male,70,San Diego,CA,Fashion,Dress,6,64.78,0.05,369.25,71.21,UPI,2023-05-29,2023-05-31,4.5,No
+OD-1858,C-5342,Paul Lee,Male,43,San Francisco,CA,Sports,Yoga Mat,4,38.51,0.15,130.93,12.37,UPI,2023-08-23,2023-08-25,4.0,Yes
+OD-1859,C-5298,Joshua Thompson,Male,20,El Paso,TX,Beauty,Lipstick,3,43.88,0.15,111.89,35.21,Net Banking,2023-05-22,2023-05-23,2.0,No
+OD-1860,C-5257,Betty Taylor,female ,31,Jacksonville,FL,Sports,Backpack,4,42.55,0.05,161.69,39.9,Cash on Delivery,2023-12-02,2023-12-08,4.5,No
+OD-1861,C-5143,Joshua Thompson,Male,43,Chicago,IL,Sports,Running Shoes,4,61.43,0.2,196.58,48.69,Cash on Delivery,2023-12-29,2024-01-03,2.0,No
+OD-1862,C-5302,Kimberly Lee,Female,40,Denver,CO,Books,Cookbook,1,9.81,0.3,6.87,1.85,Debit Card,2023-02-19,2023-02-21,4.5,No
+OD-1863,C-5166,Mark Moore,Male,67,San Diego,CA,Electronics,Laptop,6,751.94,0.3,3158.15,1080.07,Credit Card,2023-02-01,2023-02-06,1.5,Yes
+OD-1864,C-5434,William Jones,Male,46,Jacksonville,FL,Books,History Book,1,25.62,0.1,23.06,1.9,Net Banking,2023-07-13,2023-07-16,5.0,No
+OD-1865,C-5101,Steven Martin,Male,49,Columbus,OH,Sports,Water Bottle,2,29.45,0.05,55.95,10.08,Cash on Delivery,2023-04-09,2023-04-11,1.0,No
+OD-1866,C-5105,,FEMALE,,houston,AZ,  Fashion ,Headphones,,,0.3,1615.26,115.64,Cash on Delivery,2023-12-16,2023-12-13,,no
+OD-1867,C-5293,Nancy Martinez,Female,50,Jacksonville,FL,Home Decor,Vase,5,97.45,0.3,341.07,23.92,Net Banking,2023-11-17,2023-11-24,1.5,No
+OD-1868,C-5041,Thomas Rodriguez,Male,68,Charlotte,NC,Home Decor,Wall Art,1,71.91,0.0,71.91,16.57,UPI,2023-01-12,2023-01-16,3.0,No
+OD-1869,C-5200,Jennifer Williams,Female,22,Philadelphia,PA,Home Decor,Wall Art,5,77.43,0.3,271.0,55.64,Cash on Delivery,2023-09-14,2023-09-19,4.0,No
+OD-1870,C-5030,Sandra Moore,Female,62,Houston,TX,Books,Cookbook,3,20.76,0.0,62.28,9.43,UPI,2023-04-13,2023-04-19,1.0,No
+OD-1871,C-5105,Ashley Jackson,Female,70,Austin,TX,Sports,Yoga Mat,2,41.73,0.3,58.42,19.54,Cash on Delivery,2023-12-26,2023-12-27,3.5,No
+OD-1872,C-5487,Susan Davis,Female,56,El Paso,TX,Electronics,Bluetooth Speaker,4,781.16,0.1,2812.18,750.85,Credit Card,2023-01-19,2023-01-27,5.0,No
+OD-1873,C-5333,Jennifer Williams,Female,45,Fort Worth,TX,Home Decor,Table Lamp,1,103.05,0.0,103.05,29.07,Debit Card,2023-10-01,2023-10-08,1.0,No
+OD-1874,C-5247,Michael Brown,Male,42,San Francisco,CA,Sports,Dumbbells,4,50.46,0.2,161.47,14.75,Net Banking,2023-03-02,2023-03-08,3.5,No
+OD-1875,C-5176,Jessica Garcia,Female,21,San Diego,CA,Fashion,T-Shirt,5,$27.54,0.15,117.04,32.1,Cash on Delivery,2023-10-18,2023-10-19,1.0,No
+OD-1876,C-5417,Michael Brown,Male,22,Los Angeles,CA,Fashion,Sneakers,2,42.26,0.1,76.07,11.78,Debit Card,2023-05-30,2023-06-02,4.0,No
+OD-1877,C-5337,Joseph Garcia,Male,60,Chicago,IL,Electronics,Headphones,5,381.16,0.25,1429.35,386.73,UPI,2023-04-23,2023-05-01,3.0,No
+OD-1878,C-5400,Ashley Jackson,Female,36,San Diego,CA,Books,Self-Help Book,3,21.56,0.2,51.74,4.21,UPI,2023-07-30,2023-08-07,3.0,No
+OD-1879,C-5105,Thomas Rodriguez,Male,51,San Diego,CA,Home Decor,Curtains,5,51.18,0.1,230.31,61.6,Debit Card,2023-01-19,2023-01-23,4.5,No
+OD-1880,C-5488,Joseph Garcia,Male,19,Fort Worth,TX,Electronics,Headphones,3,587.65,0.1,1586.65,473.07,Credit Card,2023-01-31,2023-02-05,4.0,No
+OD-1881,C-5010,Elizabeth Jones,Female,42,Columbus,OH,Electronics,Laptop,2,474.84,0.25,712.26,127.73,Credit Card,2023-12-05,2023-12-10,1.0,No
+OD-1882,C-5391,Jennifer Williams,Female,19,El Paso,TX,Home Decor,Area Rug,5,51.59,0.0,257.95,39.28,Cash on Delivery,2023-08-11,2023-08-18,1.0,No
+OD-1883,C-5284,Elizabeth Jones,Female,64,San Jose,CA,Books,Cookbook,4,19.31,0.2,61.79,17.34,UPI,2023-03-25,2023-04-01,4.5,No
+OD-1884,C-5068,James Smith,Male,35,Dallas,TX,Electronics,Laptop,5,429.75,0.2,1719.0,289.45,Cash on Delivery,2023-05-21,2023-05-27,3.0,No
+OD-1885,C-5401,Emily Perez,Female,18,Houston,TX,Home Decor,Vase,6,59.11,0.1,319.19,97.12,Net Banking,2023-08-25,2023-08-26,4.5,Yes
+OD-1886,C-5239,Robert Williams,Male,40,Fort Worth,TX,Sports,Backpack,2,$38.16,0.2,61.06,20.25,UPI,2023-11-09,2023-11-15,1.5,No
+OD-1887,C-5093,Steven Martin,Male,67,Dallas,TX,Home Decor,Throw Pillow,2,52.37,0.05,99.5,9.36,Cash on Delivery,2023-12-02,2023-12-03,2.5,No
+OD-1888,C-5336,Robert Williams,Male,29,Charlotte,NC,Beauty,Face Wash,3,16.26,0.25,36.59,4.33,UPI,2023-05-12,2023-05-13,3.5,No
+OD-1889,C-5368,  Robert Williams  ,Male,56,San Diego,CA,Home Decor,Wall Art,1,72.5,0.0,72.5,14.74,Debit Card,2023-04-15,2023-04-21,3.5,No
+OD-1890,C-5037,Jessica Garcia,Female,36,Phoenix,AZ,Electronics,Headphones,5,695.61,0.1,3130.25,1072.2,UPI,2023-08-29,2023-09-03,1.0,No
+OD-1891,C-5189,Robert Williams,Male,36,Phoenix,AZ,Books,Fiction Novel,1,19.96,0.3,13.97,2.01,Cash on Delivery,2023-10-25,2023-10-31,2.5,No
+OD-1892,C-5426,Kimberly Lee,Female,20,Phoenix,AZ,Beauty,Shampoo,1,43.66,0.05,41.48,9.11,Cash on Delivery,2023-11-19,2023-11-26,5.0,No
+OD-1893,C-5434,Margaret Thomas,Female,69,Los Angeles,CA,Books,Cookbook,6,18.44,0.15,94.04,13.64,Debit Card,2023-10-22,2023-10-27,2.5,No
+OD-1894,C-5125,Linda Brown,Female,32,Columbus,OH,Home Decor,Curtains,1,85.9,0.15,73.02,19.7,Net Banking,2023-07-05,2023-07-02,3.5,No
+OD-1895,C-5259,William Jones,Male,41,Fort Worth,TX,Books,Biography,4,23.15,0.05,87.97,19.42,Debit Card,2023-10-03,2023-10-07,4.0,No
+OD-1896,C-5341,Thomas Rodriguez,Male,56,Dallas,TX,Home Decor,Area Rug,3,44.49,0.15,113.45,20.0,Debit Card,2023-10-22,2023-10-30,2.5,No
+OD-1897,C-5449,Karen Wilson,Female,18,Philadelphia,PA,Electronics,Smartwatch,3,683.38,0.25,1537.61,505.93,Credit Card,2023-03-06,2023-03-07,4.0,Yes
+OD-1898,C-5354,Christopher Martinez,Male,22,Phoenix,AZ,Books,Sci-Fi Novel,4,25.28,0.1,91.01,8.03,Cash on Delivery,2023-05-04,2023-05-09,1.5,No
+OD-1899,C-5460,Patricia Johnson,Female,55,El Paso,TX,Books,Fiction Novel,6,$9.81,0.25,44.14,14.4,Net Banking,2023-07-29,2023-07-27,4.0,No
+OD-1900,C-5388,  Nancy Martinez  ,  Male  ,62,Phoenix,AZ,Sports,Dumbbells,6,53.17,0.3,223.31,73.91,COD,2023-03-19,2023-03-16,3.5,No
+OD-1901,C-5195,Mary Smith,Female,46,Philadelphia,PA,Books,History Book,5,14.03,0.3,49.1,3.88,UPI,2023-09-10,2023-09-16,1.0,No
+OD-1902,C-5266,Margaret Thomas,Female,55,Charlotte,NC,Beauty,Perfume,3,26.52,0.3,55.69,5.77,Debit Card,2023-01-22,2023-01-26,4.0,No
+OD-1903,C-5143,Dorothy Martin,Female,57,Austin,TX,Electronics,Headphones,3,359.42,0.1,970.43,128.25,Net Banking,2023-04-25,2023-04-28,3.0,No
+OD-1904,C-5311,Richard Davis,Male,32,Dallas,TX,Fashion,T-Shirt,2,56.82,0.2,90.91,25.13,Credit Card,2023-11-03,2023-11-04,5.0,No
+OD-1905,C-5410,Matthew Taylor,Male,18,Fort Worth,TX,Electronics,Headphones,2,422.19,0.2,675.5,120.21,Net Banking,2023-09-24,2023-09-27,4.5,No
+OD-1906,C-5471,Joseph Garcia,Male,63,Houston,TX,Beauty,Mascara,4,22.89,30%,64.09,5.84,UPI,2023-12-09,2023-12-11,3.5,No
+OD-1907,C-5382,Mark Moore,Male,64,Chicago,IL,Home Decor,Table Lamp,5,60.14,0.15,255.59,61.13,Cash on Delivery,2023-12-11,2023-12-13,3.5,Yes
+OD-1908,C-5222,Richard Davis,Male,63,Charlotte,NC,Home Decor,Table Lamp,5,83.6,0.25,313.5,19.03,Credit Card,2023-05-06,2023-05-09,4.0,No
+OD-1909,C-5345,Matthew Taylor,Male,34,Fort Worth,TX,Fashion,Sneakers,2,66.61,0.1,119.9,10.74,Credit Card,2023-09-22,2023-09-26,1.0,No
+OD-1910,C-5035,Lisa Anderson,Female,53,El Paso,TX,Fashion,Socks,2,29.1,0.25,43.65,5.63,Net Banking,2023-11-20,2023-11-24,3.5,No
+OD-1911,C-5272,Daniel Anderson,Male,37,San Diego,CA,Home Decor,Curtains,4,71.3,0.25,213.9,35.86,UPI,2023-10-06,2023-10-14,3.0,No
+OD-1912,C-5113,Joseph Garcia,Male,66,San Jose,CA,Beauty,Mascara,3,22.42,0.15,57.17,4.84,Net Banking,2023-06-13,2023-06-15,3.5,No
+OD-1913,C-5361,Thomas Rodriguez,Male,67,Fort Worth,TX,Beauty,Face Wash,4,35.62,0.0,142.48,19.56,Cash on Delivery,abcd-ef-gh,2023-04-28,1.0,No
+OD-1914,C-5396,Mary Smith,Female,34,Austin,TX,Beauty,Mascara,4,27.76,0.1,99.94,32.35,UPI,2023-09-06,2023-09-10,3.5,Yes
+OD-1915,C-5158,Sarah Rodriguez,Female,44,San Diego,CA,Books,Biography,5,12.71,0.25,47.66,3.96,Cash on Delivery,2023-11-09,2023-11-15,2.0,No
+OD-1916,C-5277,John Johnson,Male,64,New York,NY,Beauty,Lipstick,6,25.0,0.1,135.0,37.81,Cash on Delivery,2023-02-02,2023-02-03,5.0,No
+OD-1917,C-5186,Sandra Moore,Female,30,Philadelphia,PA,Books,Cookbook,6,13.13,0.3,55.15,5.43,UPI,2023-06-19,2023-06-26,2.5,No
+OD-1918,C-5376,Donald Jackson,Male,18,Los Angeles,CA,Electronics,Bluetooth Speaker,1,540.81,0.3,378.57,74.0,Debit Card,2023-05-25,2023-05-30,1.0,No
+OD-1919,C-5324,Donald Jackson,Male,20,Dallas,TX,Sports,Yoga Mat,4,48.52,5%,184.38,54.48,UPI,2023-02-13,2023-02-15,1.5,No
+OD-1920,C-5370,Susan Davis,Female,19,New York,NY,Sports,Backpack,5,59.6,0.0,298.0,80.69,Net Banking,2023-04-10,2023-04-15,3.5,No
+OD-1921,C-5263,John Johnson,Male,37,Dallas,TX,Beauty,Moisturizer,1,22.93,0.25,17.2,3.83,Net Banking,2023-05-30,2023-06-06,1.5,No
+OD-1922,C-5496,Susan Davis,Female,53,Dallas,TX,Beauty,Perfume,6,31.0,0.05,176.7,29.11,Net Banking,2023-07-21,2023-07-27,5.0,No
+OD-1923,C-5232,Mark Moore,Male,54,New York,NY,Beauty,Moisturizer,4,26.09,0.2,83.49,6.9,UPI,2023-06-20,2023-06-23,1.5,No
+OD-1924,C-5288,Christopher Martinez,Male,31,Fort Worth,TX,Books,Biography,1,11.54,0.2,9.23,2.78,Cash on Delivery,2023-10-18,2023-10-22,1.0,No
+OD-1925,C-5130,Susan Davis,Female,37,Austin,TX,Fashion,T-Shirt,3,64.21,0.2,154.1,26.5,Credit Card,2023-05-18,2023-05-22,5.0,No
+OD-1926,C-5280,Lisa Anderson,Female,38,San Diego,CA,Home Decor,Throw Pillow,6,70.78,0.2,339.74,104.5,Credit Card,2023-02-23,2023-03-02,1.5,No
+OD-1927,C-5066,James Smith,Male,28,Charlotte,NC,Sports,Yoga Mat,2,29.29,0.3,41.01,14.01,Credit Card,2023-08-06,2023-08-14,2.0,No
+OD-1928,C-5250,Thomas Rodriguez,Male,65,Seattle,WA,Beauty,Mascara,1,23.9,0.15,20.31,7.08,UPI,2023-09-25,2023-10-01,3.5,No
+OD-1929,C-5333,Christopher Martinez,Male,27,San Jose,CA,Books,History Book,2,23.45,25%,35.17,5.68,Cash on Delivery,2023-05-09,2023-05-17,4.5,No
+OD-1930,C-5480,Patricia Johnson,Female,65,Phoenix,AZ,Fashion,Dress,6,71.79,0.0,430.74,62.59,Debit Card,2023-03-18,2023-03-26,1.5,Yes
+OD-1931,C-5160,Matthew Taylor,Male,30,Houston,TX,Books,Cookbook,3,10.7,0.2,25.68,4.89,Debit Card,2023-02-04,2023-02-10,-2.0,No
+OD-1932,C-5177,James Smith,Male,30,Dallas,TX,Home Decor,Throw Pillow,5,88.51,0.1,398.3,94.54,Net Banking,2023-05-11,2023-05-15,1.5,No
+OD-1933,C-5079,  Richard Davis  ,Male,64,San Antonio,TX,Home Decor,Table Lamp,3,-100.0,5%,218.25,63.09,Cash on Delivery,2023-11-27,2023-12-04,3.5,No
+OD-1934,C-5396,Kimberly Lee,Female,56,Dallas,TX,Sports,Backpack,6,59.19,0.05,337.38,33.88,Debit Card,2023-04-21,2023-04-23,2.0,No
+OD-1935,C-5085,Nancy Martinez,Female,18,Austin,TX,Electronics,Smartphone,2,546.32,0.15,928.74,164.96,Net Banking,2023-06-17,2023-06-22,5.0,No
+OD-1936,C-5124,Ashley Jackson,Female,43,San Francisco,CA,Beauty,Shampoo,4,25.65,0.3,71.82,14.84,Cash on Delivery,2023-02-10,2023-02-14,2.0,No
+OD-1937,C-5365,Charles Wilson,Male,45,Seattle,WA,Beauty,Mascara,6,$38.67,0.25,174.02,14.98,Net Banking,2023-11-30,2023-12-06,2.0,Yes
+OD-1938,C-5444,Linda Brown,Female,47,Jacksonville,FL,Sports,Running Shoes,2,46.91,0.05,89.13,14.68,Debit Card,2023-01-06,2023-01-10,4.5,No
+OD-1939,C-5270,Matthew Taylor,Male,18,Denver,CO,Home Decor,Area Rug,1,$101.59,0.1,91.43,18.36,Credit Card,2023-11-07,2023-11-12,1.0,No
+OD-1940,C-5329,Nancy Martinez,Female,43,Los Angeles,CA,Sports,Tennis Racket,3,32.52,0%,97.56,33.3,Credit Card,2023-08-30,2023-09-07,4.5,No
+OD-1941,C-5243,Sandra Moore,Female,69,Houston,TX,Electronics,Headphones,1,600.98,0.25,450.74,43.25,Debit Card,2023-03-09,2023-03-11,4.0,No
+OD-1942,C-5029,Sarah Rodriguez,Female,58,Los Angeles,CA,Home Decor,Wall Art,5,$55.98,0.3,195.93,21.21,Cash on Delivery,2023-01-09,2023-01-15,3.5,No
+OD-1943,C-5464,Kimberly Lee,Female,64,Jacksonville,FL,Books,Fiction Novel,6,$16.26,0.3,68.29,17.09,Credit Card,2023-02-03,2023-02-07,5.0,No
+OD-1944,C-5374,Paul Lee,Male,23,Philadelphia,PA,Beauty,Lipstick,3,33.26,0.25,74.84,15.09,Debit Card,2023-11-22,2023-11-23,3.0,No
+OD-1945,C-5288,Jennifer Williams,Female,25,Austin,TX,Beauty,Face Wash,6,17.58,0.15,89.66,6.85,Credit Card,2023-04-04,2023-04-06,2.0,No
+OD-1946,C-5303,  John Johnson  ,Male,67,Philadelphia,PA,Electronics,Laptop,6,472.25,0.0,2833.5,887.34,Debit Card,2023-06-07,2023-06-11,2.0,No
+OD-1947,C-5028,Elizabeth Jones,Female,63,San Jose,CA,Fashion,Jacket,2,57.51,0.15,97.77,11.52,Debit Card,2023-05-20,2023-05-16,2.0,No
+OD-1948,C-5133,Sarah Rodriguez,Female,34,Chicago,IL,Beauty,Perfume,5,25.91,0.3,90.69,22.0,Net Banking,2023-11-20,2023-11-23,1.0,No
+OD-1949,C-5198,Charles Wilson,Male,52,Denver,CO,Fashion,Socks,4,45.73,0.3,128.04,32.6,UPI,2023-04-17,2023-04-23,5.0,No
+OD-1950,C-5425,Paul Lee,Male,23,Charlotte,NC,Fashion,Jacket,2,52.26,0.0,104.52,34.13,Cash on Delivery,2023-12-04,2023-12-07,4.5,No
+OD-1951,C-5240,Kimberly Lee,Female,38,Jacksonville,FL,Books,Cookbook,6,19.59,0.0,117.54,17.24,Credit Card,2023-11-19,2023-11-25,1.0,No
+OD-1952,C-5216,Nancy Martinez,Female,39,Austin,TX,Sports,Yoga Mat,2,59.35,0.1,106.83,10.56,Cash on Delivery,2023-04-06,2023-04-07,4.5,No
+OD-1953,C-5234,Kimberly Lee,Female,54,Indianapolis,IN,Sports,Running Shoes,4,56.03,0.1,201.71,53.86,Cash on Delivery,2023-06-22,2023-06-30,4.0,No
+OD-1954,C-5021,Mark Moore,Male,66,Charlotte,NC,Electronics,Smartwatch,4,688.0,0.2,2201.6,374.77,Credit Card,2023-03-25,2023-03-28,3.0,No
+OD-1955,C-5495,Margaret Thomas,Female,30,Denver,CO,Fashion,Jeans,6,44.99,0%,269.94,92.08,UPI,2023-03-14,2023-03-20,4.5,No
+OD-1956,C-5085,Karen Wilson,Female,18,Phoenix,AZ,Fashion,Jeans,3,43.61,0.05,124.29,15.02,Debit Card,2023-08-12,2023-08-14,2.5,No
+OD-1957,C-5351,Ashley Jackson,Female,67,Jacksonville,FL,Electronics,Smartwatch,2,456.14,0.15,775.44,166.68,Net Banking,2023-12-24,2023-12-28,4.5,No
+OD-1958,C-5426,Karen Wilson,Female,63,San Diego,CA,Electronics,Smartwatch,2,441.91,0.05,839.63,142.71,UPI,2023-05-25,2023-06-01,4.0,No
+OD-1959,C-5037,Jennifer Williams,Female,49,Denver,CO,Electronics,Laptop,5,366.21,0.05,1739.5,279.61,UPI,2023-09-14,2023-09-15,4.0,No
+OD-1960,C-5331,Mark Moore,Male,26,Fort Worth,TX,Fashion,T-Shirt,2,43.3,0.0,86.6,13.15,Debit Card,2023-08-06,2023-08-09,3.0,No
+OD-1961,C-5199,Nancy Martinez,Female,20,Dallas,TX,Beauty,Moisturizer,2,26.95,0.2,43.12,12.95,Net Banking,2023-02-12,2023-02-18,1.5,No
+OD-1962,C-5412,James Smith,Male,28,Austin,TX,Fashion,Dress,5,47.74,0.15,202.9,10.85,Net Banking,2023-08-05,2023-08-06,3.0,No
+OD-1963,C-5133,Joseph Garcia,Male,56,Columbus,OH,Books,Self-Help Book,4,21.82,0.3,61.1,12.86,UPI,2023-02-27,2023-03-02,4.0,No
+OD-1964,C-5389,  Elizabeth Jones  ,Female,61,Chicago,IL,Fashion,T-Shirt,3,78.2,0.25,175.95,39.95,Debit Card,2023-09-21,2023-09-29,4.0,Yes
+OD-1965,C-5238,Andrew Perez,Male,20,Houston,TX,Beauty,Mascara,3,16.5,0.2,39.6,10.13,UPI,2023-08-06,2023-08-12,3.0,Yes
+OD-1966,C-5278,Paul Lee,Male,29,San Jose,CA,Home Decor,Throw Pillow,1,68.17,0.1,61.35,14.77,Cash on Delivery,2023-02-27,2023-03-05,1.0,No
+OD-1967,C-5379,Barbara Miller,Female,33,Philadelphia,PA,Electronics,Bluetooth Speaker,1,338.07,0.05,321.17,77.04,Net Banking,2023-05-21,2023-05-27,4.5,No
+OD-1968,C-5125,Margaret Thomas,Female,54,Columbus,OH,Electronics,Smartphone,3,471.31,0.05,1343.23,312.71,Credit Card,2023-07-15,2023-07-17,3.5,No
+OD-1969,C-5217,Barbara Miller,Female,19,Philadelphia,PA,Sports,Water Bottle,6,48.42,0.0,290.52,87.46,Net Banking,2023-03-01,2023-03-05,3.0,No
+OD-1970,C-5316,Betty Taylor,Female,52,San Diego,CA,Sports,Yoga Mat,3,45.08,0.05,128.48,35.75,Net Banking,2023-05-21,2023-05-24,3.0,No
+OD-1971,C-5344,Robert Williams,Male,56,San Francisco,CA,Fashion,Socks,3,41.72,0.15,106.39,11.93,Net Banking,2023-12-03,2023-12-06,3.0,No
+OD-1972,C-5237,Emily Perez,Female,68,Austin,TX,Electronics,Laptop,2,279.76,0.1,503.57,58.57,Cash on Delivery,2023-05-28,2023-06-05,10.0,No
+OD-1973,C-5169,Sandra Moore,Female,42,Fort Worth,TX,Books,Fiction Novel,3,15.13,0.1,40.85,12.12,Debit Card,2023-08-25,2023-09-02,2.5,No
+OD-1974,C-5358,Christopher Martinez,Male,61,San Francisco,CA,Home Decor,Throw Pillow,1,83.57,0.2,66.86,22.75,Net Banking,2023-10-15,2023-10-21,1.5,No
+OD-1975,C-5383,Margaret Thomas,Female,41,San Jose,CA,Home Decor,Area Rug,4,84.56,0.0,338.24,32.73,Cash on Delivery,2023-03-27,2023-04-02,4.0,No
+OD-1976,C-5392,  John Johnson  ,Male,66,San Jose,CA,Books,History Book,4,26.81,0.15,91.15,29.75,Debit Card,2023-07-13,2023-07-15,1.5,No
+OD-1977,C-5112,Anthony Thomas,Male,25,Denver,CO,Home Decor,Table Lamp,2,91.21,0.25,136.81,47.02,Cash on Delivery,2023-07-29,2023-08-04,2.5,No
+OD-1978,C-5462,Emily Perez,Female,35,Austin,TX,Home Decor,Curtains,1,$83.82,0.25,-62.86,21.25,UPI,2023-09-15,2023-09-22,2.5,No
+OD-1979,C-5254,Karen Wilson,Female,36,Columbus,OH,Fashion,Jeans,4,42.57,20%,136.22,40.72,Net Banking,2023-12-02,2023-12-05,1.5,No
+OD-1980,C-5298,Susan Davis,Female,44,Indianapolis,IN,Fashion,Socks,1,60.42,0.05,57.4,13.37,Cash on Delivery,2023-02-11,2023-02-18,1.0,No
+OD-1981,C-5313,Donald Jackson,Male,28,Denver,CO,Sports,Running Shoes,6,24.82,0.1,134.03,7.62,Cash on Delivery,2023-12-01,2023-12-08,5.0,No
+OD-1982,C-5443,Matthew Taylor,Male,28,Columbus,OH,Home Decor,Curtains,2,48.62,0.25,72.93,23.81,UPI,2023-03-09,2023-03-14,1.5,Yes
+OD-1983,C-5106,Dorothy Martin,Female,47,Columbus,OH,Fashion,Socks,5,50.96,0.05,242.06,69.96,Net Banking,2023-09-14,2023-09-16,3.5,No
+OD-1984,C-5126,Karen Wilson,Female,64,Chicago,IL,Electronics,Tablet,1,638.29,0.15,542.55,168.25,Net Banking,2023-07-17,2023-07-19,4.0,No
+OD-1985,C-5453,Sandra Moore,Female,25,El Paso,TX,Sports,Backpack,6,22.0,0.15,112.2,33.47,Credit Card,2023-05-30,2023-06-06,1.0,No
+OD-1552,C-5249,Ashley Jackson,Female,45,Indianapolis,IN,Sports,Yoga Mat,2,27.69,0.05,52.61,3.09,UPI,2023-12-04,2023-11-30,1.0,No
+OD-1327,C-5476,Betty Taylor,Female,24,San Jose,CA,Sports,Water Bottle,5,24.63,0.3,86.2,28.27,Net Banking,2023-07-22,2023-07-23,4.5,No
+OD-1051,C-5239,Jessica Garcia,Female,70,Denver,CO,Home Decor,Area Rug,2,$95.81,0.0,191.62,25.62,Net Banking,2023-05-05,2023-05-13,4.0,No
+OD-1308,C-5062,Barbara Miller,Female,31,Columbus,OH,Fashion,Socks,3,32.82,15%,83.69,5.35,Cash on Delivery,2023-03-05,2023-03-13,4.5,No
+OD-1370,C-5167,  Betty Taylor  ,Female,49,Columbus,OH,Electronics,Smartwatch,5,424.72,0.25,1592.7,536.71,Debit Card,2023-11-24,2023-11-30,4.0,No
+OD-1801,C-5481,Richard Davis,Male,23,Houston,TX,Electronics,Tablet,1,602.78,0.15,512.36,41.55,Cash on Delivery,2023-10-06,2023-10-08,4.5,No
+OD-1964,C-5389,  Elizabeth Jones  ,Female,61,Chicago,IL,Fashion,T-Shirt,3,78.2,0.25,175.95,39.95,Debit Card,2023-09-21,2023-09-29,4.0,Yes
+OD-1368,C-5025,Barbara Miller,Female,24,Philadelphia,PA,Electronics,Laptop,3,527.33,0.25,1186.49,93.6,UPI,2023-05-14,2023-05-20,3.5,No
+OD-1378,C-5306,,  Male  ,,new york,NY,Beauty  ,Self-Help Book,,,0.2,26.26,4.76,upi,2023-03-25,,,No 
+OD-1351,C-5377,Thomas Rodriguez,Male,60,Houston,TX,Sports,Dumbbells,4,53.89,0.05,204.78,16.4,Cash on Delivery,2023-07-25,2023-07-31,5.0,No
+OD-1874,C-5247,Michael Brown,Male,42,San Francisco,CA,Sports,Dumbbells,4,50.46,0.2,161.47,14.75,Net Banking,2023-03-02,2023-03-08,3.5,No
+OD-1309,C-5490,Betty Taylor,Female,26,Fort Worth,TX,Electronics,Bluetooth Speaker,6,296.23,0.15,1510.77,455.72,Net Banking,2023-09-18,2023-09-21,2.0,No
+OD-1778,C-5364,Mark Moore,Male,45,Philadelphia,PA,Home Decor,Wall Art,5,63.18,0.05,300.1,81.91,Net Banking,2023-11-13,2023-11-14,2.5,No
+OD-1603,C-5452,Joshua Thompson,Male,23,Los Angeles,CA,Books,Self-Help Book,4,22.05,0.25,-66.15,20.77,Cash on Delivery,2023-10-04,2023-10-09,2.5,No
+OD-1023,C-5343,Mary Smith,Female,33,Dallas,TX,Beauty,Moisturizer,6,34.37,0.15,175.29,25.39,Credit Card,2023-01-05,2023-01-13,1.5,No
